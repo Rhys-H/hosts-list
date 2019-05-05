@@ -31,6 +31,7 @@
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adsassets.waze.com
 127.0.0.1 ads.contextweb.com
@@ -56,6 +57,7 @@
 127.0.0.1 affiliate-program.amazon.co.uk
 127.0.0.1 ags-ext.amazon.com
 127.0.0.1 a.intentmedia.net
+127.0.0.1 ak1s.abmr.net
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 alb.reddit.com
@@ -93,6 +95,7 @@
 127.0.0.1 api.iris.tv
 127.0.0.1 api.keen.io
 127.0.0.1 api-mifit-de.huami.com
+127.0.0.1 api-mifit.huami.com
 127.0.0.1 api-mifit-us.huami.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api-mobi.soundcloud.com
@@ -110,14 +113,18 @@
 127.0.0.1 api.taboola.com
 127.0.0.1 api.treasuredata.com
 127.0.0.1 api.usebutton.com
+127.0.0.1 api-user-de.huami.com
+127.0.0.1 api-user.huami.com
 127.0.0.1 api.vanilla.futurecdn.net
 127.0.0.1 api.vip.miui.com
+127.0.0.1 api-watch-de.huami.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-cdn.spot.im
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 app.fing.io
+127.0.0.1 app.launchdarkly.com
 127.0.0.1 app.link
 127.0.0.1 app-measurement.com
 127.0.0.1 a.pub.network
@@ -155,6 +162,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beam.koddi.com
 127.0.0.1 bethesda.net
 127.0.0.1 b-graph.facebook.com
@@ -226,6 +234,7 @@
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 cdn.tt.omtrdc.net
+127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.ywxi.net
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 cds.j3z9t3p6.hwcdn.net
@@ -245,8 +254,10 @@
 127.0.0.1 click.linksynergy.com
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client-event-reporter.twitch.tv
+127.0.0.1 client.perimeterx.net
 127.0.0.1 client-s.gateway.messenger.live.com
 127.0.0.1 c.live.com
+127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cmp.network-n.com
 127.0.0.1 cms.analytics.yahoo.com
@@ -312,6 +323,7 @@
 127.0.0.1 device-messaging-na.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 digprjsurvey.amazon.eu
 127.0.0.1 discountcode.dailymail.co.uk
@@ -418,7 +430,9 @@
 127.0.0.1 hackforums.net
 127.0.0.1 hawk.pcgamer.com
 127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 hb.vntsm.com
 127.0.0.1 hello.myfonts.net
+127.0.0.1 hexagon-analytics.com
 127.0.0.1 hits-secure.theguardian.com
 127.0.0.1 hollywoodlife.com
 127.0.0.1 hotels.com
@@ -533,6 +547,7 @@
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 origin-analytics-sand.sandbox.braintree-api.com
+127.0.0.1 o.ss2.us
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 out.reddit.com
 127.0.0.1 pad-v3.presage.io
@@ -591,9 +606,11 @@
 127.0.0.1 r1---sn-aigl6ney.googlevideo.com
 127.0.0.1 r1---sn-aigzrn76.googlevideo.com
 127.0.0.1 r1---sn-aigzrn7l.googlevideo.com
+127.0.0.1 r1---sn-q4fl6n7l.googlevideo.com
 127.0.0.1 r2-pc-stats.stryder.respawn.com
 127.0.0.1 r2---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r2---sn-5hne6nlk.googlevideo.com
+127.0.0.1 r2---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r2---sn-aigl6n7z.googlevideo.com
 127.0.0.1 r2---sn-aigl6ney.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7e.googlevideo.com
@@ -614,6 +631,7 @@
 127.0.0.1 r5---sn-aigl6nl7.googlevideo.com
 127.0.0.1 r5---sn-aigs6n7y.googlevideo.com
 127.0.0.1 r5---sn-aigzrn7s.googlevideo.com
+127.0.0.1 r6---sn-ab5l6nzk.googlevideo.com
 127.0.0.1 r6---sn-aigs6n7y.googlevideo.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarsubmissions.apple.com
@@ -659,7 +677,9 @@
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 secure-dcr.imrworldwide.com
+127.0.0.1 secure-gg.imrworldwide.com
 127.0.0.1 secure.gravatar.com
+127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secure.quantserve.com
@@ -681,6 +701,7 @@
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 smetrics.tesco.com
+127.0.0.1 smodus.nike.com
 127.0.0.1 snippets.cdn.mozilla.net
 127.0.0.1 s.ntv.io
 127.0.0.1 spade.twitch.tv
@@ -708,8 +729,10 @@
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.facebook.com
+127.0.0.1 static.getclicky.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.scroll.com
+127.0.0.1 statics.streamable.com
 127.0.0.1 staticw2.yotpo.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.zotabox.com
@@ -718,6 +741,7 @@
 127.0.0.1 statse.webtrendslive.com
 127.0.0.1 statsfe2.update.microsoft.com
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.windscribe.com
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
@@ -755,9 +779,11 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
+127.0.0.1 t.myvisualiq.net
 127.0.0.1 todo-ta-g7g.amazon.com
 127.0.0.1 tom.itv.com
 127.0.0.1 toots-a.akamaihd.net
+127.0.0.1 t.paypal.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 tracker.nitropay.com
@@ -765,6 +791,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 tracking.serverlessteam.com
+127.0.0.1 track.sp.crdl.io
 127.0.0.1 treasuredata.com
 127.0.0.1 t.reshell.io
 127.0.0.1 tr.iadsdk.apple.com
@@ -777,6 +804,7 @@
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 uhf.microsoft.com
 127.0.0.1 uktc.ijento.com
+127.0.0.1 u.openx.net
 127.0.0.1 upgrade.scdn.co
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usc.adserver.snapads.com
@@ -813,6 +841,7 @@
 127.0.0.1 widgets.stackcommerce.com
 127.0.0.1 widget.trustpilot.com
 127.0.0.1 wifiapi.micloud.xiaomi.net
+127.0.0.1 wikia-d.openx.net
 127.0.0.1 ws3.hotjar.com
 127.0.0.1 wsp.mgid.com
 127.0.0.1 ws.pusherapp.com
