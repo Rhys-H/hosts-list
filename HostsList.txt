@@ -439,7 +439,6 @@
 127.0.0.1 edigitalsurvey.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 en-gb.facebook.com
-127.0.0.1 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 127.0.0.1 epsxe.com
 127.0.0.1 e.reddit.com
 127.0.0.1 errors.client.optimizely.com
