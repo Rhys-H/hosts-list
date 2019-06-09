@@ -90,6 +90,7 @@
 127.0.0.1 analytics.jibecdn.com
 127.0.0.1 analytics.justuno.com
 127.0.0.1 analytics.localytics.com
+127.0.0.1 analytics.logsss.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.nike.com
 127.0.0.1 analytics.ooyala.com
@@ -164,6 +165,7 @@
 127.0.0.1 as.casalemedia.com
 127.0.0.1 asoscomltd.tt.omtrdc.net
 127.0.0.1 as-sec.casalemedia.com
+127.0.0.1 asset.pagefair.com
 127.0.0.1 assets1.adroll.com
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.context.ly
@@ -187,6 +189,7 @@
 127.0.0.1 batch.upsight-api.com
 127.0.0.1 bcdn-16c9d93d.we-stats.com
 127.0.0.1 bclays-ads.aimatch.com
+127.0.0.1 bc.marfeel.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdg-analytics.appspot.com
 127.0.0.1 beacon.direct.asda.com
@@ -297,6 +300,7 @@
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagcommander.com
 127.0.0.1 cdn.teads.tv
+127.0.0.1 cdn.threadloom.com
 127.0.0.1 cdn.tinypass.com
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.treasuredata.com
@@ -320,6 +324,7 @@
 127.0.0.1 chimpstatic.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clc.stackoverflow.com
+127.0.0.1 cleantalk.org
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
@@ -371,6 +376,7 @@
 127.0.0.1 ct.pinterest.com
 127.0.0.1 curse-d.openx.net
 127.0.0.1 c.webtrends.com
+127.0.0.1 cws.conviva.com
 127.0.0.1 cx.atdmt.com
 127.0.0.1 cz15y20kg2.execute-api.us-east-1.amazonaws.com
 127.0.0.1 d10lpsik1i8c69.cloudfront.net
@@ -442,6 +448,7 @@
 127.0.0.1 dw.cbsi.com
 127.0.0.1 d.xp1.ru4.com
 127.0.0.1 e1151.e12.akamaiedge.net
+127.0.0.1 e6913.dscx.akamaiedge.net
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edge1.certona.net
@@ -458,6 +465,7 @@
 127.0.0.1 epsxe.com
 127.0.0.1 e.reddit.com
 127.0.0.1 errors.client.optimizely.com
+127.0.0.1 espn.hb.omtrdc.net
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
 127.0.0.1 eus.rubiconproject.com
@@ -466,6 +474,7 @@
 127.0.0.1 eventlogger.soundcloud.com
 127.0.0.1 events.api.boomtrain.com
 127.0.0.1 events.appsflyer.com
+127.0.0.1 events.browsiprod.com
 127.0.0.1 events-collector.spot.im
 127.0.0.1 events.gfe.nvidia.com
 127.0.0.1 events.redditmedia.com
@@ -495,6 +504,7 @@
 127.0.0.1 frank-comp-na.amazon.com
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
+127.0.0.1 fs.microsoft.com
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 ftvr-na.amazon.com
 127.0.0.1 fx.nvc.engb.nuancemobility.net
@@ -674,11 +684,13 @@
 127.0.0.1 msh.amazon.com
 127.0.0.1 msh.amazon.co.uk
 127.0.0.1 m.skimresources.com
+127.0.0.1 mssl.fwmrm.net
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 mybestdc.com
 127.0.0.1 mybestmv.com
+127.0.0.1 nameberry.com
 127.0.0.1 nativesdks.mparticle.com
 127.0.0.1 native.sharethrough.com
 127.0.0.1 new.api.ad.xiaomi.com
@@ -761,6 +773,7 @@
 127.0.0.1 profile.localytics.com
 127.0.0.1 promo.fing.io
 127.0.0.1 proton.flurry.com
+127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.typekit.net
 127.0.0.1 pubads.g.doubleclick.net
@@ -897,6 +910,7 @@
 127.0.0.1 secure.widget.cloud.opta.net
 127.0.0.1 segment-data.zqtk.net
 127.0.0.1 self.events.data.microsoft.com
+127.0.0.1 se.monetate.net
 127.0.0.1 sendbird.reddit.com
 127.0.0.1 sentry.io
 127.0.0.1 servedby.flashtalking.com
@@ -953,6 +967,7 @@
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.olark.com
+127.0.0.1 statics.a8.net
 127.0.0.1 static.scroll.com
 127.0.0.1 statics.streamable.com
 127.0.0.1 staticw2.yotpo.com
@@ -972,6 +987,7 @@
 127.0.0.1 s.telegraph.co.uk
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 storage.cloud.kargo.com
+127.0.0.1 storage.googleapis.com
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 sumo.com
@@ -986,7 +1002,9 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
+127.0.0.1 t1.stormiq.com
 127.0.0.1 tag.bounceexchange.com
+127.0.0.1 tag.crsspxl.com
 127.0.0.1 tagger.opecloud.com
 127.0.0.1 tag.imonomy.com
 127.0.0.1 tag.mtrcs.samba.tv
@@ -1030,6 +1048,7 @@
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 tracking.serverlessteam.com
 127.0.0.1 track.sp.crdl.io
+127.0.0.1 track.webgains.com
 127.0.0.1 treasuredata.com
 127.0.0.1 t.reshell.io
 127.0.0.1 tr.iadsdk.apple.com
@@ -1044,6 +1063,7 @@
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 uhf.microsoft.com
+127.0.0.1 uid.mavencoalition.io
 127.0.0.1 uktc.ijento.com
 127.0.0.1 u.openx.net
 127.0.0.1 upgrade.scdn.co
@@ -1107,11 +1127,13 @@
 127.0.0.1 www.alexa.com
 127.0.0.1 www.awin1.com
 127.0.0.1 www.baidu.com
+127.0.0.1 www.barilliance.net
 127.0.0.1 www.bizographics.com
 127.0.0.1 www.checkip.org
 127.0.0.1 www.cosmopolitan.com
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.dwin1.com
+127.0.0.1 www.econda-monitor.de
 127.0.0.1 www.example.com
 127.0.0.1 www.express.co.uk
 127.0.0.1 www.googleadservices.com
@@ -1124,6 +1146,7 @@
 127.0.0.1 www.kqzyfj.com
 127.0.0.1 www.lgbtqnation.com
 127.0.0.1 www.lightboxcdn.com
+127.0.0.1 www.name-statistics.org
 127.0.0.1 www.npttech.com
 127.0.0.1 www.orbitz.com
 127.0.0.1 www.pinterest.com
@@ -1135,6 +1158,7 @@
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
 127.0.0.1 www.ultimedia.com
+127.0.0.1 www.upsellit.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.zergnet.com
 127.0.0.1 www.zombo.com
