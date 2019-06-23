@@ -162,6 +162,7 @@
 127.0.0.1 app-cdn.spot.im
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 app.fing.io
+127.0.0.1 app.hubspot.com
 127.0.0.1 app.launchdarkly.com
 127.0.0.1 app.link
 127.0.0.1 app-measurement.com
@@ -180,6 +181,7 @@
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.purch.com
 127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 at.atwola.com
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 autodiscover.admiralgroup.co.uk
@@ -316,6 +318,7 @@
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 cdn.tt.omtrdc.net
+127.0.0.1 cdn.vidible.tv
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.ywxi.net
 127.0.0.1 cdn.ziffstatic.com
@@ -410,6 +413,7 @@
 127.0.0.1 d3tsytm1wtjqo2.cloudfront.net
 127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
+127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9etzk30b05yg.cloudfront.net
 127.0.0.1 d.agkn.com
 127.0.0.1 d.appsdt.com
@@ -492,6 +496,7 @@
 127.0.0.1 events.mapbox.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 events.streamrail.net
+127.0.0.1 events.whisk.com
 127.0.0.1 ew3.io
 127.0.0.1 external.fbrs1-2.fna.fbcdn.net
 127.0.0.1 famousbirthdays-d.openx.net
@@ -518,6 +523,7 @@
 127.0.0.1 frank-comp-na.amazon.com
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
+127.0.0.1 frog.wix.com
 127.0.0.1 fs.microsoft.com
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 ftvr-na.amazon.com
@@ -538,6 +544,7 @@
 127.0.0.1 geofence.sys.miui.com
 127.0.0.1 geoip-db.com
 127.0.0.1 geoip.fing.io
+127.0.0.1 geolocation.onetrust.com
 127.0.0.1 geoservice.curse.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 gfwsl.geforce.com
@@ -621,6 +628,7 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
 127.0.0.1 js.gleam.io
+127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.leadin.com
 127.0.0.1 js.logentries.com
@@ -629,6 +637,7 @@
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 jsso.indiatimes.com
 127.0.0.1 js.spotx.tv
+127.0.0.1 js.stripe.com
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
@@ -685,6 +694,7 @@
 127.0.0.1 mercury.itv.com
 127.0.0.1 messaging-director-us-east-1.amazon.com
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
 127.0.0.1 mgepodownload.mediatek.com
 127.0.0.1 micloud.xiaomi.net
@@ -732,6 +742,7 @@
 127.0.0.1 open-api.spot.im
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 origin-analytics-sand.sandbox.braintree-api.com
 127.0.0.1 o.ss2.us
 127.0.0.1 ots.optimize.webtrends.com
@@ -792,6 +803,7 @@
 127.0.0.1 profile.localytics.com
 127.0.0.1 promo.fing.io
 127.0.0.1 proton.flurry.com
+127.0.0.1 pr.realvu.net
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.typekit.net
@@ -924,6 +936,7 @@
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure-gg.imrworldwide.com
 127.0.0.1 secure.gravatar.com
+127.0.0.1 secure.imrworldwide.com
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -937,6 +950,7 @@
 127.0.0.1 se.monetate.net
 127.0.0.1 sendbird.reddit.com
 127.0.0.1 sentry.io
+127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 service.maxymiser.net
 127.0.0.1 services.gfe.nvidia.com
@@ -952,6 +966,7 @@
 127.0.0.1 single.upsight-api.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjs.bizographics.com
+127.0.0.1 smct.co
 127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 smetrics.tesco.com
 127.0.0.1 smodus.nike.com
@@ -1014,6 +1029,7 @@
 127.0.0.1 storage.cloud.kargo.com
 127.0.0.1 storage.googleapis.com
 127.0.0.1 streamamp-d.openx.net
+127.0.0.1 stripecdn.map.fastly.net
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 sumo.com
 127.0.0.1 survey.g.doubleclick.net
@@ -1024,6 +1040,7 @@
 127.0.0.1 swa.metro.co.uk
 127.0.0.1 s.w.org
 127.0.0.1 sw.symcd.com
+127.0.0.1 sync.bfmio.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
@@ -1072,6 +1089,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 tracking.serverlessteam.com
+127.0.0.1 track.mvhop.com
 127.0.0.1 track.sp.crdl.io
 127.0.0.1 track.webgains.com
 127.0.0.1 treasuredata.com
@@ -1093,6 +1111,7 @@
 127.0.0.1 uktc.ijento.com
 127.0.0.1 u.openx.net
 127.0.0.1 upgrade.scdn.co
+127.0.0.1 urs.cnet.com
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 user.huami.com
@@ -1119,6 +1138,7 @@
 127.0.0.1 vsp-alexa-eu.amazon.com
 127.0.0.1 vt.myvisualiq.net
 127.0.0.1 watchersonthewall.com
+127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 web.btncdn.com
 127.0.0.1 web-frontend-dot-sc-analytics.appspot.com
