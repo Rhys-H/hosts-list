@@ -23,6 +23,7 @@
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 abeagle-public.buzzfeed.com
 127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 abtest.mistat.xiaomi.com
@@ -89,6 +90,7 @@
 127.0.0.1 a.mstrlytcs.com
 127.0.0.1 amzn.to
 127.0.0.1 analytics.brave.com
+127.0.0.1 analytics.getshogun.com
 127.0.0.1 analytics.global.sky.com
 127.0.0.1 analytics.jibecdn.com
 127.0.0.1 analytics.justuno.com
@@ -165,6 +167,7 @@
 127.0.0.1 app.hubspot.com
 127.0.0.1 app.launchdarkly.com
 127.0.0.1 app.link
+127.0.0.1 app-lon08.marketo.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
@@ -190,6 +193,7 @@
 127.0.0.1 avs.eu.amazonalexa.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 az690879.vo.msecnd.net
+127.0.0.1 az725175.vo.msecnd.net
 127.0.0.1 badges.instagram.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 banner.advertising.com
@@ -213,6 +217,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacon-v2.helpscout.net
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.koddi.com
@@ -263,6 +268,7 @@
 127.0.0.1 cc.sys.miui.com
 127.0.0.1 c.disquscdn.com.cdn.cloudflare.net
 127.0.0.1 cdn2.hubspot.net
+127.0.0.1 cdn-3.convertexperiments.com
 127.0.0.1 cdn3.optimizely.com
 127.0.0.1 cdn4.mxpnl.com
 127.0.0.1 cdn5.userzoom.com
@@ -430,6 +436,7 @@
 127.0.0.1 delivery-europe-west-1.openx.net
 127.0.0.1 delivery.g.switchadhub.com
 127.0.0.1 delivery.swid.switchadhub.com
+127.0.0.1 desiredirt.com
 127.0.0.1 dev.appboy.com
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 device-messaging-na.amazon.com
@@ -539,6 +546,7 @@
 127.0.0.1 gb.rdx2.lgtvsdp.com
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gcs.sc-cdn.net
+127.0.0.1 geni.us
 127.0.0.1 geo3.ggpht.com
 127.0.0.1 geocode.usefomo.com
 127.0.0.1 geofence.sys.miui.com
@@ -549,6 +557,7 @@
 127.0.0.1 geo.yahoo.com
 127.0.0.1 gfwsl.geforce.com
 127.0.0.1 gha.ebay.com
+127.0.0.1 gleam.io
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 gmail-smtp-in.l.google.com
 127.0.0.1 go.affec.tv
@@ -700,6 +709,7 @@
 127.0.0.1 micloud.xiaomi.net
 127.0.0.1 miui.com
 127.0.0.1 miui.net
+127.0.0.1 ml314.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -715,6 +725,7 @@
 127.0.0.1 m.skimresources.com
 127.0.0.1 mssl.fwmrm.net
 127.0.0.1 mtrx.go.sonobi.com
+127.0.0.1 munchkin.marketo.net
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 mybestdc.com
@@ -745,6 +756,7 @@
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 origin-analytics-sand.sandbox.braintree-api.com
 127.0.0.1 o.ss2.us
+127.0.0.1 otnolatrnup.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 out.reddit.com
 127.0.0.1 pad-v3.presage.io
@@ -760,6 +772,7 @@
 127.0.0.1 phar.gu-web.net
 127.0.0.1 phonograph2.voxmedia.com
 127.0.0.1 photos-ugc.l.googleusercontent.com
+127.0.0.1 p.imgur.com
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-dot-acp-magento.appspot.com
 127.0.0.1 pinterest.com
@@ -970,6 +983,7 @@
 127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 smetrics.tesco.com
 127.0.0.1 smodus.nike.com
+127.0.0.1 snap.licdn.com
 127.0.0.1 snippets.cdn.mozilla.net
 127.0.0.1 s.ntv.io
 127.0.0.1 sofia.trustx.org
@@ -995,6 +1009,7 @@
 127.0.0.1 s.symcd.com
 127.0.0.1 stag.mdotlabs.com
 127.0.0.1 stags.bluekai.com
+127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 stat.dealtime.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.ads-twitter.com
@@ -1092,6 +1107,7 @@
 127.0.0.1 track.mvhop.com
 127.0.0.1 track.sp.crdl.io
 127.0.0.1 track.webgains.com
+127.0.0.1 traffic.megaphone.fm
 127.0.0.1 treasuredata.com
 127.0.0.1 t.reshell.io
 127.0.0.1 tr.iadsdk.apple.com
@@ -1166,6 +1182,7 @@
 127.0.0.1 ws.pusherapp.com
 127.0.0.1 ws.sessioncam.com
 127.0.0.1 ws.sharethis.com
+127.0.0.1 w.usabilla.com
 127.0.0.1 wwd.com
 127.0.0.1 www3.l.google.com
 127.0.0.1 www5.smartadserver.com
@@ -1203,8 +1220,10 @@
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
+127.0.0.1 www.tryzens-analytics.com
 127.0.0.1 www.ultimedia.com
 127.0.0.1 www.upsellit.com
+127.0.0.1 www.viglink.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.zergnet.com
 127.0.0.1 www.zombo.com
