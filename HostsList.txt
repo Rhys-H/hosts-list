@@ -86,6 +86,7 @@
 127.0.0.1 amplify.outbrain.com
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 ampmetrics.techcrunch.com
+127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 127.0.0.1 a.mstrlytcs.com
 127.0.0.1 amzn.to
@@ -239,6 +240,7 @@
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
 127.0.0.1 bootstrap.upsight-api.com
 127.0.0.1 browser.pipe.aria.microsoft.com
+127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 browser-update.org
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b.sli-spark.com
@@ -343,6 +345,7 @@
 127.0.0.1 cf-particle-html.eip.telegraph.co.uk
 127.0.0.1 cgi.connect.qq.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 channel4.com.ssl.sc.omtrdc.net
 127.0.0.1 channel4-test.testonly.conviva.com
 127.0.0.1 chart.googleapis.com
 127.0.0.1 chimpstatic.com
@@ -378,6 +381,7 @@
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.ioam.de
 127.0.0.1 config.safedk.com
+127.0.0.1 connect.facebook.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 consent.cmp.oath.com
 127.0.0.1 consent.truste.com
@@ -406,6 +410,7 @@
 127.0.0.1 cz15y20kg2.execute-api.us-east-1.amazonaws.com
 127.0.0.1 d10lpsik1i8c69.cloudfront.net
 127.0.0.1 d15kdpgjg3unno.cloudfront.net
+127.0.0.1 d17fy28x8ov4h8.cloudfront.net
 127.0.0.1 d1af033869koo7.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
@@ -435,6 +440,7 @@
 127.0.0.1 dcape-na.amazon.com
 127.0.0.1 dco.quantserve.com
 127.0.0.1 dc.services.visualstudio.com
+127.0.0.1 dd6zx4ibq538k.cloudfront.net
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 de.ioam.de
 127.0.0.1 delivery-europe-west-1.openx.net
@@ -449,6 +455,7 @@
 127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 digprjsurvey.amazon.eu
+127.0.0.1 d.impactradius-event.com
 127.0.0.1 discountcode.dailymail.co.uk
 127.0.0.1 discovery.analytics.zion.idtech.services
 127.0.0.1 dis.criteo.com
@@ -634,6 +641,7 @@
 127.0.0.1 iphone-services.apple.com
 127.0.0.1 iphonesubmissions.apple.com
 127.0.0.1 ipinfo.io
+127.0.0.1 iploc.tryzens-analytics.com
 127.0.0.1 i.po.st
 127.0.0.1 ir0.mobify.com
 127.0.0.1 is.gd
@@ -642,6 +650,7 @@
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
+127.0.0.1 js.braintreegateway.com
 127.0.0.1 js.gleam.io
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
@@ -731,6 +740,7 @@
 127.0.0.1 msh.amazon.co.uk
 127.0.0.1 m.skimresources.com
 127.0.0.1 mssl.fwmrm.net
+127.0.0.1 m.stripe.network
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 m.yap.yahoo.com
@@ -921,6 +931,7 @@
 127.0.0.1 r.skimresources.com
 127.0.0.1 rta2.metro.co.uk
 127.0.0.1 rtax.criteo.com
+127.0.0.1 rtb.districtm.io
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.optimizely.com
@@ -983,10 +994,12 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.data.microsoft.com
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 sgali-mcs.byteoversea.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.gravatar.com
 127.0.0.1 shareasale-analytics.com
 127.0.0.1 shared1.ad-lister.co.uk
+127.0.0.1 shared.65twenty.com
 127.0.0.1 shavar.prod.mozaws.net
 127.0.0.1 shopify.privy.com
 127.0.0.1 single.upsight-api.com
@@ -1024,6 +1037,7 @@
 127.0.0.1 stags.bluekai.com
 127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 stat.dealtime.com
+127.0.0.1 static1.spilcdn.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.ads-twitter.com
@@ -1043,6 +1057,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.zotabox.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 stats-assets.trustpilot.com
 127.0.0.1 stats.bbc.co.uk
 127.0.0.1 stats-bq.stylight.net
 127.0.0.1 statse.webtrendslive.com
@@ -1169,6 +1184,7 @@
 127.0.0.1 v.shopify.com
 127.0.0.1 vsp-alexa-eu.amazon.com
 127.0.0.1 vt.myvisualiq.net
+127.0.0.1 v-track.net
 127.0.0.1 watchersonthewall.com
 127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
@@ -1239,6 +1255,7 @@
 127.0.0.1 www.tryzens-analytics.com
 127.0.0.1 www.ultimedia.com
 127.0.0.1 www.upsellit.com
+127.0.0.1 www.videolan.org
 127.0.0.1 www.viglink.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.zergnet.com
@@ -1255,3 +1272,4 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystems.com
+127.0.0.1 z-p42-instagram.c10r.facebook.com
