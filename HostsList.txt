@@ -114,12 +114,14 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 anon-stats.eff.org
+127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optnmnstr.com
 127.0.0.1 api.account.xiaomi.com
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.airbrake.io
 127.0.0.1 api.amplitude.com
+127.0.0.1 api-analytics-de.huami.com
 127.0.0.1 api.b2c.com
 127.0.0.1 api.branch.io
 127.0.0.1 api.d.xiaomi.com
@@ -237,6 +239,7 @@
 127.0.0.1 boards.4chan.org
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
 127.0.0.1 bootstrap.upsight-api.com
+127.0.0.1 brightcove.map.fastly.net
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser-update.org
 127.0.0.1 b.scorecardresearch.com
@@ -340,6 +343,7 @@
 127.0.0.1 c.evidon.com
 127.0.0.1 cf.iadsdk.apple.com
 127.0.0.1 cf-particle-html.eip.telegraph.co.uk
+127.0.0.1 cfvod.kaltura.com
 127.0.0.1 cgi.connect.qq.com
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 channel4-test.testonly.conviva.com
@@ -362,6 +366,7 @@
 127.0.0.1 c.live.com
 127.0.0.1 cloudapi.imrworldwide.com
 127.0.0.1 cloudfront-labs.amazonaws.com
+127.0.0.1 c.lytics.io
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cmp.network-n.com
@@ -371,6 +376,7 @@
 127.0.0.1 cognito-identity.us-east-1.amazonaws.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collector.githubapp.com
+127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 collector.newrelic.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
@@ -728,6 +734,7 @@
 127.0.0.1 msh.amazon.co.uk
 127.0.0.1 m.skimresources.com
 127.0.0.1 mssl.fwmrm.net
+127.0.0.1 m.stripe.network
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 m.yap.yahoo.com
@@ -773,6 +780,7 @@
 127.0.0.1 p.cpx.to
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 perf-events.cloud.unity3d.com
+127.0.0.1 perf.logsss.com
 127.0.0.1 perr.h-cdn.com
 127.0.0.1 phar.gu-web.net
 127.0.0.1 phonograph2.voxmedia.com
@@ -917,6 +925,7 @@
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rules.quantcount.com
+127.0.0.1 rum.logsss.com
 127.0.0.1 rum.optimizely.com
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 s0.2mdn.net
@@ -972,6 +981,7 @@
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 service.maxymiser.net
+127.0.0.1 services.fandom.com
 127.0.0.1 services.gfe.nvidia.com
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 settings.crashlytics.com
@@ -987,6 +997,7 @@
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 smct.co
 127.0.0.1 s-media-cache-ak0.pinimg.com
+127.0.0.1 smetrics.element14.com
 127.0.0.1 smetrics.tesco.com
 127.0.0.1 smodus.nike.com
 127.0.0.1 snap.licdn.com
@@ -1042,6 +1053,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.pusher.com
+127.0.0.1 stats.usefomo.com
 127.0.0.1 stats.windscribe.com
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
@@ -1105,6 +1117,7 @@
 127.0.0.1 t.purch.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 track.adform.net
+127.0.0.1 trackcmp.net
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.nitropay.com
 127.0.0.1 tracking.epicgames.com
@@ -1116,12 +1129,14 @@
 127.0.0.1 track.webgains.com
 127.0.0.1 traffic.megaphone.fm
 127.0.0.1 treasuredata.com
+127.0.0.1 tredir.go.com
 127.0.0.1 t.reshell.io
 127.0.0.1 tr.iadsdk.apple.com
 127.0.0.1 trinitymirror.grapeshot.co.uk
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trowel.twitch.tv
 127.0.0.1 tr.snapchat.com
+127.0.0.1 try.abtasty.com
 127.0.0.1 t.teads.tv
 127.0.0.1 tuiuk.d1.sc.omtrdc.net
 127.0.0.1 tvline.com
@@ -1144,6 +1159,7 @@
 127.0.0.1 variety.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.streamrail.net
+127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venues.waze.com
 127.0.0.1 vice-useast.gscontxt.net
 127.0.0.1 video-ad-stats.googlesyndication.com
@@ -1232,6 +1248,7 @@
 127.0.0.1 www.ultimedia.com
 127.0.0.1 www.upsellit.com
 127.0.0.1 www.viglink.com
+127.0.0.1 www.weebly.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.zergnet.com
 127.0.0.1 www.zombo.com
