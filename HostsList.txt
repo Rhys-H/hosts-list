@@ -8,6 +8,7 @@
 127.0.0.1 2-edge-chat.facebook.com
 127.0.0.1 3-edge-chat.facebook.com
 127.0.0.1 3p.ampproject.net
+127.0.0.1 4645336.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
 127.0.0.1 4-edge-chat.facebook.com
 127.0.0.1 5-edge-chat.facebook.com
@@ -40,6 +41,7 @@
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adlog.flurry.com
+127.0.0.1 ado.pro-market.net
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 adsassets.waze.com
 127.0.0.1 ads.contextweb.com
@@ -65,6 +67,7 @@
 127.0.0.1 advertising.amazon.com
 127.0.0.1 advertising.amazon.co.uk
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 ae01.alicdn.com
 127.0.0.1 ae.pubmatic.com
 127.0.0.1 affiliate-program.amazon.com
 127.0.0.1 affiliate-program.amazon.co.uk
@@ -89,6 +92,7 @@
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 127.0.0.1 a.mstrlytcs.com
 127.0.0.1 amzn.to
+127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics-api.cloudinary.com
 127.0.0.1 analytics.brave.com
 127.0.0.1 analytics.getshogun.com
@@ -155,6 +159,7 @@
 127.0.0.1 api-user.huami.com
 127.0.0.1 api-user-us.huami.com
 127.0.0.1 api.vanilla.futurecdn.net
+127.0.0.1 api.viglink.com
 127.0.0.1 api.vip.miui.com
 127.0.0.1 api-watch-de.huami.com
 127.0.0.1 api-watch-us.huami.com
@@ -173,6 +178,7 @@
 127.0.0.1 app.link
 127.0.0.1 app-lon08.marketo.com
 127.0.0.1 app-measurement.com
+127.0.0.1 app.redretarget.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
 127.0.0.1 arcus-uswest.amazon.com
@@ -189,6 +195,7 @@
 127.0.0.1 assets.purch.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 at.atwola.com
+127.0.0.1 a.teads.tv
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 autodiscover.admiralgroup.co.uk
@@ -221,6 +228,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacon.shazam.com
 127.0.0.1 beacon-v2.helpscout.net
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beam.hlserve.com
@@ -283,6 +291,7 @@
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.bestreviews.com
 127.0.0.1 cdn.bibblio.org
+127.0.0.1 cdn.bizible.com
 127.0.0.1 cdn.boomtrain.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.connatix.com
@@ -308,6 +317,7 @@
 127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.optimizely.com
 127.0.0.1 cdn.permutive.com
+127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.rdshll.com
 127.0.0.1 cdn.roiq-vice.ranker.com
@@ -316,7 +326,6 @@
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdns.eu1.gigya.com
-127.0.0.1 cdns.gigya.com
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.spotxcdn.com
 127.0.0.1 cdn.ss.anno.channel4.com
@@ -330,6 +339,7 @@
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 cdn.tt.omtrdc.net
+127.0.0.1 cdn.tynt.com
 127.0.0.1 cdn.vidible.tv
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.ywxi.net
@@ -350,14 +360,17 @@
 127.0.0.1 chart.googleapis.com
 127.0.0.1 chimpstatic.com
 127.0.0.1 chng.it
+127.0.0.1 ck.connatix.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clc.stackoverflow.com
 127.0.0.1 cleantalk.org
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
+127.0.0.1 click.link.reebok.com
 127.0.0.1 click.linksynergy.com
 127.0.0.1 click.mail.centaurmedia.com
+127.0.0.1 click.oneplus.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client-event-reporter.twitch.tv
@@ -365,6 +378,7 @@
 127.0.0.1 client-s.gateway.messenger.live.com
 127.0.0.1 c.live.com
 127.0.0.1 cloudapi.imrworldwide.com
+127.0.0.1 cloudflare.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 c.lytics.io
 127.0.0.1 cm.adgrx.com
@@ -382,8 +396,10 @@
 127.0.0.1 completion.amazon.com
 127.0.0.1 completion.amazon.co.uk
 127.0.0.1 config2.mparticle.com
+127.0.0.1 config.edge.skype.com
 127.0.0.1 config.ioam.de
 127.0.0.1 config.safedk.com
+127.0.0.1 connatix-d.openx.net
 127.0.0.1 connect.facebook.net
 127.0.0.1 consent.cmp.oath.com
 127.0.0.1 consent.truste.com
@@ -443,6 +459,7 @@
 127.0.0.1 dc.services.visualstudio.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 de.ioam.de
+127.0.0.1 delivery-cdn-cf.adswizz.com
 127.0.0.1 delivery-europe-west-1.openx.net
 127.0.0.1 delivery.g.switchadhub.com
 127.0.0.1 delivery.swid.switchadhub.com
@@ -483,6 +500,7 @@
 127.0.0.1 e1151.e12.akamaiedge.net
 127.0.0.1 e6913.dscx.akamaiedge.net
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 eb.trbas.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edge1.certona.net
 127.0.0.1 edge-block-www.traffic-test.dropbox-dns.com
@@ -505,6 +523,7 @@
 127.0.0.1 eu-u.openx.net
 127.0.0.1 euw.adserver.snapads.com
 127.0.0.1 eventlogger.soundcloud.com
+127.0.0.1 event.mi.com
 127.0.0.1 events.api.boomtrain.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 events.browsiprod.com
@@ -537,6 +556,7 @@
 127.0.0.1 fm.nvc.engb.nuancemobility.net
 127.0.0.1 fo-api.omnitagjs.com
 127.0.0.1 fontawesome-cdn.fonticons.netdna-cdn.com
+127.0.0.1 forms.aweber.com
 127.0.0.1 frank-comp-na.amazon.com
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
@@ -592,6 +612,7 @@
 127.0.0.1 guce.advertising.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 gurgle.zdbb.net
+127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 hackforums.net
 127.0.0.1 hawk.pcgamer.com
 127.0.0.1 hb.nexage.com
@@ -619,6 +640,7 @@
 127.0.0.1 i.facebook.com
 127.0.0.1 image.dhgate.com
 127.0.0.1 images2.imgbox.com
+127.0.0.1 images.dmca.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 incoming.telemetry.mozilla.org
@@ -646,7 +668,9 @@
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
+127.0.0.1 js.braintreegateway.com
 127.0.0.1 js.gleam.io
+127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.leadin.com
@@ -668,6 +692,7 @@
 127.0.0.1 launcher.spot.im
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
 127.0.0.1 lgtvonline.lge.com
+127.0.0.1 libs.coremetrics.com
 127.0.0.1 licensing.bitmovin.com
 127.0.0.1 links.services.disqus.com
 127.0.0.1 linuxbsdos.com
@@ -712,6 +737,7 @@
 127.0.0.1 media.webcollage.net
 127.0.0.1 mercury.itv.com
 127.0.0.1 messaging-director-us-east-1.amazon.com
+127.0.0.1 metrics.asos.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
@@ -734,6 +760,7 @@
 127.0.0.1 msh.amazon.co.uk
 127.0.0.1 m.skimresources.com
 127.0.0.1 mssl.fwmrm.net
+127.0.0.1 m.stripe.com
 127.0.0.1 m.stripe.network
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 munchkin.marketo.net
@@ -742,6 +769,7 @@
 127.0.0.1 mybestdc.com
 127.0.0.1 mybestmv.com
 127.0.0.1 nameberry.com
+127.0.0.1 napa.i.lithium.com
 127.0.0.1 nativesdks.mparticle.com
 127.0.0.1 native.sharethrough.com
 127.0.0.1 new.api.ad.xiaomi.com
@@ -763,6 +791,7 @@
 127.0.0.1 officeclient.microsoft.com
 127.0.0.1 oneclient.sfx.ms
 127.0.0.1 open-api.spot.im
+127.0.0.1 open.oneplus.net
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 opus.analytics.yahoo.com
@@ -920,6 +949,8 @@
 127.0.0.1 rover.ebay.com
 127.0.0.1 row-advil.waze.com
 127.0.0.1 rp.gwallet.com
+127.0.0.1 rpxnow.com
+127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
 127.0.0.1 rta2.metro.co.uk
 127.0.0.1 rtax.criteo.com
@@ -980,6 +1011,8 @@
 127.0.0.1 sentry.io
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedby.flashtalking.com
+127.0.0.1 servedby.o2.co.uk
+127.0.0.1 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 127.0.0.1 service.maxymiser.net
 127.0.0.1 services.fandom.com
 127.0.0.1 services.gfe.nvidia.com
@@ -1020,6 +1053,7 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ssl.p.jwpcdn.com
 127.0.0.1 sslwidget.criteo.com
+127.0.0.1 ssor.tribdss.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 ssp.lkqd.net
 127.0.0.1 s.swiftypecdn.com
@@ -1053,6 +1087,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.pusher.com
+127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.usefomo.com
 127.0.0.1 stats.windscribe.com
 127.0.0.1 stats.wordpress.com
@@ -1067,13 +1102,17 @@
 127.0.0.1 sumo.com
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 susapi.lenovomm.com
+127.0.0.1 s-usc1c-nss-233.firebaseio.com
 127.0.0.1 s.vertamedia.com
 127.0.0.1 sv.symcd.com
 127.0.0.1 swa.and.co.uk
 127.0.0.1 swa.metro.co.uk
+127.0.0.1 swc.cdn.skype.com
 127.0.0.1 s.w.org
 127.0.0.1 sw.symcd.com
 127.0.0.1 sync.bfmio.com
+127.0.0.1 synchrobox.adswizz.com
+127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
@@ -1116,6 +1155,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 t.purch.com
 127.0.0.1 track1.aniview.com
+127.0.0.1 track.33networks.com
 127.0.0.1 track.adform.net
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.marinsm.com
@@ -1227,6 +1267,7 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.himisspuff.com
 127.0.0.1 www.hxtrack.com
 127.0.0.1 www.ist-track.com
 127.0.0.1 www.justgiving.com
@@ -1256,7 +1297,10 @@
 127.0.0.1 xiaomi.com
 127.0.0.1 xiaomi.net
 127.0.0.1 x.skimresources.com
+127.0.0.1 yandex.st
+127.0.0.1 yastatic.net
 127.0.0.1 yen.appsfire.net
+127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 youtu.be
 127.0.0.1 ytimg-edge-static.l.google.com
 127.0.0.1 yt.moatads.com
