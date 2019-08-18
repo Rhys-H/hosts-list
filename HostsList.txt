@@ -35,6 +35,7 @@
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 a.cdn.intentmedia.net
 127.0.0.1 ad.360yield.com
+127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.doubleclick.net
@@ -43,6 +44,7 @@
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ado.pro-market.net
 127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 ads.api.vungle.com
 127.0.0.1 adsassets.waze.com
 127.0.0.1 ads.contextweb.com
 127.0.0.1 ads.ebay.com
@@ -241,6 +243,7 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bit.ly
+127.0.0.1 bitmovin.com
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 blocklists-settings.prod.mozaws.net
 127.0.0.1 bnc.lt
@@ -255,6 +258,7 @@
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 bugmenot.com
+127.0.0.1 bungie.net
 127.0.0.1 b.wal.co
 127.0.0.1 c0.wp.com
 127.0.0.1 c1.adform.net
@@ -360,6 +364,7 @@
 127.0.0.1 chart.googleapis.com
 127.0.0.1 chimpstatic.com
 127.0.0.1 chng.it
+127.0.0.1 c.jsrdn.com
 127.0.0.1 ck.connatix.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clc.stackoverflow.com
@@ -386,6 +391,7 @@
 127.0.0.1 cmp.network-n.com
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 code.createjs.com
+127.0.0.1 code.ionicframework.com
 127.0.0.1 code.jquery.com
 127.0.0.1 cognito-identity.us-east-1.amazonaws.com
 127.0.0.1 col.eum-appdynamics.com
@@ -395,13 +401,17 @@
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
 127.0.0.1 completion.amazon.co.uk
+127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.ioam.de
 127.0.0.1 config.safedk.com
+127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connatix-d.openx.net
 127.0.0.1 connect.facebook.net
+127.0.0.1 connect.tapjoy.com
 127.0.0.1 consent.cmp.oath.com
+127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent.truste.com
 127.0.0.1 contactapi.micloud.xiaomi.net
 127.0.0.1 content.webcollage.net
@@ -433,6 +443,7 @@
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d20i5e3rqc90ne.cloudfront.net
+127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d2bnxibecyz4h5.cloudfront.net
 127.0.0.1 d2c8v52ll5s99u.cloudfront.net
 127.0.0.1 d2gatte9o95jao.cloudfront.net
@@ -448,6 +459,7 @@
 127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9etzk30b05yg.cloudfront.net
 127.0.0.1 d.agkn.com
+127.0.0.1 d.applovin.com
 127.0.0.1 d.appsdt.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -557,6 +569,7 @@
 127.0.0.1 fo-api.omnitagjs.com
 127.0.0.1 fontawesome-cdn.fonticons.netdna-cdn.com
 127.0.0.1 forms.aweber.com
+127.0.0.1 fossbytes.com
 127.0.0.1 frank-comp-na.amazon.com
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
@@ -587,6 +600,7 @@
 127.0.0.1 geo.yahoo.com
 127.0.0.1 gfwsl.geforce.com
 127.0.0.1 gha.ebay.com
+127.0.0.1 g.ign.com
 127.0.0.1 gleam.io
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 gmail-smtp-in.l.google.com
@@ -756,6 +770,7 @@
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
 127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 ms.applovin.com
 127.0.0.1 msh.amazon.com
 127.0.0.1 msh.amazon.co.uk
 127.0.0.1 m.skimresources.com
@@ -823,6 +838,7 @@
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.app.returnpath.net
 127.0.0.1 pixel.condenastdigital.com
+127.0.0.1 pixel.convertize.io
 127.0.0.1 pixel.facebook.com
 127.0.0.1 pixel.keywee.co
 127.0.0.1 pixel.mathtag.com
@@ -831,6 +847,7 @@
 127.0.0.1 pixel.servebom.com
 127.0.0.1 pixels.omnitagjs.com
 127.0.0.1 pixel.spotify.com
+127.0.0.1 pixel-static.spotify.com
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 pixiedust.buzzfeed.com
@@ -851,6 +868,7 @@
 127.0.0.1 premierfarnell.tt.omtrdc.net
 127.0.0.1 prf.hn
 127.0.0.1 prime.amazon.eu
+127.0.0.1 privacy-policy.truste.com
 127.0.0.1 privacy.purch.com
 127.0.0.1 prod.amazoncrl.com
 127.0.0.1 prod.disqus.map.fastlylb.net
@@ -953,6 +971,7 @@
 127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
 127.0.0.1 rta2.metro.co.uk
+127.0.0.1 rt.applovin.com
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rules.quantcount.com
@@ -986,6 +1005,7 @@
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 seal.geotrust.com
 127.0.0.1 search.spotxchange.com
 127.0.0.1 secure.ace-tag.advertising.com
 127.0.0.1 secure.adnxs.com
@@ -1128,6 +1148,7 @@
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
 127.0.0.1 t.appsflyer.com
+127.0.0.1 tc.freehostedscripts.net
 127.0.0.1 t.co
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.dailymail.co.uk
@@ -1139,6 +1160,7 @@
 127.0.0.1 telemetry-in.battle.net
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.qms.quicinc.com
+127.0.0.1 tempest.services.disqus.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
@@ -1165,6 +1187,7 @@
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 tracking.serverlessteam.com
 127.0.0.1 track.mvhop.com
+127.0.0.1 track.shipstation.com
 127.0.0.1 track.sp.crdl.io
 127.0.0.1 track.webgains.com
 127.0.0.1 traffic.megaphone.fm
@@ -1219,6 +1242,7 @@
 127.0.0.1 watchersonthewall.com
 127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 wd.adcolony.com
 127.0.0.1 web.btncdn.com
 127.0.0.1 web-frontend-dot-sc-analytics.appspot.com
 127.0.0.1 web.hb.ad.cpe.dotomi.com
@@ -1275,6 +1299,7 @@
 127.0.0.1 www.lgbtqnation.com
 127.0.0.1 www.lightboxcdn.com
 127.0.0.1 www.name-statistics.org
+127.0.0.1 www.nintendo.ru
 127.0.0.1 www.npttech.com
 127.0.0.1 www.orbitz.com
 127.0.0.1 www.pinterest.com
@@ -1308,3 +1333,4 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystems.com
+127.0.0.1 z-p42-instagram.c10r.facebook.com
