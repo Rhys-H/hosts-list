@@ -97,6 +97,7 @@
 127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics-api.cloudinary.com
 127.0.0.1 analytics.brave.com
+127.0.0.1 analytics.foresee.com
 127.0.0.1 analytics.getshogun.com
 127.0.0.1 analytics.global.sky.com
 127.0.0.1 analytics.jibecdn.com
@@ -195,6 +196,7 @@
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.purch.com
+127.0.0.1 a-stat.appmifile.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 at.atwola.com
 127.0.0.1 a.teads.tv
@@ -477,6 +479,7 @@
 127.0.0.1 delivery.swid.switchadhub.com
 127.0.0.1 desiredirt.com
 127.0.0.1 dev.appboy.com
+127.0.0.1 device.4seeresults.com
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 device-messaging-na.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
@@ -613,6 +616,8 @@
 127.0.0.1 google-analytics.com
 127.0.0.1 googleapis.l.google.com
 127.0.0.1 googlehosted.l.googleusercontent.com
+127.0.0.1 googleleadservices.com
+127.0.0.1 googletagmanager.com
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
 127.0.0.1 go.redirectingat.com
@@ -747,6 +752,7 @@
 127.0.0.1 mb.moatads.com
 127.0.0.1 mc.yandex.ru
 127.0.0.1 media.complex.com
+127.0.0.1 media.flixfacts.com
 127.0.0.1 media.richrelevance.com
 127.0.0.1 media.webcollage.net
 127.0.0.1 mercury.itv.com
@@ -800,6 +806,7 @@
 127.0.0.1 nrdp.nccp.netflix.com
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
+127.0.0.1 o.aolcdn.com
 127.0.0.1 ocsp.apple.com
 127.0.0.1 ocsp.godaddy.com.akadns.net
 127.0.0.1 ocsp.sca1b.amazontrust.com
@@ -1014,6 +1021,7 @@
 127.0.0.1 secure-dcr.imrworldwide.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure-gg.imrworldwide.com
+127.0.0.1 secure-gl.imrworldwide.com
 127.0.0.1 secure.gravatar.com
 127.0.0.1 secure.imrworldwide.com
 127.0.0.1 secure.insightexpressai.com
@@ -1045,6 +1053,7 @@
 127.0.0.1 shareasale-analytics.com
 127.0.0.1 shared1.ad-lister.co.uk
 127.0.0.1 shavar.prod.mozaws.net
+127.0.0.1 sic.33across.com
 127.0.0.1 single.upsight-api.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjs.bizographics.com
@@ -1147,6 +1156,7 @@
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
+127.0.0.1 tapfiliate.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 tc.freehostedscripts.net
 127.0.0.1 t.co
