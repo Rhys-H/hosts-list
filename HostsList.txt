@@ -131,6 +131,7 @@
 127.0.0.1 api-analytics-de.huami.com
 127.0.0.1 api.b2c.com
 127.0.0.1 api.branch.io
+127.0.0.1 api.coinbase.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 api.facebook.com
 127.0.0.1 api.fing.io
@@ -182,6 +183,7 @@
 127.0.0.1 app-lon08.marketo.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.redretarget.com
+127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
 127.0.0.1 arcus-uswest.amazon.com
@@ -248,6 +250,7 @@
 127.0.0.1 bitmovin.com
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 blocklists-settings.prod.mozaws.net
+127.0.0.1 blog.counter-strike.net
 127.0.0.1 bnc.lt
 127.0.0.1 boards.4chan.org
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
@@ -374,6 +377,7 @@
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
+127.0.0.1 clickhole.com
 127.0.0.1 click.link.reebok.com
 127.0.0.1 click.linksynergy.com
 127.0.0.1 click.mail.centaurmedia.com
@@ -497,6 +501,7 @@
 127.0.0.1 dk98ddgl0znzm.cloudfront.net
 127.0.0.1 dmd.metaservices.microsoft.com
 127.0.0.1 downdetector.com
+127.0.0.1 download-stats.mozilla.org
 127.0.0.1 dp-discovery-na-ext.amazon.com
 127.0.0.1 dp-gw-na.amazon.com
 127.0.0.1 dpm.demdex.net
@@ -515,7 +520,9 @@
 127.0.0.1 e1151.e12.akamaiedge.net
 127.0.0.1 e6913.dscx.akamaiedge.net
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 eb2.3lift.com
 127.0.0.1 eb.trbas.com
+127.0.0.1 ecn.dev.virtualearth.net
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edge1.certona.net
 127.0.0.1 edge-block-www.traffic-test.dropbox-dns.com
@@ -549,6 +556,7 @@
 127.0.0.1 events.streamrail.net
 127.0.0.1 events.whisk.com
 127.0.0.1 ew3.io
+127.0.0.1 exceptions.coinbase.com
 127.0.0.1 external.fbrs1-2.fna.fbcdn.net
 127.0.0.1 famousbirthdays-d.openx.net
 127.0.0.1 fast.fonts.net
@@ -584,6 +592,7 @@
 127.0.0.1 g2.gumgum.com
 127.0.0.1 gads.pubmatic.com
 127.0.0.1 galaxy-log.gog.com
+127.0.0.1 gameranx.com
 127.0.0.1 game.xiaomi.com
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 gateway.answerscloud.com
@@ -599,6 +608,7 @@
 127.0.0.1 geoip-db.com
 127.0.0.1 geoip.fing.io
 127.0.0.1 geolocation.onetrust.com
+127.0.0.1 geo-prod.do.dsp.mp.microsoft.com
 127.0.0.1 geoservice.curse.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 gfwsl.geforce.com
@@ -656,9 +666,11 @@
 127.0.0.1 id5-sync.com
 127.0.0.1 id.google.com
 127.0.0.1 id.google.co.uk
+127.0.0.1 ieonline.microsoft.com
 127.0.0.1 i.facebook.com
 127.0.0.1 image.dhgate.com
 127.0.0.1 images2.imgbox.com
+127.0.0.1 images.coinbase.com
 127.0.0.1 images.dmca.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
@@ -682,6 +694,7 @@
 127.0.0.1 i.po.st
 127.0.0.1 ir0.mobify.com
 127.0.0.1 is.gd
+127.0.0.1 jalopnik.com
 127.0.0.1 j.ophan.co.uk
 127.0.0.1 jps.evolok.net
 127.0.0.1 js.adsrvr.org
@@ -703,6 +716,7 @@
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
+127.0.0.1 kotaku.com
 127.0.0.1 kraken-measurements.s3-external-1.amazonaws.com
 127.0.0.1 krk.kargo.com
 127.0.0.1 l2.shared.us-eu.fastly.net
@@ -713,6 +727,7 @@
 127.0.0.1 lgtvonline.lge.com
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 licensing.bitmovin.com
+127.0.0.1 lift3assets.lift.acquia.com
 127.0.0.1 links.services.disqus.com
 127.0.0.1 linuxbsdos.com
 127.0.0.1 live.sekindo.com
@@ -726,8 +741,10 @@
 127.0.0.1 location.services.mozilla.com
 127.0.0.1 log.adap.tv
 127.0.0.1 log.dmtry.com
+127.0.0.1 log.gigabyte.com.tw
 127.0.0.1 log.hypebeast.com
 127.0.0.1 login.dotomi.com
+127.0.0.1 login.sina.com.cn
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
@@ -759,8 +776,10 @@
 127.0.0.1 messaging-director-us-east-1.amazon.com
 127.0.0.1 metrics.asos.com
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 metrics.fitanalytics.com
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics-nl.fitanalytics.com
 127.0.0.1 mgepodownload.mediatek.com
 127.0.0.1 micloud.xiaomi.net
 127.0.0.1 miui.com
@@ -815,10 +834,12 @@
 127.0.0.1 open-api.spot.im
 127.0.0.1 open.oneplus.net
 127.0.0.1 ophan.theguardian.com
+127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 origin-analytics-sand.sandbox.braintree-api.com
 127.0.0.1 o.ss2.us
+127.0.0.1 otf.msn.com
 127.0.0.1 otnolatrnup.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 out.reddit.com
@@ -946,6 +967,7 @@
 127.0.0.1 r5---sn-aigl6nl7.googlevideo.com
 127.0.0.1 r5---sn-aigs6n7y.googlevideo.com
 127.0.0.1 r5---sn-aigzrn7s.googlevideo.com
+127.0.0.1 r5---sn-q4fl6n7z.googlevideo.com
 127.0.0.1 r6---sn-4g5e6ney.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlr.googlevideo.com
@@ -985,6 +1007,7 @@
 127.0.0.1 rum.logsss.com
 127.0.0.1 rum.optimizely.com
 127.0.0.1 rum-static.pingdom.net
+127.0.0.1 run.adrizer.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s0.wp.com
 127.0.0.1 s1.symcb.com
@@ -998,6 +1021,7 @@
 127.0.0.1 safebrowsing.googleapis.com
 127.0.0.1 sak.userreport.com
 127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 sam.msn.com
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 s.btstatic.com
 127.0.0.1 sb.voicefive.com
@@ -1092,6 +1116,7 @@
 127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 stat.dealtime.com
 127.0.0.1 static.addtoany.com
+127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.apester.com
 127.0.0.1 static.atgsvcs.com
@@ -1109,6 +1134,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.zotabox.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 stats-assets.trustpilot.com
 127.0.0.1 stats.bbc.co.uk
 127.0.0.1 stats-bq.stylight.net
 127.0.0.1 statse.webtrendslive.com
@@ -1125,6 +1151,7 @@
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 storage.cloud.kargo.com
 127.0.0.1 storage.googleapis.com
+127.0.0.1 storecatalogrevocation.storequality.microsoft.com
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 stripecdn.map.fastly.net
 127.0.0.1 suggestqueries.google.com
@@ -1145,6 +1172,7 @@
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
+127.0.0.1 t0.ssl.ak.dynamic.tiles.virtualearth.net
 127.0.0.1 t1.stormiq.com
 127.0.0.1 tag.bounceexchange.com
 127.0.0.1 tag.crsspxl.com
@@ -1176,8 +1204,12 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 tg.socdm.com
 127.0.0.1 theladbible.com
+127.0.0.1 theonion.com
+127.0.0.1 theroot.com
+127.0.0.1 th.symcd.com
 127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
+127.0.0.1 tl.symcd.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 todo-ta-g7g.amazon.com
@@ -1210,6 +1242,7 @@
 127.0.0.1 trowel.twitch.tv
 127.0.0.1 tr.snapchat.com
 127.0.0.1 try.abtasty.com
+127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1 t.teads.tv
 127.0.0.1 tuiuk.d1.sc.omtrdc.net
 127.0.0.1 tvline.com
@@ -1225,9 +1258,11 @@
 127.0.0.1 urs.cnet.com
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 us-east-1-decisionapi.lift.acquia.com
 127.0.0.1 user.huami.com
 127.0.0.1 uss-pid.lenovomm.com
 127.0.0.1 v10.events.data.microsoft.com
+127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
 127.0.0.1 variety.com
 127.0.0.1 vars.hotjar.com
@@ -1262,6 +1297,8 @@
 127.0.0.1 webstats.channel4.com
 127.0.0.1 webtrends.telegraph.co.uk
 127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 web.vortex.data.msn.com
+127.0.0.1 w.estat.com
 127.0.0.1 whatsapp-me.ru
 127.0.0.1 widget.cloud.opta.net
 127.0.0.1 widget.criteo.com
@@ -1274,6 +1311,7 @@
 127.0.0.1 wifiapi.micloud.xiaomi.net
 127.0.0.1 wikia-d.openx.net
 127.0.0.1 ws3.hotjar.com
+127.0.0.1 ws.coinbase.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 wsp.mgid.com
 127.0.0.1 ws.pusherapp.com
@@ -1290,9 +1328,11 @@
 127.0.0.1 www.baidu.com
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.bizographics.com
+127.0.0.1 www.ccleaner.com
 127.0.0.1 www.checkip.org
 127.0.0.1 www.cosmopolitan.com
 127.0.0.1 www.dianomi.com
+127.0.0.1 www.drivereasy.com
 127.0.0.1 www.dwin1.com
 127.0.0.1 www.econda-monitor.de
 127.0.0.1 www.example.com
@@ -1332,6 +1372,7 @@
 127.0.0.1 xiaomi.com
 127.0.0.1 xiaomi.net
 127.0.0.1 x.skimresources.com
+127.0.0.1 x.ss2.us
 127.0.0.1 yandex.st
 127.0.0.1 yastatic.net
 127.0.0.1 yen.appsfire.net
