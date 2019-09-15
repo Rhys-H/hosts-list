@@ -258,6 +258,7 @@
 127.0.0.1 boards.4chan.org
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
 127.0.0.1 bootstrap.upsight-api.com
+127.0.0.1 boredcrown.com
 127.0.0.1 brightcove.map.fastly.net
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser-update.org
@@ -312,6 +313,7 @@
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.connatix.com
 127.0.0.1 cdn.cquotient.com
+127.0.0.1 cdn.districtm.ca
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.dynamicyield.com
@@ -338,6 +340,7 @@
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.rdshll.com
 127.0.0.1 cdn.roiq-vice.ranker.com
+127.0.0.1 cdns1.gigya.com
 127.0.0.1 cdns.brsrvr.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
@@ -515,6 +518,7 @@
 127.0.0.1 dixons.inq.com
 127.0.0.1 dk98ddgl0znzm.cloudfront.net
 127.0.0.1 dmd.metaservices.microsoft.com
+127.0.0.1 dmx.districtm.io
 127.0.0.1 downdetector.com
 127.0.0.1 download-stats.mozilla.org
 127.0.0.1 dp-discovery-na-ext.amazon.com
@@ -555,6 +559,7 @@
 127.0.0.1 e.reddit.com
 127.0.0.1 errors.client.optimizely.com
 127.0.0.1 espn.hb.omtrdc.net
+127.0.0.1 etsy.trackinglibrary.prodperfect.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
 127.0.0.1 eus.rubiconproject.com
@@ -660,6 +665,7 @@
 127.0.0.1 gwiqcdn.globalwebindex.net
 127.0.0.1 hackforums.net
 127.0.0.1 hawk.pcgamer.com
+127.0.0.1 hb.emxdgt.com
 127.0.0.1 hb.nexage.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hb.vntsm.com
@@ -773,6 +779,7 @@
 127.0.0.1 l.ooyala.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 l.sharethis.com
+127.0.0.1 m5o81ypt-207752b7c4708610665de82b07ca5c381598e2d2-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-e9c07687d0b29e3dbc643d227bd36325ee056dbb-mob.d.aa.online-metrix.net
 127.0.0.1 mab.data.tm-awx.com
 127.0.0.1 mads.amazon-adsystem.com
