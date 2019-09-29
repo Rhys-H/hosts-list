@@ -264,6 +264,7 @@
 127.0.0.1 boredcrown.com
 127.0.0.1 brightcove.map.fastly.net
 127.0.0.1 browser.pipe.aria.microsoft.com
+127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 browser-update.org
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b.sharethrough.com
@@ -437,6 +438,7 @@
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connatix-d.openx.net
 127.0.0.1 connect.facebook.net
+127.0.0.1 connect.scroll.com
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 consent.cmp.oath.com
 127.0.0.1 consent.cookiebot.com
@@ -610,6 +612,7 @@
 127.0.0.1 fm.nvc.engb.nuancemobility.net
 127.0.0.1 fo-api.omnitagjs.com
 127.0.0.1 fontawesome-cdn.fonticons.netdna-cdn.com
+127.0.0.1 forecasttiger.com
 127.0.0.1 forms.aweber.com
 127.0.0.1 fossbytes.com
 127.0.0.1 frank-comp-na.amazon.com
@@ -733,6 +736,7 @@
 127.0.0.1 i.po.st
 127.0.0.1 ir0.mobify.com
 127.0.0.1 is.gd
+127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jalopnik.com
 127.0.0.1 j.ophan.co.uk
 127.0.0.1 jps.evolok.net
@@ -752,6 +756,7 @@
 127.0.0.1 jsso.indiatimes.com
 127.0.0.1 js.spotx.tv
 127.0.0.1 js.stripe.com
+127.0.0.1 jwpltx.com
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
@@ -945,6 +950,7 @@
 127.0.0.1 polyfill.io
 127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.adnxs.com
+127.0.0.1 prebid.media.net
 127.0.0.1 premierfarnell.tt.omtrdc.net
 127.0.0.1 prf.hn
 127.0.0.1 prime.amazon.eu
@@ -1136,6 +1142,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.data.microsoft.com
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 sf.symcd.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.gravatar.com
 127.0.0.1 shareasale-analytics.com
@@ -1145,6 +1152,7 @@
 127.0.0.1 single.upsight-api.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjs.bizographics.com
+127.0.0.1 smarturl.it
 127.0.0.1 smct.co
 127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 smetrics.element14.com
@@ -1185,6 +1193,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.apester.com
 127.0.0.1 static.atgsvcs.com
+127.0.0.1 static-cdn.jtvnw.net
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
@@ -1304,6 +1313,7 @@
 127.0.0.1 track.webgains.com
 127.0.0.1 track.zpbt.uk
 127.0.0.1 traffic.megaphone.fm
+127.0.0.1 trc.taboola.com
 127.0.0.1 treasuredata.com
 127.0.0.1 tredir.go.com
 127.0.0.1 t.reshell.io
@@ -1450,6 +1460,7 @@
 127.0.0.1 x.ss2.us
 127.0.0.1 yandex.st
 127.0.0.1 yastatic.net
+127.0.0.1 yd92qw6q-e9651fbf338c5bef76ea8a537185777262b95a1c-am1.e.aa.online-metrix.net
 127.0.0.1 yen.appsfire.net
 127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 youtu.be
