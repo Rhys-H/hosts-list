@@ -61,6 +61,7 @@
 127.0.0.1 adservice.google.co.uk
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads-resources-legacy.waze.com
 127.0.0.1 ads-resources.waze.com
@@ -203,6 +204,7 @@
 127.0.0.1 asoscomltd.tt.omtrdc.net
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 asset.pagefair.com
+127.0.0.1 asset.pagefair.net
 127.0.0.1 assets1.adroll.com
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.context.ly
@@ -358,6 +360,7 @@
 127.0.0.1 cdn.rdshll.com
 127.0.0.1 cdn.roiq-vice.ranker.com
 127.0.0.1 cdns1.gigya.com
+127.0.0.1 cdns3.gigya.com
 127.0.0.1 cdns.brsrvr.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn-scripts.signifyd.com
@@ -495,6 +498,7 @@
 127.0.0.1 d1af033869koo7.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
+127.0.0.1 d1xfq2052q7thw.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d20i5e3rqc90ne.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
@@ -517,6 +521,7 @@
 127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.appsdt.com
+127.0.0.1 data.coremetrics.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -526,6 +531,7 @@
 127.0.0.1 dcape-na.amazon.com
 127.0.0.1 dco.quantserve.com
 127.0.0.1 dc.services.visualstudio.com
+127.0.0.1 dd6zx4ibq538k.cloudfront.net
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 de.ioam.de
 127.0.0.1 delivery-cdn-cf.adswizz.com
@@ -788,6 +794,7 @@
 127.0.0.1 js.spotx.tv
 127.0.0.1 js.stripe.com
 127.0.0.1 jwpltx.com
+127.0.0.1 k8vif92e-44d1b98b4fce52945f9376e98aa9bbdbc9c760c9-mob.d.aa.online-metrix.net
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
@@ -831,11 +838,13 @@
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 l.sharethis.com
 127.0.0.1 m5o81ypt-05414a6def9a4f82384154d8dbc27c4d4dfb68b6-mob.d.aa.online-metrix.net
+127.0.0.1 m5o81ypt-1e0b6af8f55257e72149944f2ab29e9c3fa34c75-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-207752b7c4708610665de82b07ca5c381598e2d2-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-8a05809dded2068b7ad955e1924c9882a0fc1661-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-992f77d4d8cffc852a5707bad6421c3d3a690781-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-a95b379710d56838d431e313111b00132b5640a5-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-e9c07687d0b29e3dbc643d227bd36325ee056dbb-mob.d.aa.online-metrix.net
+127.0.0.1 m5o81ypt-f576029ffbe6d846cf41a77a36399905b916d2df-mob.d.aa.online-metrix.net
 127.0.0.1 mab.data.tm-awx.com
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mads.at.atwola.com
@@ -909,6 +918,7 @@
 127.0.0.1 normandy.cdn.mozilla.net
 127.0.0.1 notify.bugsnag.com
 127.0.0.1 notify.firetv.bugsnag.appstore.a2z.com
+127.0.0.1 nova.collect.igodigital.com
 127.0.0.1 nps.pepper.com
 127.0.0.1 nqs.nice264.com
 127.0.0.1 nrdp.nccp.netflix.com
@@ -927,6 +937,7 @@
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 optimize-stats.voxmedia.com
 127.0.0.1 opus.analytics.yahoo.com
 127.0.0.1 origin-analytics-sand.sandbox.braintree-api.com
 127.0.0.1 o.ss2.us
@@ -955,6 +966,7 @@
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pixel.33across.com
+127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.app.returnpath.net
 127.0.0.1 pixel.condenastdigital.com
@@ -983,6 +995,7 @@
 127.0.0.1 playtime.tubemogul.com
 127.0.0.1 polldaddy.com
 127.0.0.1 polyfill.io
+127.0.0.1 pool.admedo.com
 127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.media.net
@@ -1084,6 +1097,7 @@
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 recirculation.spot.im
 127.0.0.1 recommender.scarabresearch.com
+127.0.0.1 recs.richrelevance.com
 127.0.0.1 recsys-api.buzzfeed.com
 127.0.0.1 redirector.googlevideo.com
 127.0.0.1 redshell.io
@@ -1189,6 +1203,7 @@
 127.0.0.1 shavar.prod.mozaws.net
 127.0.0.1 sic.33across.com
 127.0.0.1 single.upsight-api.com
+127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 smarturl.it
@@ -1229,6 +1244,7 @@
 127.0.0.1 s.symcd.com
 127.0.0.1 stag.mdotlabs.com
 127.0.0.1 stags.bluekai.com
+127.0.0.1 star.c10r.facebook.com
 127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 stat.dealtime.com
 127.0.0.1 static.addtoany.com
@@ -1332,6 +1348,7 @@
 127.0.0.1 tls.telemetry.swe.quicinc.com
 127.0.0.1 tl.symcd.com
 127.0.0.1 tlx.3lift.com
+127.0.0.1 tmscdn.coremetrics.com
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 todo-ta-g7g.amazon.com
 127.0.0.1 tom.itv.com
