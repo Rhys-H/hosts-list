@@ -9,16 +9,20 @@
 127.0.0.1 2-edge-chat.facebook.com
 127.0.0.1 3-edge-chat.facebook.com
 127.0.0.1 3p.ampproject.net
+127.0.0.1 423621-android-ds.metric.gstatic.com
 127.0.0.1 4645336.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
 127.0.0.1 4-edge-chat.facebook.com
+127.0.0.1 565455-android-ds.metric.gstatic.com
 127.0.0.1 5-edge-chat.facebook.com
+127.0.0.1 607683-android-ds.metric.gstatic.com
 127.0.0.1 6558036.log.optimizely.com
 127.0.0.1 6.adsco.re
 127.0.0.1 6-edge-chat.facebook.com
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
 127.0.0.1 8816.engine.mobileapptracking.com
 127.0.0.1 8921356.fls.doubleclick.net
+127.0.0.1 924069-android-ds.metric.gstatic.com
 127.0.0.1 940892.fls.doubleclick.net
 127.0.0.1 9427595.fls.doubleclick.net
 127.0.0.1 a-0001.a-msedge.net
@@ -46,6 +50,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 ad.linksynergy.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ado.pro-market.net
 127.0.0.1 ads.adaptv.advertising.com
@@ -204,6 +209,7 @@
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
+127.0.0.1 arc.msn.com
 127.0.0.1 arcus-uswest.amazon.com
 127.0.0.1 a.root-servers.net
 127.0.0.1 as.casalemedia.com
@@ -366,6 +372,7 @@
 127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.optimizely.com
 127.0.0.1 cdn.parsely.com
+127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.rawgit.com
@@ -377,6 +384,7 @@
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.segment.com
+127.0.0.1 cdn.segment.io
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdns.eu1.gigya.com
 127.0.0.1 cdn.siftscience.com
@@ -422,6 +430,7 @@
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clc.stackoverflow.com
 127.0.0.1 cleantalk.org
+127.0.0.1 clevernt.com
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
@@ -450,6 +459,7 @@
 127.0.0.1 c.lytics.io
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 c.microsoft.com
 127.0.0.1 cmp.network-n.com
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 code.createjs.com
@@ -534,6 +544,7 @@
 127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.appsdt.com
+127.0.0.1 dashboard.evolveplatform.net
 127.0.0.1 data.api.cnn.io
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.flurry.com
@@ -576,6 +587,7 @@
 127.0.0.1 dmtrk.net
 127.0.0.1 dmx.districtm.io
 127.0.0.1 downdetector.com
+127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 download-stats.mozilla.org
 127.0.0.1 dp-discovery-na-ext.amazon.com
 127.0.0.1 dp-gw-na.amazon.com
@@ -702,6 +714,7 @@
 127.0.0.1 gmail-smtp-in.l.google.com
 127.0.0.1 go.affec.tv
 127.0.0.1 goaltime.contagioussports.com
+127.0.0.1 go.ezoic.net
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
@@ -740,6 +753,7 @@
 127.0.0.1 hello.myfonts.net
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hits-secure.theguardian.com
+127.0.0.1 h-microsoft.online-metrix.net
 127.0.0.1 hollywoodlife.com
 127.0.0.1 hotels.com
 127.0.0.1 hrum.hotelsapi.io
@@ -799,6 +813,7 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.agkn.com
 127.0.0.1 js.braintreegateway.com
+127.0.0.1 jsc.mgid.com
 127.0.0.1 js.gleam.io
 127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
@@ -936,6 +951,7 @@
 127.0.0.1 nexusrules.officeapps.live.com
 127.0.0.1 ngfts.lge.com
 127.0.0.1 nir.regmedia.co.uk
+127.0.0.1 no-cache.hubspot.com
 127.0.0.1 normandy.cdn.mozilla.net
 127.0.0.1 notify.bugsnag.com
 127.0.0.1 notify.firetv.bugsnag.appstore.a2z.com
@@ -1038,6 +1054,7 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.typekit.net
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 public-analytics.services.atlassian.com
 127.0.0.1 public-analytics.us-east-1.prod.public.atl-paas.net
 127.0.0.1 public.vilynx.com
 127.0.0.1 pubmatic.com
@@ -1247,6 +1264,7 @@
 127.0.0.1 socialize.us1.gigya.com
 127.0.0.1 sockjs.pusher.com
 127.0.0.1 sofia.trustx.org
+127.0.0.1 sortsummer.com
 127.0.0.1 spade.twitch.tv
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 speccy.piriform.com
@@ -1290,6 +1308,7 @@
 127.0.0.1 static.facebook.com
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.hotjar.com
+127.0.0.1 static.hubspot.com
 127.0.0.1 static.olark.com
 127.0.0.1 statics.a8.net
 127.0.0.1 static.scroll.com
@@ -1389,6 +1408,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 t.powerreviews.com
 127.0.0.1 t.purch.com
+127.0.0.1 tr-1.agilone.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 track.33networks.com
 127.0.0.1 track.adform.net
@@ -1404,6 +1424,7 @@
 127.0.0.1 trackmethod.com
 127.0.0.1 track.mvhop.com
 127.0.0.1 track.omguk.com
+127.0.0.1 track.searchiq.co
 127.0.0.1 track.shipstation.com
 127.0.0.1 track.sp.crdl.io
 127.0.0.1 track.webgains.com
@@ -1428,6 +1449,7 @@
 127.0.0.1 ubisoftinternational.demdex.net
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udd8uxur-6f152d059efe4393c7277dcd57d057e67cc8b3de-am1.e.aa.online-metrix.net
+127.0.0.1 udd8uxur-f2814640f50a6606adb09d436325a877aadec172-am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxur-fece4c63ff6fe6490b202d1039c62075378ca2a2-am1.e.aa.online-metrix.net
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 uhf.microsoft.com
@@ -1440,6 +1462,7 @@
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 us-east-1-decisionapi.lift.acquia.com
+127.0.0.1 us-east-1.prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 user.huami.com
 127.0.0.1 user-stats.rbl.ms
 127.0.0.1 uss-pid.lenovomm.com
