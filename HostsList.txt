@@ -144,6 +144,7 @@
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.airbrake.io
+127.0.0.1 api.amazonalexa.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api-analytics-de.huami.com
 127.0.0.1 api.analytics.nexonm.com
@@ -209,6 +210,7 @@
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
+127.0.0.1 a.quora.com
 127.0.0.1 arc.msn.com
 127.0.0.1 arcus-uswest.amazon.com
 127.0.0.1 a.root-servers.net
@@ -794,6 +796,8 @@
 127.0.0.1 ins-stats-prod.newworldinteractive.com
 127.0.0.1 instagram.c10r.facebook.com
 127.0.0.1 instagram.ford1-1.fna.fbcdn.net
+127.0.0.1 instant.page
+127.0.0.1 intg.snapchat.com
 127.0.0.1 intljs.rmtag.com
 127.0.0.1 in.treasuredata.com
 127.0.0.1 ioms.bfmio.com
@@ -831,6 +835,7 @@
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
+127.0.0.1 k.intellitxt.com
 127.0.0.1 kotaku.com
 127.0.0.1 kraken-measurements.s3-external-1.amazonaws.com
 127.0.0.1 krk.kargo.com
@@ -851,6 +856,7 @@
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 lnv.lithium.com
 127.0.0.1 loadbalancer.in-application.com
+127.0.0.1 loadbalancer.visitor-analytics.io
 127.0.0.1 loadeu.exelator.com
 127.0.0.1 load.instinctiveads.com
 127.0.0.1 load.s3.amazonaws.com
@@ -949,6 +955,7 @@
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexusrules.officeapps.live.com
+127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 ngfts.lge.com
 127.0.0.1 nir.regmedia.co.uk
 127.0.0.1 no-cache.hubspot.com
@@ -982,6 +989,7 @@
 127.0.0.1 otnolatrnup.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 out.reddit.com
+127.0.0.1 ow.ly
 127.0.0.1 p2-je6k6sdp3gv5a-5jrhdvf7zmtekh2u-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googlesyndication.com
@@ -994,6 +1002,7 @@
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 perf-events.cloud.unity3d.com
 127.0.0.1 perf.logsss.com
+127.0.0.1 performance.typekit.net
 127.0.0.1 perr.h-cdn.com
 127.0.0.1 phar.gu-web.net
 127.0.0.1 phonograph2.voxmedia.com
@@ -1126,6 +1135,7 @@
 127.0.0.1 r5---sn-q4fl6n7z.googlevideo.com
 127.0.0.1 r6---sn-4g5e6ney.googlevideo.com
 127.0.0.1 r6---sn-4g5edn7s.googlevideo.com
+127.0.0.1 r6---sn-5hne6n7l.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r6---sn-ab5l6nzk.googlevideo.com
@@ -1155,6 +1165,8 @@
 127.0.0.1 rover.ebay.com
 127.0.0.1 row-advil.waze.com
 127.0.0.1 rp.gwallet.com
+127.0.0.1 rps-p2.rockpapershotgun.com
+127.0.0.1 rps-uk.rockpapershotgun.com
 127.0.0.1 rpxnow.com
 127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
@@ -1246,6 +1258,7 @@
 127.0.0.1 shavar.prod.mozaws.net
 127.0.0.1 sic.33across.com
 127.0.0.1 single.upsight-api.com
+127.0.0.1 sitebooster.com
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjs.bizographics.com
@@ -1271,6 +1284,7 @@
 127.0.0.1 speedtrap.shopdirect.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 s.po.st
+127.0.0.1 spotops.spot.im
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.put.re
 127.0.0.1 sr4.liveperson.net
@@ -1325,6 +1339,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.pusher.com
+127.0.0.1 stats.qalabs.symantec.com
 127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.usefomo.com
 127.0.0.1 stats.windscribe.com
@@ -1358,6 +1373,7 @@
 127.0.0.1 s.youtube.com
 127.0.0.1 t0.ssl.ak.dynamic.tiles.virtualearth.net
 127.0.0.1 t1.stormiq.com
+127.0.0.1 tagan.adlightning.com
 127.0.0.1 tag.bounceexchange.com
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tagger.opecloud.com
@@ -1403,6 +1419,7 @@
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 todo-ta-g7g.amazon.com
 127.0.0.1 tom.itv.com
+127.0.0.1 toolbar.complex.com
 127.0.0.1 toots-a.akamaihd.net
 127.0.0.1 t.paypal.com
 127.0.0.1 tpc.googlesyndication.com
@@ -1465,6 +1482,7 @@
 127.0.0.1 us-east-1.prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 user.huami.com
 127.0.0.1 user-stats.rbl.ms
+127.0.0.1 usllpic0-24070d5eae9aaf17cc8fa2522001e268867b06fb-am1.e.aa.online-metrix.net
 127.0.0.1 uss-pid.lenovomm.com
 127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 v20.events.data.microsoft.com
@@ -1473,6 +1491,7 @@
 127.0.0.1 variety.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.streamrail.net
+127.0.0.1 va.tawk.to
 127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venues.waze.com
 127.0.0.1 v-eu.amazon-adsystem.com
@@ -1590,6 +1609,7 @@
 127.0.0.1 x.ss2.us
 127.0.0.1 yandex.st
 127.0.0.1 yastatic.net
+127.0.0.1 yd92qw6q-31958b229dbfc4db6066a3e21626e936db0eb217-am1.e.aa.online-metrix.net
 127.0.0.1 yd92qw6q-e9651fbf338c5bef76ea8a537185777262b95a1c-am1.e.aa.online-metrix.net
 127.0.0.1 yen.appsfire.net
 127.0.0.1 yield-manager.browsiprod.com
