@@ -1,7 +1,11 @@
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.gravatar.com
 127.0.0.1 10964987.collect.igodigital.com
+127.0.0.1 111208-android-ds.metric.gstatic.com
 127.0.0.1 11422.engine.mobileapptracking.com
+127.0.0.1 124023-android-ds.metric.gstatic.com
+127.0.0.1 13s3.lvlt.videorolls.row.aiv-cdn.net
+127.0.0.1 178176.engine.mobileapptracking.com
 127.0.0.1 1-edge-chat.facebook.com
 127.0.0.1 1.traffic.maps.api.here.com
 127.0.0.1 2542116.fls.doubleclick.net
@@ -19,9 +23,14 @@
 127.0.0.1 6558036.log.optimizely.com
 127.0.0.1 6.adsco.re
 127.0.0.1 6-edge-chat.facebook.com
+127.0.0.1 6s3.lvlt.videorolls.row.aiv-cdn.net
+127.0.0.1 718832-android-ds.metric.gstatic.com
+127.0.0.1 757680-android-ds.metric.gstatic.com
+127.0.0.1 785682-android-ds.metric.gstatic.com
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
 127.0.0.1 8816.engine.mobileapptracking.com
 127.0.0.1 8921356.fls.doubleclick.net
+127.0.0.1 918776-android-ds.metric.gstatic.com
 127.0.0.1 924069-android-ds.metric.gstatic.com
 127.0.0.1 940892.fls.doubleclick.net
 127.0.0.1 9427595.fls.doubleclick.net
@@ -126,6 +135,7 @@
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics-service.us-east-1.prod.public.atl-paas.net
 127.0.0.1 analytics.skyscanner.net
+127.0.0.1 analytics.sleeknote.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.suggestv.io
 127.0.0.1 analytics.teamcoco.com
@@ -133,6 +143,7 @@
 127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics.wolfgangs.com
 127.0.0.1 analytics.yopify.com
+127.0.0.1 andr-b7a56873cd-cbc62794911ff31b-9664fba9adb6a7dfb0-2480493.eu.api.amazonvideo.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 an.facebook.com
 127.0.0.1 animate.adobe.com
@@ -153,12 +164,14 @@
 127.0.0.1 api.coinbase.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 api.eu.amazonalexa.com
+127.0.0.1 api.eu-west-1.aiv-delivery.net
 127.0.0.1 api.facebook.com
 127.0.0.1 api.fing.io
 127.0.0.1 api.fusepowered.com
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
 127.0.0.1 api.keen.io
+127.0.0.1 api.leanplum.com
 127.0.0.1 api-mifit-de.huami.com
 127.0.0.1 api-mifit.huami.com
 127.0.0.1 api-mifit-us.huami.com
@@ -237,6 +250,7 @@
 127.0.0.1 autodiscover.admiralgroup.co.uk
 127.0.0.1 autoproxy
 127.0.0.1 aviary.amazon.de
+127.0.0.1 avs-alexa-18-eu.amazon.com
 127.0.0.1 avs.eu.amazonalexa.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 az690879.vo.msecnd.net
@@ -325,6 +339,7 @@
 127.0.0.1 c.bing.com
 127.0.0.1 cbsi.demdex.net
 127.0.0.1 cbsi-d.openx.net
+127.0.0.1 cbsinteractive.hb.omtrdc.net
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 c.contentsquare.net
@@ -463,6 +478,7 @@
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.microsoft.com
 127.0.0.1 cmp.network-n.com
+127.0.0.1 cmp.techadvisor.co.uk
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 code.createjs.com
 127.0.0.1 code.ionicframework.com
@@ -553,6 +569,7 @@
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 data.sec.miui.com
+127.0.0.1 d.btttag.com
 127.0.0.1 dc8xl0ndzn2cb.cloudfront.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dcape-na.amazon.com
@@ -588,6 +605,7 @@
 127.0.0.1 dmd.metaservices.microsoft.com
 127.0.0.1 dmtrk.net
 127.0.0.1 dmx.districtm.io
+127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 downdetector.com
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 download-stats.mozilla.org
@@ -608,6 +626,7 @@
 127.0.0.1 dw.cbsi.com
 127.0.0.1 d.xp1.ru4.com
 127.0.0.1 e1151.e12.akamaiedge.net
+127.0.0.1 e2e.mashable.com
 127.0.0.1 e6913.dscx.akamaiedge.net
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 eahq-rca.ad.ea.com
@@ -625,6 +644,7 @@
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 en-gb.facebook.com
+127.0.0.1 enthusiast-gaming-d.openx.net
 127.0.0.1 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 127.0.0.1 epsxe.com
 127.0.0.1 e.reddit.com
@@ -634,6 +654,7 @@
 127.0.0.1 etsy.trackinglibrary.prodperfect.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
+127.0.0.1 euapi.ibm.xtify.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 euw.adserver.snapads.com
@@ -755,6 +776,7 @@
 127.0.0.1 hello.myfonts.net
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hits-secure.theguardian.com
+127.0.0.1 hm.baidu.com
 127.0.0.1 h-microsoft.online-metrix.net
 127.0.0.1 hollywoodlife.com
 127.0.0.1 hotels.com
@@ -839,6 +861,8 @@
 127.0.0.1 kotaku.com
 127.0.0.1 kraken-measurements.s3-external-1.amazonaws.com
 127.0.0.1 krk.kargo.com
+127.0.0.1 ktpx-uk.amazon.com
+127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 l2.shared.us-eu.fastly.net
 127.0.0.1 l9bjkkhaycw6f8f4.soundcloud.com
 127.0.0.1 labs-cdn.revcontent.com
@@ -916,11 +940,13 @@
 127.0.0.1 metrics.icloud.com
 127.0.0.1 metrics-nl.fitanalytics.com
 127.0.0.1 mgepodownload.mediatek.com
+127.0.0.1 m.hotmail.com
 127.0.0.1 micloud.xiaomi.net
 127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 miui.com
 127.0.0.1 miui.net
 127.0.0.1 ml314.com
+127.0.0.1 m.media-amazon.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -998,6 +1024,7 @@
 127.0.0.1 papi.mynativeplatform.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pa.rxthdr.com
+127.0.0.1 pcadvisor-uk.intellitxt.com
 127.0.0.1 p.cpx.to
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 perf-events.cloud.unity3d.com
@@ -1043,6 +1070,7 @@
 127.0.0.1 polldaddy.com
 127.0.0.1 polyfill.io
 127.0.0.1 pool.admedo.com
+127.0.0.1 pop-dub-ww.cf.dash.row.aiv-cdn.net
 127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.media.net
@@ -1056,6 +1084,7 @@
 127.0.0.1 prod.globalsign.map.fastly.net
 127.0.0.1 prod.telemetry.ros.rockstargames.com
 127.0.0.1 profile.localytics.com
+127.0.0.1 pro.ip-api.com
 127.0.0.1 promo.fing.io
 127.0.0.1 proton.flurry.com
 127.0.0.1 pr.realvu.net
@@ -1088,6 +1117,7 @@
 127.0.0.1 r1---sn-aigzrn7l.googlevideo.com
 127.0.0.1 r1---sn-p5qlsnsy.googlevideo.com
 127.0.0.1 r1---sn-q4fl6n7l.googlevideo.com
+127.0.0.1 r1---sn-vgqs7nez.googlevideo.com
 127.0.0.1 r1-t.trackedlink.net
 127.0.0.1 r2-pc-stats.stryder.respawn.com
 127.0.0.1 r2---sn-5hne6n7e.googlevideo.com
@@ -1100,6 +1130,7 @@
 127.0.0.1 r2---sn-aigl6ney.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7l.googlevideo.com
+127.0.0.1 r3---sn-5hne6n7s.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7z.googlevideo.com
 127.0.0.1 r3---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r3---sn-5hne6nlr.googlevideo.com
@@ -1154,6 +1185,8 @@
 127.0.0.1 redirector.googlevideo.com
 127.0.0.1 redshell.io
 127.0.0.1 referrer.disqus.com
+127.0.0.1 register.appsflyer.com
+127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 report-ads-to.pubnation.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 res.cloudinary.com
@@ -1186,6 +1219,8 @@
 127.0.0.1 s1.symcb.com
 127.0.0.1 s1.wp.com
 127.0.0.1 s2.symcb.com
+127.0.0.1 s3-iad-2.cf.dash.row.aiv-cdn.net
+127.0.0.1 s3.ll.videorolls.row.aiv-cdn.net
 127.0.0.1 s3-us-west-1.amazonaws.com
 127.0.0.1 s48.sitemeter.com
 127.0.0.1 s7.addthis.com
@@ -1208,6 +1243,7 @@
 127.0.0.1 screenrant.com
 127.0.0.1 script.crazyegg.com
 127.0.0.1 script.hotjar.com
+127.0.0.1 scripts.kiosked.com
 127.0.0.1 sc-static.net
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.beeketing.com
@@ -1246,6 +1282,7 @@
 127.0.0.1 service.maxymiser.net
 127.0.0.1 services.fandom.com
 127.0.0.1 services.gfe.nvidia.com
+127.0.0.1 servicesupport.hicloud.com
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.data.microsoft.com
@@ -1281,6 +1318,7 @@
 127.0.0.1 spade.twitch.tv
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 speccy.piriform.com
+127.0.0.1 spectrum.s3.amazonaws.com
 127.0.0.1 speedtrap.shopdirect.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 s.po.st
@@ -1338,9 +1376,11 @@
 127.0.0.1 statsfe2.update.microsoft.com
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.lineageos.org
+127.0.0.1 stats.mainroll.com
 127.0.0.1 stats.pusher.com
 127.0.0.1 stats.qalabs.symantec.com
 127.0.0.1 stats.redditmedia.com
+127.0.0.1 stats.searchanise.com
 127.0.0.1 stats.usefomo.com
 127.0.0.1 stats.windscribe.com
 127.0.0.1 stats.wordpress.com
@@ -1350,6 +1390,7 @@
 127.0.0.1 storage.cloud.kargo.com
 127.0.0.1 storage.googleapis.com
 127.0.0.1 storecatalogrevocation.storequality.microsoft.com
+127.0.0.1 stp-tracker.inside-graph.com
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 stripecdn.map.fastly.net
 127.0.0.1 suggestqueries.google.com
@@ -1397,11 +1438,13 @@
 127.0.0.1 telegraph-ash.instagram.com
 127.0.0.1 telegraphmedia.bootstrap.fyre.co
 127.0.0.1 telegraph.sdk.beemray.com
+127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.battle.net
 127.0.0.1 telemetry-in.battle.net
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.qms.quicinc.com
 127.0.0.1 tempest.services.disqus.com
+127.0.0.1 ters.eu-west-1.aiv-delivery.net
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
@@ -1412,6 +1455,8 @@
 127.0.0.1 thisis-images.scdn.co
 127.0.0.1 th.symcd.com
 127.0.0.1 tiles.services.mozilla.com
+127.0.0.1 tlp-02.kameleoon.com
+127.0.0.1 tlp-03.kameleoon.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
 127.0.0.1 tl.symcd.com
 127.0.0.1 tlx.3lift.com
@@ -1469,9 +1514,11 @@
 127.0.0.1 udd8uxur-f2814640f50a6606adb09d436325a877aadec172-am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxur-fece4c63ff6fe6490b202d1039c62075378ca2a2-am1.e.aa.online-metrix.net
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 udmserve.net
 127.0.0.1 uhf.microsoft.com
 127.0.0.1 uid.mavencoalition.io
 127.0.0.1 uktc.ijento.com
+127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 u.openx.net
 127.0.0.1 upgrade.scdn.co
 127.0.0.1 urs.cnet.com
@@ -1483,6 +1530,9 @@
 127.0.0.1 user.huami.com
 127.0.0.1 user-stats.rbl.ms
 127.0.0.1 usllpic0-24070d5eae9aaf17cc8fa2522001e268867b06fb-am1.e.aa.online-metrix.net
+127.0.0.1 usllpic0-5f8e6f7474c45ff022c50bbe956d9362b8edf5c4-am1.e.aa.online-metrix.net
+127.0.0.1 usllpic0-dae5ebcbeaeacddae24177a5aee48f30689cb918-am1.e.aa.online-metrix.net
+127.0.0.1 usllpic0-ef0395cff8288129c8acedafa0c40b4553f0176f-am1.e.aa.online-metrix.net
 127.0.0.1 uss-pid.lenovomm.com
 127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 v20.events.data.microsoft.com
@@ -1515,6 +1565,7 @@
 127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wd.adcolony.com
+127.0.0.1 web-analytics.smile.io
 127.0.0.1 web.btncdn.com
 127.0.0.1 web-frontend-dot-sc-analytics.appspot.com
 127.0.0.1 web.hb.ad.cpe.dotomi.com
@@ -1588,6 +1639,7 @@
 127.0.0.1 www.quantcast.com
 127.0.0.1 www.reptileforums.co.uk
 127.0.0.1 www.res-x.com
+127.0.0.1 www.skybet.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.tenforums.com
