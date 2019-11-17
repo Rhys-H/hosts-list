@@ -25,6 +25,7 @@
 127.0.0.1 6-edge-chat.facebook.com
 127.0.0.1 6s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 718832-android-ds.metric.gstatic.com
+127.0.0.1 7336.engine.mobileapptracking.com
 127.0.0.1 757680-android-ds.metric.gstatic.com
 127.0.0.1 785682-android-ds.metric.gstatic.com
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
@@ -47,6 +48,7 @@
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 account-de.huami.com
 127.0.0.1 accounts.doubleclick.net
+127.0.0.1 account.tracker.gg
 127.0.0.1 account-us.huami.com
 127.0.0.1 account.xiaomi.com
 127.0.0.1 acdn.adnxs.com
@@ -191,6 +193,7 @@
 127.0.0.1 api.smoot.apple.com
 127.0.0.1 api.stathat.com
 127.0.0.1 api.taboola.com
+127.0.0.1 api.tracker.gg
 127.0.0.1 api.treasuredata.com
 127.0.0.1 api.usebutton.com
 127.0.0.1 api-user-de.huami.com
@@ -249,6 +252,7 @@
 127.0.0.1 audit.quantcast.mgr.consensu.org
 127.0.0.1 autodiscover.admiralgroup.co.uk
 127.0.0.1 autoproxy
+127.0.0.1 avatar-cdn.tracker.gg
 127.0.0.1 aviary.amazon.de
 127.0.0.1 avs-alexa-18-eu.amazon.com
 127.0.0.1 avs.eu.amazonalexa.com
@@ -362,8 +366,10 @@
 127.0.0.1 cdn.boomtrain.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brcdn.com
+127.0.0.1 cdn.concert.io
 127.0.0.1 cdn.connatix.com
 127.0.0.1 cdn.cquotient.com
+127.0.0.1 cdn.digitru.st
 127.0.0.1 cdn.districtm.ca
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
@@ -451,6 +457,7 @@
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
+127.0.0.1 click.email.ticketmaster.co.uk
 127.0.0.1 click.e.mozilla.org
 127.0.0.1 clickhole.com
 127.0.0.1 click.link.adidas.com
@@ -490,6 +497,7 @@
 127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 collector.newrelic.com
 127.0.0.1 collector-pxa0o07ort.perimeterx.net
+127.0.0.1 collector-pxdha6lqm5.perimeterx.net
 127.0.0.1 colrep.sitelabweb.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
@@ -543,6 +551,7 @@
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d20i5e3rqc90ne.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
+127.0.0.1 d25dfknw9ghxs6.cloudfront.net
 127.0.0.1 d2bnxibecyz4h5.cloudfront.net
 127.0.0.1 d2c8v52ll5s99u.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
@@ -904,6 +913,7 @@
 127.0.0.1 m5o81ypt-05414a6def9a4f82384154d8dbc27c4d4dfb68b6-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-1e0b6af8f55257e72149944f2ab29e9c3fa34c75-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-207752b7c4708610665de82b07ca5c381598e2d2-mob.d.aa.online-metrix.net
+127.0.0.1 m5o81ypt-815cfbc92b5557d8f0903e1416d245679536211a-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-8a05809dded2068b7ad955e1924c9882a0fc1661-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-992f77d4d8cffc852a5707bad6421c3d3a690781-mob.d.aa.online-metrix.net
 127.0.0.1 m5o81ypt-a95b379710d56838d431e313111b00132b5640a5-mob.d.aa.online-metrix.net
@@ -946,6 +956,7 @@
 127.0.0.1 miui.com
 127.0.0.1 miui.net
 127.0.0.1 ml314.com
+127.0.0.1 m.media-amazon.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.eum-appdynamics.com
@@ -1166,6 +1177,7 @@
 127.0.0.1 r6---sn-4g5e6ney.googlevideo.com
 127.0.0.1 r6---sn-4g5edn7s.googlevideo.com
 127.0.0.1 r6---sn-5hne6n7l.googlevideo.com
+127.0.0.1 r6---sn-5hne6n7s.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r6---sn-ab5l6nzk.googlevideo.com
@@ -1221,6 +1233,7 @@
 127.0.0.1 s3-iad-2.cf.dash.row.aiv-cdn.net
 127.0.0.1 s3.ll.videorolls.row.aiv-cdn.net
 127.0.0.1 s3-us-west-1.amazonaws.com
+127.0.0.1 s3-us-west-2.amazonaws.com
 127.0.0.1 s48.sitemeter.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 sa.bbc.co.uk
@@ -1247,6 +1260,7 @@
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdk-configuration.gimbal.com
 127.0.0.1 seal.geotrust.com
 127.0.0.1 search-api.fie.future.net.uk
 127.0.0.1 search.spotxchange.com
@@ -1577,9 +1591,11 @@
 127.0.0.1 web.vortex.data.msn.com
 127.0.0.1 w.estat.com
 127.0.0.1 whatsapp-me.ru
+127.0.0.1 whereisxur.com
 127.0.0.1 widget.cloud.opta.net
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.privy.com
+127.0.0.1 widgets.fie-data.co.uk
 127.0.0.1 widgets.future-fie.co.uk
 127.0.0.1 widgets.ign.com
 127.0.0.1 widgets.outbrain.com
