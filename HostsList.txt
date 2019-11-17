@@ -956,7 +956,6 @@
 127.0.0.1 miui.com
 127.0.0.1 miui.net
 127.0.0.1 ml314.com
-127.0.0.1 m.media-amazon.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.eum-appdynamics.com
