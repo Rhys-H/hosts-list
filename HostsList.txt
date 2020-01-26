@@ -466,6 +466,7 @@
 127.0.0.1 cdn.playbuzz.com
 127.0.0.1 cdn.playwire.com
 127.0.0.1 cdn.p-n.io
+127.0.0.1 cdn.pushcrew.com
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.rdshll.com
@@ -636,6 +637,7 @@
 127.0.0.1 d17fy28x8ov4h8.cloudfront.net
 127.0.0.1 d1af033869koo7.cloudfront.net
 127.0.0.1 d1bl11pgu3tw3h.cloudfront.net
+127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
 127.0.0.1 d1xfq2052q7thw.cloudfront.net
@@ -687,6 +689,7 @@
 127.0.0.1 de.cdn-v3.conductrics.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 de.ioam.de
+127.0.0.1 delivery.adrecover.com
 127.0.0.1 delivery-cdn-cf.adswizz.com
 127.0.0.1 delivery-europe-west-1.openx.net
 127.0.0.1 delivery.g.switchadhub.com
@@ -701,6 +704,7 @@
 127.0.0.1 device-provisioning.googleapis.com
 127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev.visualwebsiteoptimizer.com
+127.0.0.1 dgxwdt4z5fqs6.cloudfront.net
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 digprjsurvey.amazon.eu
 127.0.0.1 d.impactradius-event.com
@@ -828,6 +832,7 @@
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
 127.0.0.1 frog.wix.com
+127.0.0.1 fsb.hextom.com
 127.0.0.1 fs.microsoft.com
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 ftvr-na.amazon.com
@@ -979,7 +984,6 @@
 127.0.0.1 ir0.mobify.com
 127.0.0.1 i.rmbl.ws
 127.0.0.1 is.gd
-127.0.0.1 i.ytimg.com
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jalopnik.com
 127.0.0.1 jogger.zdbb.net
@@ -1134,6 +1138,7 @@
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
 127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 mrb.upapi.net
 127.0.0.1 ms.applovin.com
 127.0.0.1 mscom.demdex.net
 127.0.0.1 m.servedby-buysellads.com
@@ -1163,6 +1168,7 @@
 127.0.0.1 n.gemini.yahoo.com
 127.0.0.1 ngfts.lge.com
 127.0.0.1 nir.regmedia.co.uk
+127.0.0.1 nir.theregister.co.uk
 127.0.0.1 no-cache.hubspot.com
 127.0.0.1 normandy.cdn.mozilla.net
 127.0.0.1 notify.bugsnag.com
@@ -1250,6 +1256,7 @@
 127.0.0.1 pixiedust.buzzfeed.com
 127.0.0.1 pix.impdesk.com
 127.0.0.1 pix.spot.im
+127.0.0.1 pj.l.admedo.com
 127.0.0.1 pki-goog.l.google.com
 127.0.0.1 placehold.it
 127.0.0.1 platform-api.sharethis.com
@@ -1386,6 +1393,7 @@
 127.0.0.1 ramp.purch.com
 127.0.0.1 r.bbci.co.uk
 127.0.0.1 rcm-na.amazon-adsystem.com
+127.0.0.1 rddywd.com
 127.0.0.1 realtime04.pepper.com
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 recirculation.spot.im
@@ -1416,6 +1424,7 @@
 127.0.0.1 rpxnow.com
 127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
+127.0.0.1 rsload.net
 127.0.0.1 rta2.metro.co.uk
 127.0.0.1 rt.applovin.com
 127.0.0.1 rtax.criteo.com
@@ -1745,6 +1754,7 @@
 127.0.0.1 track.33networks.com
 127.0.0.1 track.adform.net
 127.0.0.1 trackcmp.net
+127.0.0.1 track.contently.com
 127.0.0.1 tracker-client.carts.guru
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.nitropay.com
@@ -1942,7 +1952,9 @@
 127.0.0.1 www.quantcast.com
 127.0.0.1 www.reptileforums.co.uk
 127.0.0.1 www.res-x.com
+127.0.0.1 www.sevenforums.com
 127.0.0.1 www.skybet.com
+127.0.0.1 www.snapengage.com
 127.0.0.1 www.sony.co.uk
 127.0.0.1 www.stack-sonar.com
 127.0.0.1 www.statcounter.com
