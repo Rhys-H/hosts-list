@@ -19,6 +19,8 @@
 127.0.0.1 3p.ampproject.net
 127.0.0.1 423621-android-ds.metric.gstatic.com
 127.0.0.1 4645336.fls.doubleclick.net
+127.0.0.1 4954221.fls.doubleclick.net
+127.0.0.1 4967238.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
 127.0.0.1 4-edge-chat.facebook.com
 127.0.0.1 565455-android-ds.metric.gstatic.com
@@ -583,6 +585,7 @@
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
 127.0.0.1 completion.amazon.co.uk
+127.0.0.1 confettidaydreams.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.edge.skype.com
@@ -723,6 +726,7 @@
 127.0.0.1 dna8twue3dlxq.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dns.msftncsi.com
+127.0.0.1 docdro.id
 127.0.0.1 downdetector.com
 127.0.0.1 download.cnet.com
 127.0.0.1 downloads.intercomcdn.com
@@ -951,6 +955,7 @@
 127.0.0.1 image.ibb.co
 127.0.0.1 image.providesupport.com
 127.0.0.1 images2.imgbox.com
+127.0.0.1 image.s6.exacttarget.com
 127.0.0.1 images.coinbase.com
 127.0.0.1 images.dmca.com
 127.0.0.1 images.outbrain.com
@@ -973,6 +978,7 @@
 127.0.0.1 intg.snapchat.com
 127.0.0.1 intljs.rmtag.com
 127.0.0.1 in.treasuredata.com
+127.0.0.1 invitejs.trustpilot.com
 127.0.0.1 ioms.bfmio.com
 127.0.0.1 ipapi.co
 127.0.0.1 ipfind.co
@@ -1414,6 +1420,7 @@
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resonantbrush.com
 127.0.0.1 restapi.amap.com
+127.0.0.1 revolve.sspinc.io
 127.0.0.1 rightmoveanalytics.co.uk
 127.0.0.1 river-mobile.data.ea.com
 127.0.0.1 rover.ebay.com
@@ -1518,6 +1525,7 @@
 127.0.0.1 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 127.0.0.1 service.game-mode.net
 127.0.0.1 service.maxymiser.net
+127.0.0.1 service.piriform.com
 127.0.0.1 services.fandom.com
 127.0.0.1 services.gfe.nvidia.com
 127.0.0.1 servicesupport.hicloud.com
@@ -1596,6 +1604,7 @@
 127.0.0.1 ssor.tribdss.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 ssp.lkqd.net
+127.0.0.1 s.ss2.us
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 s.swiftypecdn.com
@@ -1764,6 +1773,7 @@
 127.0.0.1 tracking.hivecloud.net
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
+127.0.0.1 tracking.recommend.pro
 127.0.0.1 tracking.serverlessteam.com
 127.0.0.1 trackmethod.com
 127.0.0.1 track.mvhop.com
@@ -1839,7 +1849,9 @@
 127.0.0.1 v-eu.amazon-adsystem.com
 127.0.0.1 vice-useast.gscontxt.net
 127.0.0.1 vice-web-statics-cdn.vice.com
+127.0.0.1 video.adaptv.advertising.com
 127.0.0.1 video-ad-stats.googlesyndication.com
+127.0.0.1 video-api.yql.yahoo.com
 127.0.0.1 video-assets.mathtag.com
 127.0.0.1 video.mediavine.com
 127.0.0.1 video.unrulymedia.com
@@ -1904,6 +1916,7 @@
 127.0.0.1 www5.smartadserver.com
 127.0.0.1 www9.smartadserver.com
 127.0.0.1 www.alexa.com
+127.0.0.1 www.aliexpress.com
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.aweber.com
 127.0.0.1 www.awin1.com
