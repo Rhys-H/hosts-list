@@ -54,6 +54,7 @@
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a248.e.akamai.net
 127.0.0.1 a652.dscb.akamai.net
+127.0.0.1 aan.amazon.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
@@ -354,6 +355,7 @@
 127.0.0.1 bn2.vortex.data.microsoft.com.akadns.net
 127.0.0.1 bnc.lt
 127.0.0.1 boards.4chan.org
+127.0.0.1 boards-use1-cdn.greenhouse.io
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
 127.0.0.1 bootstrap.upsight-api.com
 127.0.0.1 boredcrown.com
@@ -443,6 +445,7 @@
 127.0.0.1 cdn.georiot.com
 127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cdn.globalsigncdn.com.cdn.cloudflare.net
+127.0.0.1 cdn.greenhouse.io
 127.0.0.1 cdn.heapanalytics.com
 127.0.0.1 cdn-images.mailchimp.com
 127.0.0.1 cdn.intergi.com
@@ -504,6 +507,7 @@
 127.0.0.1 cdn.tynt.com
 127.0.0.1 cdn.vidible.tv
 127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.whisk.com
 127.0.0.1 cdn.ywxi.net
 127.0.0.1 cdn.ziffstatic.com
 127.0.0.1 cdp.cloud.unity3d.com
@@ -548,6 +552,7 @@
 127.0.0.1 click.news.email.ikea.co.uk
 127.0.0.1 click.news.vans.com
 127.0.0.1 click.oneplus.com
+127.0.0.1 click.virt.exacttarget.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client.a.pxi.pub
 127.0.0.1 clientcdn.pushengage.com
@@ -566,6 +571,7 @@
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.mgid.com
 127.0.0.1 c.microsoft.com
+127.0.0.1 cmp.dmgmediaprivacy.co.uk
 127.0.0.1 cmp.faktor.mgr.consensu.org
 127.0.0.1 cmp.network-n.com
 127.0.0.1 cmp.techadvisor.co.uk
@@ -642,6 +648,7 @@
 127.0.0.1 d1bl11pgu3tw3h.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1lxz4vuik53pc.cloudfront.net
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
 127.0.0.1 d1xfq2052q7thw.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
@@ -807,6 +814,7 @@
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fast-nc.appcues.com
 127.0.0.1 fast.wistia.com
+127.0.0.1 fatface.ugc.bazaarvoice.com
 127.0.0.1 f.convertkit.com
 127.0.0.1 fc.yahoo.com
 127.0.0.1 feedback.miui.com
@@ -1033,6 +1041,7 @@
 127.0.0.1 labs-cdn.revcontent.com
 127.0.0.1 launcher.spot.im
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
+127.0.0.1 lgin.msa.trafficmanager.net
 127.0.0.1 lgtvonline.lge.com
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 licensing.bitmovin.com
@@ -1066,6 +1075,7 @@
 127.0.0.1 log.outbrain.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
+127.0.0.1 logs.amap.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 lo.idp.liveperson.net
@@ -1099,6 +1109,7 @@
 127.0.0.1 mandrillapp.com
 127.0.0.1 manifest.localytics.com
 127.0.0.1 marketing.lloydsbank.co.uk
+127.0.0.1 marketing.vistaprint.com
 127.0.0.1 market.xiaomi.com
 127.0.0.1 mark.reevoo.com
 127.0.0.1 mas-sdk.amazon.com
@@ -1283,6 +1294,7 @@
 127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 pre.ads.justpremium.com
 127.0.0.1 prebid.adnxs.com
+127.0.0.1 prebid.digitru.st
 127.0.0.1 prebid.media.net
 127.0.0.1 prebid-server.rubiconproject.com
 127.0.0.1 premierfarnell.tt.omtrdc.net
@@ -1313,6 +1325,7 @@
 127.0.0.1 p-v2.presage.io
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.gfycat.com
+127.0.0.1 px.moatads.com
 127.0.0.1 px.srvcs.tumblr.com
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 qab.hextom.com
@@ -1410,6 +1423,7 @@
 127.0.0.1 recsys-api.buzzfeed.com
 127.0.0.1 reddit.app.link
 127.0.0.1 redirector.googlevideo.com
+127.0.0.1 redirect.viglink.com
 127.0.0.1 redshell.io
 127.0.0.1 referrer.disqus.com
 127.0.0.1 register.appsflyer.com
@@ -1563,6 +1577,7 @@
 127.0.0.1 snap.licdn.com
 127.0.0.1 snip.bronto.com
 127.0.0.1 snippets.cdn.mozilla.net
+127.0.0.1 snipurl.com
 127.0.0.1 s.ntv.io
 127.0.0.1 socialize.eu1.gigya.com
 127.0.0.1 socialize.us1.gigya.com
@@ -1968,6 +1983,7 @@
 127.0.0.1 www.sevenforums.com
 127.0.0.1 www.skybet.com
 127.0.0.1 www.snapengage.com
+127.0.0.1 www.snipurl.com
 127.0.0.1 www.sony.co.uk
 127.0.0.1 www.stack-sonar.com
 127.0.0.1 www.statcounter.com
