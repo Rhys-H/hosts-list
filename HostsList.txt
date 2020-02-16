@@ -10,11 +10,13 @@
 127.0.0.1 16s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 178176.engine.mobileapptracking.com
 127.0.0.1 1-edge-chat.facebook.com
+127.0.0.1 1.gravatar.com
 127.0.0.1 1s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 1.traffic.maps.api.here.com
 127.0.0.1 2542116.fls.doubleclick.net
 127.0.0.1 2a7e9.v.fwmrm.net
 127.0.0.1 2-edge-chat.facebook.com
+127.0.0.1 2.gravatar.com
 127.0.0.1 3-edge-chat.facebook.com
 127.0.0.1 3p.ampproject.net
 127.0.0.1 423621-android-ds.metric.gstatic.com
@@ -100,6 +102,7 @@
 127.0.0.1 adservice.google.de
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 ad.soicos.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads-resources-legacy.waze.com
@@ -203,6 +206,7 @@
 127.0.0.1 api.eu-west-1.aiv-delivery.net
 127.0.0.1 api.facebook.com
 127.0.0.1 api.fing.io
+127.0.0.1 api.foursquare.com
 127.0.0.1 api.fusepowered.com
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
@@ -262,6 +266,7 @@
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 appsitemsuggest-pa.googleapis.com
 127.0.0.1 app-sjg.marketo.com
+127.0.0.1 appuals.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 a.pub.network
@@ -339,6 +344,7 @@
 127.0.0.1 beam.hlserve.com
 127.0.0.1 beam.koddi.com
 127.0.0.1 bethesda.net
+127.0.0.1 bf08412nhq.bf.dynatrace.com
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 bgr.com
 127.0.0.1 bh.contextweb.com
@@ -632,6 +638,7 @@
 127.0.0.1 csi.gstatic.com
 127.0.0.1 csm.fr.eu.criteo.net
 127.0.0.1 cstatic.weborama.fr
+127.0.0.1 cstm.gumtree.com
 127.0.0.1 ct.pinterest.com
 127.0.0.1 cts.tradepub.com
 127.0.0.1 curse-d.openx.net
@@ -756,6 +763,7 @@
 127.0.0.1 dualstack.us-eu.brightcove.map.fastly.net
 127.0.0.1 dw.cbsi.com
 127.0.0.1 d.xp1.ru4.com
+127.0.0.1 dyjpb62732.i.lithium.com
 127.0.0.1 e1151.e12.akamaiedge.net
 127.0.0.1 e2e.mashable.com
 127.0.0.1 e6913.dscx.akamaiedge.net
@@ -997,6 +1005,7 @@
 127.0.0.1 i.po.st
 127.0.0.1 ir0.mobify.com
 127.0.0.1 i.rmbl.ws
+127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 is.gd
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jalopnik.com
@@ -1040,6 +1049,7 @@
 127.0.0.1 l9bjkkhaycw6f8f4.soundcloud.com
 127.0.0.1 labs-cdn.revcontent.com
 127.0.0.1 launcher.spot.im
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
 127.0.0.1 lgin.msa.trafficmanager.net
 127.0.0.1 lgtvonline.lge.com
@@ -1203,6 +1213,7 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 officeclient.microsoft.com
 127.0.0.1 ohsatum.info
+127.0.0.1 oms.expedia.com
 127.0.0.1 oneclient.sfx.ms
 127.0.0.1 onetrust.com
 127.0.0.1 ookla-d.openx.net
@@ -1248,6 +1259,7 @@
 127.0.0.1 p.imgur.com
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-dot-acp-magento.appspot.com
+127.0.0.1 ping.dozuki.com
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pixel.33across.com
@@ -1314,6 +1326,7 @@
 127.0.0.1 propermedia-d.openx.net
 127.0.0.1 proton.flurry.com
 127.0.0.1 pr.realvu.net
+127.0.0.1 p-r-travel-pixel-w-il86lx5qwzt-209932302.eu-west-1.elb.amazonaws.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.typekit.net
@@ -1502,6 +1515,7 @@
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 sdk-configuration.gimbal.com
+127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdktm.w.inmobi.com
@@ -1572,6 +1586,7 @@
 127.0.0.1 smetrics.element14.com
 127.0.0.1 smetrics.sky.com
 127.0.0.1 smetrics.tesco.com
+127.0.0.1 smetrics.thetrainline.com
 127.0.0.1 smetrics.washingtonpost.com
 127.0.0.1 smodus.nike.com
 127.0.0.1 snap.licdn.com
@@ -1653,6 +1668,7 @@
 127.0.0.1 static.scroll.com
 127.0.0.1 statics.streamable.com
 127.0.0.1 staticw2.yotpo.com
+127.0.0.1 static.www.turnto.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.ziffdavis.com
 127.0.0.1 static.zotabox.com
@@ -1724,6 +1740,7 @@
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.tiqcdn.com
+127.0.0.1 tag.yieldoptimizer.com
 127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
 127.0.0.1 tapfiliate.com
 127.0.0.1 t.appsflyer.com
@@ -1939,6 +1956,7 @@
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.bizographics.com
 127.0.0.1 www.btserve.com
+127.0.0.1 www.c.booking.com
 127.0.0.1 www.ccleaner.com
 127.0.0.1 www.checkip.org
 127.0.0.1 www.chicoryapp.com
@@ -1992,6 +2010,7 @@
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
 127.0.0.1 www.thedailymash.co.uk
+127.0.0.1 www.travelocity.com
 127.0.0.1 www.tryzens-analytics.com
 127.0.0.1 www.ultimedia.com
 127.0.0.1 www.upsellit.com
@@ -2020,6 +2039,7 @@
 127.0.0.1 yt.moatads.com
 127.0.0.1 zdbb.net
 127.0.0.1 zebra.pushbullet.com
+127.0.0.1 z.lenmit.com
 127.0.0.1 z-m.c10r.facebook.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zn_1zcnvefgbweaxdb-cbs.siteintercept.qualtrics.com
