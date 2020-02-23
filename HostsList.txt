@@ -53,6 +53,7 @@
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a1089.dscd.akamai.net
 127.0.0.1 a11701662245.cdn-pci.optimizely.com
+127.0.0.1 a1843.g.akamai.net
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a248.e.akamai.net
 127.0.0.1 a652.dscb.akamai.net
@@ -141,6 +142,7 @@
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 a.mailmunch.co
 127.0.0.1 amazoncustomerservice.d2.sc.omtrdc.net
+127.0.0.1 amazonwebservicesinc.tt.omtrdc.net
 127.0.0.1 a.mobify.com
 127.0.0.1 amp.akamaized.net
 127.0.0.1 amp.casalemedia.com
@@ -186,6 +188,7 @@
 127.0.0.1 anon-stats.eff.org
 127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optnmnstr.com
+127.0.0.1 a.optnmstr.com
 127.0.0.1 apex.go.sonobi.com
 127.0.0.1 api2.branch.io
 127.0.0.1 api.account.xiaomi.com
@@ -208,6 +211,7 @@
 127.0.0.1 api.fing.io
 127.0.0.1 api.foursquare.com
 127.0.0.1 api.fusepowered.com
+127.0.0.1 api.ipdata.co
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
 127.0.0.1 api.keen.io
@@ -241,6 +245,7 @@
 127.0.0.1 api.vanilla.futurecdn.net
 127.0.0.1 api.viglink.com
 127.0.0.1 api.vip.miui.com
+127.0.0.1 api.vungle.com
 127.0.0.1 api-watch-de.huami.com
 127.0.0.1 api-watch-us.huami.com
 127.0.0.1 ap.lijit.com
@@ -360,6 +365,7 @@
 127.0.0.1 blog.counter-strike.net
 127.0.0.1 bn2.vortex.data.microsoft.com.akadns.net
 127.0.0.1 bnc.lt
+127.0.0.1 boardgamegeek.com
 127.0.0.1 boards.4chan.org
 127.0.0.1 boards-use1-cdn.greenhouse.io
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
@@ -368,6 +374,7 @@
 127.0.0.1 brightcove.map.fastly.net
 127.0.0.1 brm-suggest-0.brsrvr.com
 127.0.0.1 browser.events.data.microsoft.com
+127.0.0.1 browser-metrics.wowcher.co.uk
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 browser-update.org
@@ -525,6 +532,7 @@
 127.0.0.1 centro.pixel.ad
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 c.evidon.com
+127.0.0.1 cf.eip.telegraph.co.uk
 127.0.0.1 cf.iadsdk.apple.com
 127.0.0.1 cf-particle-html.eip.telegraph.co.uk
 127.0.0.1 cfvod.kaltura.com
@@ -558,6 +566,7 @@
 127.0.0.1 click.news.email.ikea.co.uk
 127.0.0.1 click.news.vans.com
 127.0.0.1 click.oneplus.com
+127.0.0.1 click.udimg.com
 127.0.0.1 click.virt.exacttarget.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client.a.pxi.pub
@@ -572,6 +581,7 @@
 127.0.0.1 cloudapi.imrworldwide.com
 127.0.0.1 cloudflare.com
 127.0.0.1 cloudfront-labs.amazonaws.com
+127.0.0.1 cloudfront.loggly.com
 127.0.0.1 c.lytics.io
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cm.g.doubleclick.net
@@ -627,6 +637,7 @@
 127.0.0.1 countess.twitch.tv
 127.0.0.1 count-server.sharethis.com
 127.0.0.1 count.shein.com
+127.0.0.1 c.p2r14.com
 127.0.0.1 c.paypal.com
 127.0.0.1 cpt.itv.com
 127.0.0.1 crackberry.com
@@ -979,6 +990,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 improving.duckduckgo.com
+127.0.0.1 in.appcenter.ms
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 inference.location.live.net
 127.0.0.1 infinityid.condenastdigital.com
@@ -1048,6 +1060,7 @@
 127.0.0.1 l2.shared.us-eu.fastly.net
 127.0.0.1 l9bjkkhaycw6f8f4.soundcloud.com
 127.0.0.1 labs-cdn.revcontent.com
+127.0.0.1 lantern.roeye.com
 127.0.0.1 launcher.spot.im
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
@@ -1071,6 +1084,7 @@
 127.0.0.1 loadeu.exelator.com
 127.0.0.1 load.instinctiveads.com
 127.0.0.1 load.s3.amazonaws.com
+127.0.0.1 load.sumo.com
 127.0.0.1 load.sumome.com
 127.0.0.1 loadus.exelator.com
 127.0.0.1 location.l.force.com
@@ -1213,6 +1227,7 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 officeclient.microsoft.com
 127.0.0.1 ohsatum.info
+127.0.0.1 omo.akamai.opta.net
 127.0.0.1 oms.expedia.com
 127.0.0.1 oneclient.sfx.ms
 127.0.0.1 onetrust.com
@@ -1234,6 +1249,7 @@
 127.0.0.1 out.reddit.com
 127.0.0.1 ovp.iris.tv
 127.0.0.1 ow.ly
+127.0.0.1 ow.pubmatic.com
 127.0.0.1 p2-ctce2sxr5ie7m-4basnp7qybiddvk5-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p2-eiiimthobfgem-7x232fmdowoyflio-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p2-iwjm6zadug2vs-jgx5ec4frry4jmuj-if-v6exp3-v4.metric.gstatic.com
@@ -1467,6 +1483,7 @@
 127.0.0.1 rubiconproject.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum.conde.io
+127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rum.logsss.com
 127.0.0.1 rum.optimizely.com
 127.0.0.1 rum-static.pingdom.net
@@ -1626,6 +1643,7 @@
 127.0.0.1 ssc.standard.co.uk
 127.0.0.1 s.skimresources.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 ssl.kaptcha.com
 127.0.0.1 ssl.mousestats.com
 127.0.0.1 ssl.o.mdedge.com
 127.0.0.1 ssl.o.webmd.com
@@ -1750,6 +1768,7 @@
 127.0.0.1 t.co
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.dailymail.co.uk
+127.0.0.1 td.yieldify.com
 127.0.0.1 tealium.cbsnews.com
 127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 telegraph-ash.instagram.com
@@ -1804,6 +1823,7 @@
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hivecloud.net
 127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.powster.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 tracking.recommend.pro
 127.0.0.1 tracking.serverlessteam.com
@@ -1966,6 +1986,7 @@
 127.0.0.1 www.dwin1.com
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.econda-monitor.de
+127.0.0.1 www.everydayhealth.com
 127.0.0.1 www.example.com
 127.0.0.1 www.express.co.uk
 127.0.0.1 www.fastly-insights.com
