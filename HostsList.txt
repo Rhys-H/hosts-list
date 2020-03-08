@@ -127,6 +127,7 @@
 127.0.0.1 affiliate-program.amazon.com
 127.0.0.1 affiliate-program.amazon.co.uk
 127.0.0.1 affiliates.cdkeys.com
+127.0.0.1 affiliates.lovelearnings.com
 127.0.0.1 afs.googleusercontent.com
 127.0.0.1 agentanalytics.com
 127.0.0.1 agility.cnn.com
@@ -205,6 +206,7 @@
 127.0.0.1 api.bazaarvoice.com
 127.0.0.1 api.branch.io
 127.0.0.1 api.coinbase.com
+127.0.0.1 api.db-ip.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 api.eu.amazonalexa.com
 127.0.0.1 api.eu-west-1.aiv-delivery.net
@@ -297,6 +299,7 @@
 127.0.0.1 assets.juicer.io
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.purch.com
+127.0.0.1 assets.rbl.ms
 127.0.0.1 assets.ubembed.com
 127.0.0.1 a-stat.appmifile.com
 127.0.0.1 a.stat.xiaomi.com
@@ -325,6 +328,7 @@
 127.0.0.1 barclaysuk.sc.omtrdc.net
 127.0.0.1 bat.bing.com
 127.0.0.1 batch.upsight-api.com
+127.0.0.1 bbc.co.uk
 127.0.0.1 bcdn-16c9d93d.we-stats.com
 127.0.0.1 bclays-ads.aimatch.com
 127.0.0.1 bc.marfeelcache.com
@@ -387,6 +391,7 @@
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 btlr.sharethrough.com
 127.0.0.1 bt.signifyd.com
+127.0.0.1 buffer-media-uploads.s3.amazonaws.com
 127.0.0.1 bugmenot.com
 127.0.0.1 bungie.net
 127.0.0.1 burnside.dtcn.com
@@ -419,6 +424,7 @@
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 c.contentsquare.net
+127.0.0.1 ccpa.sp-prod.net
 127.0.0.1 cc.sys.intl.xiaomi.com
 127.0.0.1 cc.sys.miui.com
 127.0.0.1 cd.connatix.com
@@ -526,6 +532,7 @@
 127.0.0.1 cdn.tynt.com
 127.0.0.1 cdn.vidible.tv
 127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.vuukle.com
 127.0.0.1 cdn.whisk.com
 127.0.0.1 cdn.ywxi.net
 127.0.0.1 cdn.ziffstatic.com
@@ -682,6 +689,7 @@
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d25dfknw9ghxs6.cloudfront.net
 127.0.0.1 d2bnxibecyz4h5.cloudfront.net
+127.0.0.1 d2c4r37pj8idja.cloudfront.net
 127.0.0.1 d2c8v52ll5s99u.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
 127.0.0.1 d2gatte9o95jao.cloudfront.net
@@ -698,6 +706,7 @@
 127.0.0.1 d38nbbai6u794i.cloudfront.net
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 d3c3cq33003psk.cloudfront.net
+127.0.0.1 d3hitamb7drqut.cloudfront.net
 127.0.0.1 d3tsytm1wtjqo2.cloudfront.net
 127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
@@ -752,6 +761,7 @@
 127.0.0.1 disneystore.ugc.bazaarvoice.com
 127.0.0.1 display.apester.com
 127.0.0.1 display.ugc.bazaarvoice.com
+127.0.0.1 disqus.com
 127.0.0.1 dixons.inq.com
 127.0.0.1 dk98ddgl0znzm.cloudfront.net
 127.0.0.1 dmd.metaservices.microsoft.com
@@ -816,6 +826,7 @@
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
 127.0.0.1 euapi.ibm.xtify.com
+127.0.0.1 eum.instana.io
 127.0.0.1 eurogamer-uk.eurogamer.net
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eu-u.openx.net
@@ -894,6 +905,7 @@
 127.0.0.1 gb.rdx2.lgtvsdp.com
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gcs.sc-cdn.net
+127.0.0.1 genesis.malwarebytes.com
 127.0.0.1 geni.us
 127.0.0.1 geo3.ggpht.com
 127.0.0.1 geocode.usefomo.com
@@ -980,6 +992,7 @@
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ichnaea.netflix.com
 127.0.0.1 i.clean.gg
+127.0.0.1 i.ctnsnet.com
 127.0.0.1 id5-sync.com
 127.0.0.1 identity.mparticle.com
 127.0.0.1 id.google.com
@@ -1061,6 +1074,7 @@
 127.0.0.1 k4z6w9b5.stackpathcdn.com
 127.0.0.1 k8vif92e-0fa8b7cd004f9b4bdddd908c4e5a2e89a501d45d-am1.e.aa.online-metrix.net
 127.0.0.1 k8vif92e-44d1b98b4fce52945f9376e98aa9bbdbc9c760c9-mob.d.aa.online-metrix.net
+127.0.0.1 karma.mdpcdn.com
 127.0.0.1 kimiwo.aishitei.ru
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
@@ -1190,6 +1204,7 @@
 127.0.0.1 mo.moonpig.com
 127.0.0.1 m.onelink.me
 127.0.0.1 monitor.channel4.com
+127.0.0.1 monu.delivery
 127.0.0.1 mormont.gamer-network.net
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
@@ -1807,6 +1822,7 @@
 127.0.0.1 telemetry-in.battle.net
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.qms.quicinc.com
+127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 telemetry.svc.halowaypoint.com
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 ters.eu-west-1.aiv-delivery.net
@@ -1906,6 +1922,7 @@
 127.0.0.1 usb.hextom.com
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 us.creativecdn.com
+127.0.0.1 us-east-1-a.route.herokuapp.com
 127.0.0.1 us-east-1-decisionapi.lift.acquia.com
 127.0.0.1 us-east-1.prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 user.huami.com
@@ -1945,6 +1962,7 @@
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
 127.0.0.1 v.lkqd.net
+127.0.0.1 vmss-eu.boldchat.com
 127.0.0.1 vop.sundaysky.com
 127.0.0.1 vortex-win.data.microsoft.com
 127.0.0.1 v.shopify.com
@@ -1963,6 +1981,7 @@
 127.0.0.1 weblb-wg.dual-gslb.spotify.com
 127.0.0.1 webpush-cdn.mobify.net
 127.0.0.1 web-sdk.urbanairship.com
+127.0.0.1 webservices.sub2tech.com
 127.0.0.1 webstats.channel4.com
 127.0.0.1 webtrends.telegraph.co.uk
 127.0.0.1 web.vortex.data.microsoft.com
@@ -2051,6 +2070,7 @@
 127.0.0.1 www.personalicanvas.com
 127.0.0.1 www.pinterest.com
 127.0.0.1 www.quantcast.com
+127.0.0.1 www.refinery29.com
 127.0.0.1 www.reptileforums.co.uk
 127.0.0.1 www.res-x.com
 127.0.0.1 www.sevenforums.com
@@ -2072,6 +2092,7 @@
 127.0.0.1 www.videolan.org
 127.0.0.1 www.viglink.com
 127.0.0.1 www.weebly.com
+127.0.0.1 www.worldometers.info
 127.0.0.1 www.yanks.com
 127.0.0.1 www.youtube-nocookie.com
 127.0.0.1 www.zergnet.com
