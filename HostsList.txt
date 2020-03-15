@@ -141,6 +141,8 @@
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 ali-crm.ru
+127.0.0.1 alog.umengcloud.com
+127.0.0.1 alog.umeng.com
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 a.mailmunch.co
 127.0.0.1 amazoncustomerservice.d2.sc.omtrdc.net
@@ -1000,6 +1002,7 @@
 127.0.0.1 i.emlfiles4.com
 127.0.0.1 ieonline.microsoft.com
 127.0.0.1 i.facebook.com
+127.0.0.1 im64.jpush.cn
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image.dhgate.com
 127.0.0.1 image.ibb.co
@@ -1505,6 +1508,7 @@
 127.0.0.1 rps-p2.rockpapershotgun.com
 127.0.0.1 rps-uk.rockpapershotgun.com
 127.0.0.1 rpxnow.com
+127.0.0.1 rsci.app.link
 127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
 127.0.0.1 rsload.net
@@ -1623,10 +1627,12 @@
 127.0.0.1 sic.33across.com
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 single.upsight-api.com
+127.0.0.1 sis.jpush.io
 127.0.0.1 sitebooster.com
 127.0.0.1 siteeuwest.slgnt.eu
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 skypexbox.skype.com
 127.0.0.1 smartlock.google.com
@@ -1736,6 +1742,7 @@
 127.0.0.1 statse.webtrendslive.com
 127.0.0.1 statsfe2.update.microsoft.com
 127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 stats.jpush.cn
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.mainroll.com
 127.0.0.1 stats.pusher.com
@@ -1915,6 +1922,7 @@
 127.0.0.1 unagi-na.amazon.com
 127.0.0.1 unpkg.com
 127.0.0.1 u.openx.net
+127.0.0.1 update.sdk.jiguang.cn
 127.0.0.1 upgrade.scdn.co
 127.0.0.1 urs.cnet.com
 127.0.0.1 urs.zdnet.com
