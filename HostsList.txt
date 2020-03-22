@@ -73,6 +73,7 @@
 127.0.0.1 account.xiaomi.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 a.cdn.intentmedia.net
+127.0.0.1 activity.windows.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adc3-launch.adcolony.com
@@ -194,6 +195,7 @@
 127.0.0.1 a.optnmnstr.com
 127.0.0.1 a.optnmstr.com
 127.0.0.1 apex.go.sonobi.com
+127.0.0.1 api-2-0.spot.im
 127.0.0.1 api2.branch.io
 127.0.0.1 api.account.xiaomi.com
 127.0.0.1 api.admob.xiaomi.com
@@ -219,6 +221,7 @@
 127.0.0.1 api.ipdata.co
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
+127.0.0.1 api-js.mixpanel.com
 127.0.0.1 api.keen.io
 127.0.0.1 api.leanplum.com
 127.0.0.1 api-mifit-de.huami.com
@@ -274,6 +277,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 app.redretarget.com
 127.0.0.1 apprep.smartscreen.microsoft.com
+127.0.0.1 apps.elfsight.com
 127.0.0.1 appsitemsuggest-pa.googleapis.com
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 apps.nexus.bazaarvoice.com
@@ -420,6 +424,8 @@
 127.0.0.1 cas.criteo.com
 127.0.0.1 c.betrad.com
 127.0.0.1 c.bing.com
+127.0.0.1 cbsdigitalmedia.d1.sc.omtrdc.net
+127.0.0.1 cbsdigitalmedia.hb.omtrdc.net
 127.0.0.1 cbsi.demdex.net
 127.0.0.1 cbsi-d.openx.net
 127.0.0.1 cbsinteractive.hb.omtrdc.net
@@ -451,6 +457,7 @@
 127.0.0.1 cdn.blueconic.net
 127.0.0.1 cdn.boomtrain.com
 127.0.0.1 cdn.branch.io
+127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 cdn.brcdn.com
 127.0.0.1 cdn.concert.io
 127.0.0.1 cdn.connatix.com
@@ -459,6 +466,7 @@
 127.0.0.1 cdn.datatables.net
 127.0.0.1 cdn.digitru.st
 127.0.0.1 cdn.digitrust.mgr.consensu.org
+127.0.0.1 cdn.discordapp.com
 127.0.0.1 cdn.districtm.ca
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
@@ -811,6 +819,7 @@
 127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edigitalsurvey.com
+127.0.0.1 elinkeu.clickdimensions.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
@@ -1018,6 +1027,7 @@
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 improving.duckduckgo.com
 127.0.0.1 in.appcenter.ms
+127.0.0.1 incartupsell-oihcsf0gzy.netdna-ssl.com
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 inference.location.live.net
 127.0.0.1 infinityid.condenastdigital.com
@@ -1060,6 +1070,7 @@
 127.0.0.1 js.braintreegateway.com
 127.0.0.1 js.bronto.com
 127.0.0.1 jsc.mgid.com
+127.0.0.1 js.content.ea.com
 127.0.0.1 js.gleam.io
 127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
@@ -1101,6 +1112,7 @@
 127.0.0.1 lift3assets.lift.acquia.com
 127.0.0.1 lightstep-collector.api.ua.com
 127.0.0.1 link.p0.com
+127.0.0.1 links.mkt61.net
 127.0.0.1 links.services.disqus.com
 127.0.0.1 linuxbsdos.com
 127.0.0.1 linuxconfig.org
@@ -1475,6 +1487,7 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarsubmissions.apple.com
 127.0.0.1 ramp.purch.com
+127.0.0.1 raven-tracking.web.app
 127.0.0.1 r.bbci.co.uk
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rddywd.com
@@ -1571,10 +1584,12 @@
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 sdk-configuration.gimbal.com
 127.0.0.1 sdk.fra-01.braze.eu
+127.0.0.1 sdk.hockeyapp.net
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdktm.w.inmobi.com
 127.0.0.1 seal.geotrust.com
+127.0.0.1 seal.godaddy.com
 127.0.0.1 search-api.fie.future.net.uk
 127.0.0.1 search.spotxchange.com
 127.0.0.1 secure.ace-tag.advertising.com
@@ -1909,6 +1924,7 @@
 127.0.0.1 u1828302.ct.sendgrid.net
 127.0.0.1 uaid-linkage.imrworldwide.com
 127.0.0.1 ubisoftinternational.demdex.net
+127.0.0.1 ucarecdn.com
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udd8uxur-6f152d059efe4393c7277dcd57d057e67cc8b3de-am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxur-f2814640f50a6606adb09d436325a877aadec172-am1.e.aa.online-metrix.net
