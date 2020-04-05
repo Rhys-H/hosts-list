@@ -1,5 +1,7 @@
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.gravatar.com
+127.0.0.1 100007706.recs.igodigital.com
+127.0.0.1 100010486.collect.igodigital.com
 127.0.0.1 10964987.collect.igodigital.com
 127.0.0.1 10s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 111208-android-ds.metric.gstatic.com
@@ -147,6 +149,7 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 a.mailmunch.co
+127.0.0.1 amazon.com
 127.0.0.1 amazoncustomerservice.d2.sc.omtrdc.net
 127.0.0.1 amazonwebservicesinc.tt.omtrdc.net
 127.0.0.1 a.mobify.com
@@ -212,6 +215,7 @@
 127.0.0.1 api.bazaarvoice.com
 127.0.0.1 api.branch.io
 127.0.0.1 api.coinbase.com
+127.0.0.1 api.crashlytics.com
 127.0.0.1 api.db-ip.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 api.eu.amazonalexa.com
@@ -248,6 +252,7 @@
 127.0.0.1 api.taboola.com
 127.0.0.1 api.tracker.gg
 127.0.0.1 api.treasuredata.com
+127.0.0.1 api.tvpage.com
 127.0.0.1 api.usebutton.com
 127.0.0.1 api-user-de.huami.com
 127.0.0.1 api-user.huami.com
@@ -317,6 +322,7 @@
 127.0.0.1 ats.ccmp.eu
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 attractivecap.com
+127.0.0.1 a.tvpage.com
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 audit.quantcast.mgr.consensu.org
 127.0.0.1 autodiscover.admiralgroup.co.uk
@@ -401,6 +407,7 @@
 127.0.0.1 bt.signifyd.com
 127.0.0.1 buffer-media-uploads.s3.amazonaws.com
 127.0.0.1 bugmenot.com
+127.0.0.1 builder-assets.unbounce.com
 127.0.0.1 bungie.net
 127.0.0.1 burnside.dtcn.com
 127.0.0.1 b.wal.co
@@ -446,6 +453,7 @@
 127.0.0.1 cdn3.optimizely.com
 127.0.0.1 cdn4.mxpnl.com
 127.0.0.1 cdn5.userzoom.com
+127.0.0.1 cdn6.vizury.com
 127.0.0.1 cdn9.forter.com
 127.0.0.1 cdn.accelerator.arsdev.net
 127.0.0.1 cdn.adsafeprotected.com
@@ -487,6 +495,7 @@
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdnjs.cloudflare.com
 127.0.0.1 cdn.jsdelivr.net
+127.0.0.1 cdnjs.tvpage.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.lenmit.com
 127.0.0.1 cdn.livechatinc.com
@@ -520,6 +529,7 @@
 127.0.0.1 cdns.brsrvr.com
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn-scripts.signifyd.com
+127.0.0.1 cdn.searchspring.net
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn.segment.io
 127.0.0.1 cdn-settings.segment.com
@@ -640,6 +650,7 @@
 127.0.0.1 config.edge.skype.com
 127.0.0.1 config.ioam.de
 127.0.0.1 config.safedk.com
+127.0.0.1 config.samqaicongen.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connatix-d.openx.net
 127.0.0.1 connect.facebook.net
@@ -669,6 +680,7 @@
 127.0.0.1 cp.impdesk.com
 127.0.0.1 cpt.itv.com
 127.0.0.1 crackberry.com
+127.0.0.1 crashlytics.com
 127.0.0.1 crash.steampowered.com
 127.0.0.1 crl.microsoft.com
 127.0.0.1 crta.dailymail.co.uk
@@ -717,6 +729,7 @@
 127.0.0.1 d2zv5rkii46miq.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d31vxm9ubutrmw.cloudfront.net
+127.0.0.1 d33wubrfki0l68.cloudfront.net
 127.0.0.1 d38nbbai6u794i.cloudfront.net
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 d3c3cq33003psk.cloudfront.net
@@ -726,6 +739,7 @@
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
 127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9etzk30b05yg.cloudfront.net
+127.0.0.1 d9hhrg4mnvzow.cloudfront.net
 127.0.0.1 d.agkn.com
 127.0.0.1 d.applovin.com
 127.0.0.1 d.appsdt.com
@@ -765,6 +779,7 @@
 127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 dgxwdt4z5fqs6.cloudfront.net
+127.0.0.1 dialogue.sp-prod.net
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 digprjsurvey.amazon.eu
 127.0.0.1 d.impactradius-event.com
@@ -776,6 +791,7 @@
 127.0.0.1 display.apester.com
 127.0.0.1 display.ugc.bazaarvoice.com
 127.0.0.1 disqus.com
+127.0.0.1 distributed-tracing.service.newrelic.com
 127.0.0.1 dixons.inq.com
 127.0.0.1 dk98ddgl0znzm.cloudfront.net
 127.0.0.1 dmd.metaservices.microsoft.com
@@ -808,6 +824,7 @@
 127.0.0.1 dw.cbsi.com
 127.0.0.1 d.xp1.ru4.com
 127.0.0.1 dyjpb62732.i.lithium.com
+127.0.0.1 e-10250.adzerk.net
 127.0.0.1 e1151.e12.akamaiedge.net
 127.0.0.1 e2e.mashable.com
 127.0.0.1 e6913.dscx.akamaiedge.net
@@ -853,6 +870,7 @@
 127.0.0.1 events.browsiprod.com
 127.0.0.1 events-collector.spot.im
 127.0.0.1 events.gfe.nvidia.com
+127.0.0.1 events.launchdarkly.com
 127.0.0.1 events.mapbox.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 events.streamrail.net
@@ -862,6 +880,7 @@
 127.0.0.1 experience.tinypass.com
 127.0.0.1 external.fbrs1-2.fna.fbcdn.net
 127.0.0.1 ext-sq.squarespace.com
+127.0.0.1 fabric.io
 127.0.0.1 famousbirthdays-d.openx.net
 127.0.0.1 fast.fonts.net
 127.0.0.1 fast.forbes.com
@@ -935,6 +954,7 @@
 127.0.0.1 geover-prod.do.dsp.mp.microsoft.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 get.convrse.media
+127.0.0.1 gethatch.com
 127.0.0.1 get.s-onetag.com
 127.0.0.1 g.ezoic.net
 127.0.0.1 gfwsl.geforce.com
@@ -993,6 +1013,7 @@
 127.0.0.1 hits-secure.theguardian.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 h-microsoft.online-metrix.net
+127.0.0.1 hockeyapp.net
 127.0.0.1 hollywoodlife.com
 127.0.0.1 hotels.com
 127.0.0.1 hrum.hotelsapi.io
@@ -1042,6 +1063,7 @@
 127.0.0.1 innervate.us
 127.0.0.1 input.mozilla.org
 127.0.0.1 insight.adsrvr.org
+127.0.0.1 insight.reflow.tv
 127.0.0.1 insights.algolia.io
 127.0.0.1 insights.hotjar.com
 127.0.0.1 ins-stats-prod.newworldinteractive.com
@@ -1080,7 +1102,9 @@
 127.0.0.1 js.content.ea.com
 127.0.0.1 js.gleam.io
 127.0.0.1 js.gumgum.com
+127.0.0.1 js.hsadspixel.net
 127.0.0.1 js.hs-analytics.net
+127.0.0.1 js.hscollectedforms.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.leadin.com
 127.0.0.1 js.logentries.com
@@ -1228,6 +1252,7 @@
 127.0.0.1 m.onelink.me
 127.0.0.1 monitor.channel4.com
 127.0.0.1 monu.delivery
+127.0.0.1 moonpig.com
 127.0.0.1 mormont.gamer-network.net
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
@@ -1331,6 +1356,7 @@
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-dot-acp-magento.appspot.com
 127.0.0.1 ping.dozuki.com
+127.0.0.1 pinpoint.us-east-1.amazonaws.com
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pixel.33across.com
@@ -1363,6 +1389,7 @@
 127.0.0.1 placehold.it
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 platform.linkedin.com
+127.0.0.1 platform.tumblr.com
 127.0.0.1 platform.twitter.com
 127.0.0.1 player2.h-cdn.com
 127.0.0.1 player.h-cdn.com
@@ -1681,9 +1708,12 @@
 127.0.0.1 socialize.us1.gigya.com
 127.0.0.1 sock114-mt1.pusher.com
 127.0.0.1 sock143-mt1.pusher.com
+127.0.0.1 sock146-mt1.pusher.com
 127.0.0.1 sock150-mt1.pusher.com
 127.0.0.1 sock151-mt1.pusher.com
 127.0.0.1 sock162-mt1.pusher.com
+127.0.0.1 sock165-mt1.pusher.com
+127.0.0.1 sock166-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
 127.0.0.1 sockjs-eu.pusher.com
 127.0.0.1 sockjs.pusher.com
@@ -1775,6 +1805,7 @@
 127.0.0.1 stats.jpush.cn
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.mainroll.com
+127.0.0.1 stats.priceonomics.com
 127.0.0.1 stats.pusher.com
 127.0.0.1 stats.qalabs.symantec.com
 127.0.0.1 stats.redditmedia.com
@@ -1837,6 +1868,7 @@
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.tiqcdn.com
+127.0.0.1 tags.w55c.net
 127.0.0.1 tag.yieldoptimizer.com
 127.0.0.1 talksport.com
 127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
@@ -1950,6 +1982,7 @@
 127.0.0.1 udmserve.net
 127.0.0.1 uhf.microsoft.com
 127.0.0.1 uid.mavencoalition.io
+127.0.0.1 uk.ask.com
 127.0.0.1 uktc.ijento.com
 127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
@@ -2046,6 +2079,7 @@
 127.0.0.1 wifiapi.micloud.xiaomi.net
 127.0.0.1 wikia-d.openx.net
 127.0.0.1 wkxppshj-qx.global.ssl.fastly.net
+127.0.0.1 wordpress.com
 127.0.0.1 wren.condenastdigital.com
 127.0.0.1 ws3.hotjar.com
 127.0.0.1 ws.batch.com
