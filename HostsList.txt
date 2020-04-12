@@ -117,6 +117,7 @@
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.teamcoco.com
 127.0.0.1 adstudio-assets.scdn.co
+127.0.0.1 ads.xm.cloud.com
 127.0.0.1 ad.sxp.smartclip.net
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yieldmo.com
@@ -180,6 +181,7 @@
 127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.oyorooms.com
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analytics.samsungknox.com
 127.0.0.1 analytics-service.us-east-1.prod.public.atl-paas.net
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.sleeknote.com
@@ -224,6 +226,8 @@
 127.0.0.1 api.fing.io
 127.0.0.1 api.foursquare.com
 127.0.0.1 api.fusepowered.com
+127.0.0.1 api.hostip.info
+127.0.0.1 api.hubapi.com
 127.0.0.1 api.ipdata.co
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
@@ -308,6 +312,7 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.context.ly
 127.0.0.1 assets.customer.io
+127.0.0.1 assets.jetlore.com
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.juicer.io
 127.0.0.1 assets.pinterest.com
@@ -335,6 +340,7 @@
 127.0.0.1 az690879.vo.msecnd.net
 127.0.0.1 az725175.vo.msecnd.net
 127.0.0.1 a.zdbb.net
+127.0.0.1 b45f12f3d1d8ff61fde258f94943ae3b02a43d94.cws.conviva.com
 127.0.0.1 badges.instagram.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 banner.advertising.com
@@ -370,14 +376,17 @@
 127.0.0.1 beam.koddi.com
 127.0.0.1 bethesda.net
 127.0.0.1 bf08412nhq.bf.dynatrace.com
+127.0.0.1 bf27921kpd.bf.dynatrace.com
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 bgr.com
 127.0.0.1 bh.contextweb.com
 127.0.0.1 bidbarrel.cbsnews.com
 127.0.0.1 bid.contextweb.com
 127.0.0.1 bidder.criteo.com
+127.0.0.1 bidder.rtk.io
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 bit.ly
+127.0.0.1 bitly.com
 127.0.0.1 bitmovin.com
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 blocklists-settings.prod.mozaws.net
@@ -416,6 +425,7 @@
 127.0.0.1 c1.adform.net
 127.0.0.1 c1.microsoft.com
 127.0.0.1 c2.taboola.com
+127.0.0.1 c4ads.2cnt.net
 127.0.0.1 c-5uwzmx78pmca90x24ilax2ex78cjuibqkx2ekwu.g00.gamepedia.com
 127.0.0.1 c-5uwzmx78pmca90x24ktqmvbx2evivwdqawzx2eqw.g00.gamepedia.com
 127.0.0.1 c-5uwzmx78pmca90x24nwvbax2eoabibqkx2ekwu.g00.gamepedia.com
@@ -574,6 +584,7 @@
 127.0.0.1 cfvod.kaltura.com
 127.0.0.1 cgi.connect.qq.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 channel4.sc.omtrdc.net
 127.0.0.1 channel4-test.testonly.conviva.com
 127.0.0.1 chart.googleapis.com
 127.0.0.1 check2.lloydsbank.co.uk
@@ -610,6 +621,7 @@
 127.0.0.1 client-event-reporter.twitch.tv
 127.0.0.1 client.hip.live.com
 127.0.0.1 client.perimeterx.net
+127.0.0.1 client.px-cloud.net
 127.0.0.1 client-s.gateway.messenger.live.com
 127.0.0.1 clientstream.launchdarkly.com
 127.0.0.1 c.live.com
@@ -801,6 +813,7 @@
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 docdro.id
+127.0.0.1 domclickext.xyz
 127.0.0.1 downdetector.com
 127.0.0.1 download.cnet.com
 127.0.0.1 downloads.intercomcdn.com
@@ -834,9 +847,11 @@
 127.0.0.1 eb.trbas.com
 127.0.0.1 ecn.dev.virtualearth.net
 127.0.0.1 e.crashlytics.com
+127.0.0.1 e.curalate.com
 127.0.0.1 edge1.certona.net
 127.0.0.1 edge-block-www.traffic-test.dropbox-dns.com
 127.0.0.1 edge-chat.facebook.com
+127.0.0.1 edge.curalate.com
 127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edigitalsurvey.com
@@ -855,6 +870,7 @@
 127.0.0.1 espn.hb.omtrdc.net
 127.0.0.1 etsy.trackinglibrary.prodperfect.com
 127.0.0.1 eu2.cdn.thunderhead.com
+127.0.0.1 eu2.thunderhead.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
 127.0.0.1 euapi.ibm.xtify.com
@@ -924,6 +940,7 @@
 127.0.0.1 fs.microsoft.com
 127.0.0.1 fsr.lenovomm.com
 127.0.0.1 ftvr-na.amazon.com
+127.0.0.1 fundingchoices.google.com
 127.0.0.1 fundingchoicesmessages.google.com
 127.0.0.1 futureplc.slgnt.eu
 127.0.0.1 fx.nvc.engb.nuancemobility.net
@@ -949,6 +966,7 @@
 127.0.0.1 geoip-db.com
 127.0.0.1 geoip.fing.io
 127.0.0.1 geolocation.onetrust.com
+127.0.0.1 geo.moatads.com
 127.0.0.1 geo-prod.do.dsp.mp.microsoft.com
 127.0.0.1 geoservice.curse.com
 127.0.0.1 geover-prod.do.dsp.mp.microsoft.com
@@ -1086,6 +1104,7 @@
 127.0.0.1 ir0.mobify.com
 127.0.0.1 i.rmbl.ws
 127.0.0.1 ir-na.amazon-adsystem.com
+127.0.0.1 ir-uk.amazon-adsystem.com
 127.0.0.1 is.gd
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jalopnik.com
@@ -1139,6 +1158,7 @@
 127.0.0.1 lgin.msa.trafficmanager.net
 127.0.0.1 lgtvonline.lge.com
 127.0.0.1 libs.coremetrics.com
+127.0.0.1 licensebuttons.net
 127.0.0.1 licensing.bitmovin.com
 127.0.0.1 lift3assets.lift.acquia.com
 127.0.0.1 lightstep-collector.api.ua.com
@@ -1175,6 +1195,7 @@
 127.0.0.1 logs.amap.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 logx.optimizely.com
+127.0.0.1 log.zoom.us
 127.0.0.1 lo.idp.liveperson.net
 127.0.0.1 l.ooyala.com
 127.0.0.1 lptag.liveperson.net
@@ -1372,6 +1393,7 @@
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 pixel.nymag.com
 127.0.0.1 pixel.quantserve.com
+127.0.0.1 pixel-rmk.blueknow.com
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 pixels.ad.gt
@@ -1525,6 +1547,7 @@
 127.0.0.1 ramp.purch.com
 127.0.0.1 raven-tracking.web.app
 127.0.0.1 r.bbci.co.uk
+127.0.0.1 rcm-eu.amazon-adsystem.com
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rddywd.com
 127.0.0.1 realtime04.pepper.com
@@ -1541,6 +1564,7 @@
 127.0.0.1 redshell.io
 127.0.0.1 referrer.disqus.com
 127.0.0.1 register.appsflyer.com
+127.0.0.1 relish.com
 127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 report-ads-to.pubnation.com
 127.0.0.1 reports.crashlytics.com
@@ -1631,14 +1655,17 @@
 127.0.0.1 search.spotxchange.com
 127.0.0.1 secure.ace-tag.advertising.com
 127.0.0.1 secure.adnxs.com
+127.0.0.1 secure.assets.tumblr.com
 127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 secure-cdn.mplxtms.com
+127.0.0.1 securecdn.videologygroup.com
 127.0.0.1 secure-dcr.imrworldwide.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure.footprint.net
 127.0.0.1 secure-gg.imrworldwide.com
 127.0.0.1 secure-gl.imrworldwide.com
 127.0.0.1 secure.gravatar.com
+127.0.0.1 secure.hiss3lark.com
 127.0.0.1 secure.imrworldwide.com
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
@@ -1730,9 +1757,11 @@
 127.0.0.1 speedtrap.shopdirect.com
 127.0.0.1 spgo.io
 127.0.0.1 spl.zeotap.com
+127.0.0.1 spm.hextom.com
 127.0.0.1 s.po.st
 127.0.0.1 spotify.com
 127.0.0.1 spotops.spot.im
+127.0.0.1 springboardplatform.com
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.put.re
 127.0.0.1 sr4.liveperson.net
@@ -1742,6 +1771,7 @@
 127.0.0.1 srv.main.ebayrtm.com
 127.0.0.1 srv.pixel.parsely.com
 127.0.0.1 srx.main.ebayrtm.com
+127.0.0.1 ssc.33across.com
 127.0.0.1 ssc.independent.co.uk
 127.0.0.1 ssc.standard.co.uk
 127.0.0.1 s.skimresources.com
@@ -1847,6 +1877,7 @@
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.mathtag.com
+127.0.0.1 sync.rtk.io
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync.serverbid.com
 127.0.0.1 sync-tm.everesttech.net
@@ -1905,6 +1936,7 @@
 127.0.0.1 theonion.com
 127.0.0.1 theroot.com
 127.0.0.1 thisis-images.scdn.co
+127.0.0.1 thisiswaldo.com
 127.0.0.1 th.symcd.com
 127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 tlp-02.kameleoon.com
@@ -2066,6 +2098,7 @@
 127.0.0.1 whereisxur.com
 127.0.0.1 widget.cloud.opta.net
 127.0.0.1 widget.criteo.com
+127.0.0.1 widget.fitanalytics.com
 127.0.0.1 widget.intercom.io
 127.0.0.1 widget.privy.com
 127.0.0.1 widgets.fie-data.co.uk
@@ -2084,6 +2117,7 @@
 127.0.0.1 ws3.hotjar.com
 127.0.0.1 ws.batch.com
 127.0.0.1 ws.coinbase.com
+127.0.0.1 ws-eu.amazon-adsystem.com
 127.0.0.1 ws-eu.pusher.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 wsp.mgid.com
@@ -2159,6 +2193,7 @@
 127.0.0.1 www.stack-sonar.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
+127.0.0.1 www.surveygizmo.eu
 127.0.0.1 www.tenforums.com
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
@@ -2194,6 +2229,7 @@
 127.0.0.1 yt.moatads.com
 127.0.0.1 zdbb.net
 127.0.0.1 zebra.pushbullet.com
+127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 z.lenmit.com
 127.0.0.1 z-m.c10r.facebook.com
 127.0.0.1 z.moatads.com
