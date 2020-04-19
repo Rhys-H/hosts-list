@@ -115,6 +115,7 @@
 127.0.0.1 ads-resources.waze.com
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 ads.servebom.com
+127.0.0.1 ads-servebom-com.cdn.ampproject.org
 127.0.0.1 ads.teamcoco.com
 127.0.0.1 adstudio-assets.scdn.co
 127.0.0.1 ads.xm.cloud.com
@@ -171,8 +172,10 @@
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.getshogun.com
 127.0.0.1 analytics.global.sky.com
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics.jibecdn.com
 127.0.0.1 analytics.justuno.com
+127.0.0.1 analytics.krisp.ai
 127.0.0.1 analytics.linktr.ee
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.logsss.com
@@ -182,6 +185,7 @@
 127.0.0.1 analytics.oyorooms.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.samsungknox.com
+127.0.0.1 analytics.sandstorm.game
 127.0.0.1 analytics-service.us-east-1.prod.public.atl-paas.net
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics.sleeknote.com
@@ -228,6 +232,7 @@
 127.0.0.1 api.fusepowered.com
 127.0.0.1 api.hostip.info
 127.0.0.1 api.hubapi.com
+127.0.0.1 api.instabug.com
 127.0.0.1 api.ipdata.co
 127.0.0.1 api.ipify.org
 127.0.0.1 api.iris.tv
@@ -254,6 +259,7 @@
 127.0.0.1 api.smoot.apple.com
 127.0.0.1 api.stathat.com
 127.0.0.1 api.taboola.com
+127.0.0.1 api.taplytics.com
 127.0.0.1 api.tracker.gg
 127.0.0.1 api.treasuredata.com
 127.0.0.1 api.tvpage.com
@@ -290,6 +296,7 @@
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 apps.elfsight.com
 127.0.0.1 appsitemsuggest-pa.googleapis.com
+127.0.0.1 app-sj14.marketo.com
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 appuals.com
@@ -532,6 +539,7 @@
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.raygun.io
 127.0.0.1 cdn.rdshll.com
+127.0.0.1 cdn.refersion.com
 127.0.0.1 cdn.roiq-vice.ranker.com
 127.0.0.1 cdns1.gigya.com
 127.0.0.1 cdns2.gigya.com
@@ -626,6 +634,7 @@
 127.0.0.1 clientstream.launchdarkly.com
 127.0.0.1 c.live.com
 127.0.0.1 clk.tradedoubler.com
+127.0.0.1 clkuk.tradedoubler.com
 127.0.0.1 cloudapi.imrworldwide.com
 127.0.0.1 cloud-commerce-visit.oracleoutsourcing.com
 127.0.0.1 cloudflare.com
@@ -722,6 +731,7 @@
 127.0.0.1 d1lxz4vuik53pc.cloudfront.net
 127.0.0.1 d1sp2sgy246t7c.cloudfront.net
 127.0.0.1 d1xfq2052q7thw.cloudfront.net
+127.0.0.1 d1xnn692s7u6t6.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d20i5e3rqc90ne.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
@@ -1154,6 +1164,7 @@
 127.0.0.1 lantern.roeye.com
 127.0.0.1 launcher.spot.im
 127.0.0.1 launches.appsflyer.com
+127.0.0.1 l.betrad.com
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
 127.0.0.1 lgin.msa.trafficmanager.net
 127.0.0.1 lgtvonline.lge.com
@@ -1198,6 +1209,7 @@
 127.0.0.1 log.zoom.us
 127.0.0.1 lo.idp.liveperson.net
 127.0.0.1 l.ooyala.com
+127.0.0.1 lp.longtailvideo.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 l.sharethis.com
 127.0.0.1 lu.api.mega.co.nz
@@ -1249,6 +1261,7 @@
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics-collector.s-onetag.com
 127.0.0.1 metrics.fitanalytics.com
+127.0.0.1 metrics.getvitals.io
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
 127.0.0.1 metrics-nl.fitanalytics.com
@@ -1533,8 +1546,10 @@
 127.0.0.1 r5---sn-aigzrn7s.googlevideo.com
 127.0.0.1 r5---sn-p5qs7n7s.googlevideo.com
 127.0.0.1 r5---sn-q4fl6n7z.googlevideo.com
+127.0.0.1 r5---sn-vgqsenek.googlevideo.com
 127.0.0.1 r6---sn-4g5e6ney.googlevideo.com
 127.0.0.1 r6---sn-4g5edn7s.googlevideo.com
+127.0.0.1 r6---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r6---sn-5hne6n7l.googlevideo.com
 127.0.0.1 r6---sn-5hne6n7s.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
@@ -1556,6 +1571,7 @@
 127.0.0.1 recommendation-hybrid.wpdigital.net
 127.0.0.1 recommendation-newsletter.wpdigital.net
 127.0.0.1 recommender.scarabresearch.com
+127.0.0.1 rec.smartlook.com
 127.0.0.1 recs.richrelevance.com
 127.0.0.1 recsys-api.buzzfeed.com
 127.0.0.1 reddit.app.link
@@ -1621,6 +1637,7 @@
 127.0.0.1 salesiq.zoho.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 sam.msn.com
+127.0.0.1 sandstorm-statistics-player-api.newworldinteractive.com
 127.0.0.1 sb.monetate.net
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 s.btstatic.com
@@ -1742,13 +1759,16 @@
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
+127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
+127.0.0.1 sockjs-mt1.pusher.com
 127.0.0.1 sockjs.pusher.com
 127.0.0.1 sofia.trustx.org
 127.0.0.1 soma.smaato.net
 127.0.0.1 sombersurprise.com
 127.0.0.1 somethingturquoise.com
 127.0.0.1 sortsummer.com
+127.0.0.1 soundguys.com
 127.0.0.1 spade.twitch.tv
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 speccy.piriform.com
@@ -1918,6 +1938,7 @@
 127.0.0.1 telegraph-ash.instagram.com
 127.0.0.1 telegraphmedia.bootstrap.fyre.co
 127.0.0.1 telegraph.sdk.beemray.com
+127.0.0.1 telemetry.allrecipes.com
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.battle.net
 127.0.0.1 telemetry.dropbox.com
@@ -1964,6 +1985,7 @@
 127.0.0.1 tracker-client.carts.guru
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.nitropay.com
+127.0.0.1 tracker.trackerboxs.com
 127.0.0.1 tracker.yougov.com
 127.0.0.1 tracking.bauermedia.co.uk
 127.0.0.1 tracking.epicgames.com
@@ -2119,6 +2141,7 @@
 127.0.0.1 ws.coinbase.com
 127.0.0.1 ws-eu.amazon-adsystem.com
 127.0.0.1 ws-eu.pusher.com
+127.0.0.1 ws-mt1.pusher.com
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 wsp.mgid.com
 127.0.0.1 ws.pusherapp.com
@@ -2166,6 +2189,7 @@
 127.0.0.1 www.intensedebate.com
 127.0.0.1 www.ist-track.com
 127.0.0.1 www.justgiving.com
+127.0.0.1 www.kinguin.net
 127.0.0.1 www.kqzyfj.com
 127.0.0.1 www.lgbtqnation.com
 127.0.0.1 www.lightboxcdn.com
