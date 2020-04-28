@@ -2216,8 +2216,6 @@
 127.0.0.1 yd92qw6q-e9651fbf338c5bef76ea8a537185777262b95a1c-am1.e.aa.online-metrix.net
 127.0.0.1 yen.appsfire.net
 127.0.0.1 yield-manager.browsiprod.com
-127.0.0.1 youtu.be
-127.0.0.1 ytimg-edge-static.l.google.com
 127.0.0.1 yt.moatads.com
 127.0.0.1 zdbb.net
 127.0.0.1 zebra.pushbullet.com
