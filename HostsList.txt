@@ -2179,7 +2179,6 @@
 127.0.0.1 www.refinery29.com
 127.0.0.1 www.reptileforums.co.uk
 127.0.0.1 www.res-x.com
-127.0.0.1 www.sevenforums.com
 127.0.0.1 www.skybet.com
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.snipurl.com
@@ -2188,7 +2187,6 @@
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.surveygizmo.eu
-127.0.0.1 www.tenforums.com
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
 127.0.0.1 www.thedailymash.co.uk
