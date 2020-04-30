@@ -225,7 +225,6 @@
 127.0.0.1 api.eu.amazonalexa.com
 127.0.0.1 api.eu-west-1.aiv-delivery.net
 127.0.0.1 api.facebook.com
-127.0.0.1 api.fing.io
 127.0.0.1 api.foursquare.com
 127.0.0.1 api.fusepowered.com
 127.0.0.1 api.hostip.info
