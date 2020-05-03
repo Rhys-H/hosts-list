@@ -152,6 +152,7 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 a.mailmunch.co
+127.0.0.1 amazonadsi-a.akamaihd.net
 127.0.0.1 amazon.com
 127.0.0.1 amazoncustomerservice.d2.sc.omtrdc.net
 127.0.0.1 amazonwebservicesinc.tt.omtrdc.net
@@ -287,6 +288,7 @@
 127.0.0.1 appboy-images.com
 127.0.0.1 app-cdn.spot.im
 127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 app.convertkit.com
 127.0.0.1 app.fing.io
 127.0.0.1 app.hubspot.com
 127.0.0.1 app.launchdarkly.com
@@ -342,6 +344,7 @@
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 audit.quantcast.mgr.consensu.org
 127.0.0.1 autodiscover.admiralgroup.co.uk
+127.0.0.1 autolinkmaker.itunes.apple.com
 127.0.0.1 autoproxy
 127.0.0.1 avatar-cdn.tracker.gg
 127.0.0.1 aviary.amazon.de
@@ -421,6 +424,7 @@
 127.0.0.1 browser-update.org
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 b.sharethrough.com
+127.0.0.1 b.siftscience.com
 127.0.0.1 b.sli-spark.com
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 b.stats.paypal.com
@@ -948,6 +952,7 @@
 127.0.0.1 fontawesome-cdn.fonticons.netdna-cdn.com
 127.0.0.1 forecasttiger.com
 127.0.0.1 forms.aweber.com
+127.0.0.1 forms.office.com
 127.0.0.1 fossbytes.com
 127.0.0.1 fo-static.omnitagjs.com
 127.0.0.1 frank-comp-na.amazon.com
@@ -1026,6 +1031,7 @@
 127.0.0.1 gs.dailymail.co.uk
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gs.wixapps.net
+127.0.0.1 g.symcd.com
 127.0.0.1 guce.advertising.com
 127.0.0.1 guce.huffpost.com
 127.0.0.1 gum.criteo.com
@@ -1171,6 +1177,7 @@
 127.0.0.1 ktpx-uk.amazon.com
 127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 l2.shared.us-eu.fastly.net
+127.0.0.1 l3.evidon.com
 127.0.0.1 l9bjkkhaycw6f8f4.soundcloud.com
 127.0.0.1 labs-cdn.revcontent.com
 127.0.0.1 lantern.roeye.com
@@ -1190,6 +1197,7 @@
 127.0.0.1 links.services.disqus.com
 127.0.0.1 linuxbsdos.com
 127.0.0.1 linuxconfig.org
+127.0.0.1 liverpoolecho.co.uk
 127.0.0.1 live.sekindo.com
 127.0.0.1 lloydsbankinggroup.sc.omtrdc.net
 127.0.0.1 lloydsbankinggroup.tt.omtrdc.net
@@ -1208,6 +1216,7 @@
 127.0.0.1 location.services.mozilla.com
 127.0.0.1 log.adap.tv
 127.0.0.1 log.dmtry.com
+127.0.0.1 logfiles.zoom.us
 127.0.0.1 log.gigabyte.com.tw
 127.0.0.1 log.hypebeast.com
 127.0.0.1 login.dotomi.com
@@ -1523,6 +1532,7 @@
 127.0.0.1 r2---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r2---sn-aigl6n7z.googlevideo.com
 127.0.0.1 r2---sn-aigl6ney.googlevideo.com
+127.0.0.1 r2---sn-p5qs7nes.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7l.googlevideo.com
 127.0.0.1 r3---sn-5hne6n7s.googlevideo.com
@@ -1626,6 +1636,7 @@
 127.0.0.1 r.turn.com
 127.0.0.1 rubiconproject.com
 127.0.0.1 rules.quantcount.com
+127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 rum.conde.io
 127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rum.logsss.com
@@ -1671,6 +1682,7 @@
 127.0.0.1 script.hotjar.com
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.mediavine.com
+127.0.0.1 scripts.webcontentassessor.com
 127.0.0.1 sc-static.net
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.adincube.com
@@ -1880,6 +1892,7 @@
 127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.searchanise.com
 127.0.0.1 stats.svc.halowaypoint.com
+127.0.0.1 stats.transversal.com
 127.0.0.1 stats.usefomo.com
 127.0.0.1 stats-us-west-2.callstats.io
 127.0.0.1 stats.windscribe.com
@@ -2033,6 +2046,7 @@
 127.0.0.1 tr.iadsdk.apple.com
 127.0.0.1 trinitymirror.grapeshot.co.uk
 127.0.0.1 trinity.platform.intuit.com
+127.0.0.1 trk.klclick1.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trowel.twitch.tv
 127.0.0.1 tr.snapchat.com
@@ -2089,6 +2103,7 @@
 127.0.0.1 v2.zopim.com
 127.0.0.1 vaes.amazon-adsystem.com
 127.0.0.1 validate.onecount.net
+127.0.0.1 vanguard.d2.sc.omtrdc.net
 127.0.0.1 variety.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 vast.streamrail.net
@@ -2148,6 +2163,7 @@
 127.0.0.1 widgets.future-fie.co.uk
 127.0.0.1 widgets.ign.com
 127.0.0.1 widgets.outbrain.com
+127.0.0.1 widgets.pinterest.com
 127.0.0.1 widgets.stackcommerce.com
 127.0.0.1 widget.trustpilot.com
 127.0.0.1 widget.uservoice.com
