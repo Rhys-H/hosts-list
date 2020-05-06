@@ -1851,7 +1851,6 @@
 127.0.0.1 s.tradingview.com
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 stream.playbuzz.com
-127.0.0.1 stripecdn.map.fastly.net
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 sumo.com
 127.0.0.1 s.update.fbsbx.com
