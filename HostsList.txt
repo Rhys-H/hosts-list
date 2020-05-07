@@ -830,7 +830,6 @@
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 d.turn.com
 127.0.0.1 dualstack.brightcove.map.fastly.net
-127.0.0.1 dualstack.com.imgix.map.fastly.net
 127.0.0.1 dualstack.us-eu.brightcove.map.fastly.net
 127.0.0.1 dw.cbsi.com
 127.0.0.1 d.xp1.ru4.com
