@@ -1791,7 +1791,6 @@
 127.0.0.1 stag.mdotlabs.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 s.tagsrvcs.com
-127.0.0.1 star.c10r.facebook.com
 127.0.0.1 stash.qubitproducts.com
 127.0.0.1 statcounter.com
 127.0.0.1 stat.dealtime.com
