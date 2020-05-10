@@ -36,6 +36,7 @@
 127.0.0.1 6-edge-chat.facebook.com
 127.0.0.1 6s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 718832-android-ds.metric.gstatic.com
+127.0.0.1 7289390.collect.igodigital.com
 127.0.0.1 7326844.collect.igodigital.com
 127.0.0.1 7336.engine.mobileapptracking.com
 127.0.0.1 741b2a0bd043.cdn4.forter.com
@@ -65,6 +66,7 @@
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 abeagle-public.buzzfeed.com
 127.0.0.1 abroad.apilocate.amap.com
@@ -487,6 +489,7 @@
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.avmws.com
+127.0.0.1 cdn.b0e8.com
 127.0.0.1 cdn.bestreviews.com
 127.0.0.1 cdn.bibblio.org
 127.0.0.1 cdn.bizible.com
@@ -500,6 +503,7 @@
 127.0.0.1 cdn.cooladata.com
 127.0.0.1 cdn.cquotient.com
 127.0.0.1 cdn.curalate.com
+127.0.0.1 cdn.cxense.com
 127.0.0.1 cdn.datatables.net
 127.0.0.1 cdn.decibelinsight.net
 127.0.0.1 cdn.digitru.st
@@ -587,6 +591,7 @@
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.vuukle.com
 127.0.0.1 cdn.whisk.com
+127.0.0.1 cdn.wootric.com
 127.0.0.1 cdn.ywxi.net
 127.0.0.1 cdn.ziffstatic.com
 127.0.0.1 cdp.cloud.unity3d.com
@@ -747,6 +752,7 @@
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d20i5e3rqc90ne.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
+127.0.0.1 d24rtvkqjwgutp.cloudfront.net
 127.0.0.1 d25dfknw9ghxs6.cloudfront.net
 127.0.0.1 d2bnxibecyz4h5.cloudfront.net
 127.0.0.1 d2c4r37pj8idja.cloudfront.net
@@ -834,7 +840,9 @@
 127.0.0.1 dna8twue3dlxq.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dns.msftncsi.com
+127.0.0.1 dntcl.qualaroo.com
 127.0.0.1 docdro.id
+127.0.0.1 dogtime.com
 127.0.0.1 domclickext.xyz
 127.0.0.1 downdetector.com
 127.0.0.1 download.cnet.com
@@ -1300,6 +1308,7 @@
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile.eum-appdynamics.com
+127.0.0.1 mobile.launchdarkly.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 mobile-service.segment.com
 127.0.0.1 mobvoi-analytics-transfer.mobvoi.com
@@ -1356,6 +1365,7 @@
 127.0.0.1 nrdp.nccp.netflix.com
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
+127.0.0.1 oao-d.openx.net
 127.0.0.1 o.aolcdn.com
 127.0.0.1 ocsp.apple.com
 127.0.0.1 ocsp.godaddy.com.akadns.net
@@ -1405,6 +1415,7 @@
 127.0.0.1 perf.logsss.com
 127.0.0.1 performance.typekit.net
 127.0.0.1 perr.h-cdn.com
+127.0.0.1 petmd.com
 127.0.0.1 pf.intuit.com
 127.0.0.1 phar.gu-web.net
 127.0.0.1 phonograph2.voxmedia.com
@@ -1606,6 +1617,7 @@
 127.0.0.1 redshell.io
 127.0.0.1 referrer.disqus.com
 127.0.0.1 register.appsflyer.com
+127.0.0.1 registration.freeola.net
 127.0.0.1 relish.com
 127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 report-ads-to.pubnation.com
@@ -1673,6 +1685,7 @@
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 scannables.scdn.co
 127.0.0.1 scdkey.com
+127.0.0.1 scdn.cxense.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
 127.0.0.1 scontent.xx.fbcdn.net
@@ -1909,6 +1922,7 @@
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 stream.playbuzz.com
 127.0.0.1 stripecdn.map.fastly.net
+127.0.0.1 stun.services.mozilla.com
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 sumo.com
 127.0.0.1 s.update.fbsbx.com
@@ -2075,6 +2089,7 @@
 127.0.0.1 uktc.ijento.com
 127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
+127.0.0.1 underarmour.tt.omtrdc.net
 127.0.0.1 unpkg.com
 127.0.0.1 u.openx.net
 127.0.0.1 update.sdk.jiguang.cn
@@ -2200,6 +2215,7 @@
 127.0.0.1 www.btserve.com
 127.0.0.1 www.c.booking.com
 127.0.0.1 www.ccleaner.com
+127.0.0.1 www.celebuzz.com
 127.0.0.1 www.checkip.org
 127.0.0.1 www.chicoryapp.com
 127.0.0.1 www.cosmopolitan.com
@@ -2243,6 +2259,7 @@
 127.0.0.1 www.personalicanvas.com
 127.0.0.1 www.pinterest.com
 127.0.0.1 www.quantcast.com
+127.0.0.1 www.quantserve.com
 127.0.0.1 www.refinery29.com
 127.0.0.1 www.reptileforums.co.uk
 127.0.0.1 www.res-x.com
