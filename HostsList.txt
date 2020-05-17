@@ -1315,7 +1315,6 @@
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
 127.0.0.1 o.aolcdn.com
-127.0.0.1 ocsp.apple.com
 127.0.0.1 ocsp.godaddy.com.akadns.net
 127.0.0.1 ocsp.sca1b.amazontrust.com
 127.0.0.1 odb.outbrain.com
