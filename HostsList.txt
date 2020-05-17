@@ -78,6 +78,7 @@
 127.0.0.1 account.xiaomi.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 a.cdn.intentmedia.net
+127.0.0.1 a.config.skype.com
 127.0.0.1 actionnetwork.org
 127.0.0.1 activity.windows.com
 127.0.0.1 ad.360yield.com
@@ -307,6 +308,7 @@
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 appuals.com
+127.0.0.1 app.viewdeos.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 a.pub.network
@@ -314,6 +316,7 @@
 127.0.0.1 arbsc36259691gb1.cobrowse.oraclecloud.com
 127.0.0.1 arc.msn.com
 127.0.0.1 arcus-uswest.amazon.com
+127.0.0.1 argos.co.uk
 127.0.0.1 argos.ugc.bazaarvoice.com
 127.0.0.1 a.root-servers.net
 127.0.0.1 as.casalemedia.com
@@ -376,6 +379,7 @@
 127.0.0.1 beacon-eu.hosted.exlibrisgroup.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon-nf.rubiconproject.com
+127.0.0.1 beacon.rci.eggplant.cloud
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacons2.gvt2.com
 127.0.0.1 beacons3.gvt2.com
@@ -413,6 +417,7 @@
 127.0.0.1 boardgamegeek.com
 127.0.0.1 boards.4chan.org
 127.0.0.1 boards-use1-cdn.greenhouse.io
+127.0.0.1 boomerang.dell.com
 127.0.0.1 boomr.iplayer.api.bbc.co.uk
 127.0.0.1 bootstrap.upsight-api.com
 127.0.0.1 boredcrown.com
@@ -500,6 +505,7 @@
 127.0.0.1 cdn.brcdn.com
 127.0.0.1 cdn.concert.io
 127.0.0.1 cdn.connatix.com
+127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.cooladata.com
 127.0.0.1 cdn.cquotient.com
 127.0.0.1 cdn.curalate.com
@@ -616,6 +622,7 @@
 127.0.0.1 chimpstatic.com
 127.0.0.1 chng.it
 127.0.0.1 chromefeedcontentsuggestions-pa.googleapis.com
+127.0.0.1 ci-first.iovation.com
 127.0.0.1 c.jsrdn.com
 127.0.0.1 ck.connatix.com
 127.0.0.1 clarium.global.ssl.fastly.net
@@ -680,6 +687,7 @@
 127.0.0.1 collector-pxdha6lqm5.perimeterx.net
 127.0.0.1 colrep.sitelabweb.com
 127.0.0.1 combine.urbanairship.com
+127.0.0.1 comcast.net
 127.0.0.1 completion.amazon.com
 127.0.0.1 completion.amazon.co.uk
 127.0.0.1 confettidaydreams.com
@@ -692,6 +700,7 @@
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 connatix-d.openx.net
 127.0.0.1 connect.facebook.net
+127.0.0.1 connect.nosto.com
 127.0.0.1 connect.scroll.com
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 consent.cmp.oath.com
@@ -710,6 +719,7 @@
 127.0.0.1 cosmicshovel-d.openx.net
 127.0.0.1 counter-prm.minutemediaservices.com
 127.0.0.1 counter-prm-slave.minutemediaservices.com
+127.0.0.1 counter.yadro.ru
 127.0.0.1 countess.twitch.tv
 127.0.0.1 count-server.sharethis.com
 127.0.0.1 count.shein.com
@@ -723,6 +733,7 @@
 127.0.0.1 crl.microsoft.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs9.wac.phicdn.net
+127.0.0.1 cs.dds.microsoft.com
 127.0.0.1 cse.google.com
 127.0.0.1 cs.gssprt.jp
 127.0.0.1 csi.gstatic.com
@@ -885,6 +896,7 @@
 127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edigitalsurvey.com
+127.0.0.1 editor-assets.abtasty.com
 127.0.0.1 elinkeu.clickdimensions.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 embed.spotify.com
@@ -1013,10 +1025,12 @@
 127.0.0.1 g.ign.com
 127.0.0.1 glbgcl.logsss.com
 127.0.0.1 gleam.io
+127.0.0.1 glimmer.hearstapps.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 gmail-smtp-in.l.google.com
 127.0.0.1 go.affec.tv
 127.0.0.1 goaltime.contagioussports.com
+127.0.0.1 go.automatad.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads4.g.doubleclick.net
@@ -1055,6 +1069,7 @@
 127.0.0.1 hb.nexage.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hb.vntsm.com
+127.0.0.1 hbx.media.net
 127.0.0.1 heads-fa.spotify.com
 127.0.0.1 heatmap.services
 127.0.0.1 heavy.com
@@ -1160,6 +1175,7 @@
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hscollectedforms.net
 127.0.0.1 js.hs-scripts.com
+127.0.0.1 js.hubspotfeedback.com
 127.0.0.1 js.leadin.com
 127.0.0.1 js.logentries.com
 127.0.0.1 js.maxmind.com
@@ -1170,6 +1186,7 @@
 127.0.0.1 jsso.indiatimes.com
 127.0.0.1 js.spotx.tv
 127.0.0.1 js.stripe.com
+127.0.0.1 js.usemessages.com
 127.0.0.1 jwpltx.com
 127.0.0.1 k4z6w9b5.stackpathcdn.com
 127.0.0.1 k8vif92e-0fa8b7cd004f9b4bdddd908c4e5a2e89a501d45d-am1.e.aa.online-metrix.net
@@ -1348,6 +1365,7 @@
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 newrelic.com
 127.0.0.1 newsthump.com
+127.0.0.1 nexus.dell.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexusrules.officeapps.live.com
 127.0.0.1 n.gemini.yahoo.com
@@ -1464,6 +1482,8 @@
 127.0.0.1 player.h-cdn.com
 127.0.0.1 player.performgroup.com
 127.0.0.1 playtime.tubemogul.com
+127.0.0.1 play.vidyard.com
+127.0.0.1 pls.webtype.com
 127.0.0.1 plusnet.tt.omtrdc.net
 127.0.0.1 polldaddy.com
 127.0.0.1 polyfill.io
@@ -1598,6 +1618,7 @@
 127.0.0.1 radarsubmissions.apple.com
 127.0.0.1 ramp.purch.com
 127.0.0.1 raven-tracking.web.app
+127.0.0.1 rawgit.com
 127.0.0.1 r.bbci.co.uk
 127.0.0.1 rcm-eu.amazon-adsystem.com
 127.0.0.1 rcm-na.amazon-adsystem.com
@@ -1735,6 +1756,7 @@
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 secure.widget.cloud.opta.net
 127.0.0.1 segment-data.zqtk.net
+127.0.0.1 sejs.moatads.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 semanticlocation-pa.googleapis.com
 127.0.0.1 se.monetate.net
@@ -1848,6 +1870,7 @@
 127.0.0.1 ssor.tribdss.com
 127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 ssp.lkqd.net
+127.0.0.1 ssr.streamrail.net
 127.0.0.1 s.ss2.us
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
@@ -1870,6 +1893,7 @@
 127.0.0.1 static.atgsvcs.com
 127.0.0.1 static-cdn.jtvnw.net
 127.0.0.1 static.chartbeat.com
+127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.facebook.com
@@ -1877,6 +1901,7 @@
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.hubspot.com
 127.0.0.1 static.klaviyo.com
+127.0.0.1 static.mailerlite.com
 127.0.0.1 static.olark.com
 127.0.0.1 static.quantcast.mgr.consensu.org
 127.0.0.1 static.rbl.ms
@@ -1888,6 +1913,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.ziffdavis.com
 127.0.0.1 static.zotabox.com
+127.0.0.1 statistics.orderplus.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats-assets.trustpilot.com
 127.0.0.1 stats.bbc.co.uk
@@ -1904,6 +1930,7 @@
 127.0.0.1 stats.qalabs.symantec.com
 127.0.0.1 stats.redditmedia.com
 127.0.0.1 stats.searchanise.com
+127.0.0.1 stats.sirv.com
 127.0.0.1 stats.svc.halowaypoint.com
 127.0.0.1 stats.transversal.com
 127.0.0.1 stats.usefomo.com
