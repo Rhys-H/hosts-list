@@ -1815,7 +1815,6 @@
 127.0.0.1 statics.streamable.com
 127.0.0.1 staticw2.yotpo.com
 127.0.0.1 static.www.turnto.com
-127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.ziffdavis.com
 127.0.0.1 static.zotabox.com
 127.0.0.1 stats.appsflyer.com
