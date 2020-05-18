@@ -2203,7 +2203,6 @@
 127.0.0.1 x.skimresources.com
 127.0.0.1 x.ss2.us
 127.0.0.1 yandex.st
-127.0.0.1 yastatic.net
 127.0.0.1 yd92qw6q-31958b229dbfc4db6066a3e21626e936db0eb217-am1.e.aa.online-metrix.net
 127.0.0.1 yd92qw6q-e9651fbf338c5bef76ea8a537185777262b95a1c-am1.e.aa.online-metrix.net
 127.0.0.1 yen.appsfire.net
