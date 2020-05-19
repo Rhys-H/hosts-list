@@ -689,7 +689,6 @@
 127.0.0.1 count-server.sharethis.com
 127.0.0.1 count.shein.com
 127.0.0.1 c.p2r14.com
-127.0.0.1 c.paypal.com
 127.0.0.1 cp.impdesk.com
 127.0.0.1 cpt.itv.com
 127.0.0.1 crackberry.com
