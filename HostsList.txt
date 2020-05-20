@@ -1030,7 +1030,6 @@
 127.0.0.1 hrum.hotelsapi.io
 127.0.0.1 hrumpoc.hotels.com
 127.0.0.1 htlbid.com
-127.0.0.1 humblebundle.com
 127.0.0.1 hxyzhas.g00.gamepedia.com
 127.0.0.1 i0.wp.com
 127.0.0.1 i1.services.social.microsoft.com
