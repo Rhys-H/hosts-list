@@ -81,6 +81,7 @@
 127.0.0.1 a.config.skype.com
 127.0.0.1 actionnetwork.org
 127.0.0.1 activity.windows.com
+127.0.0.1 ad2.360yield.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adc3-launch.adcolony.com
@@ -95,6 +96,7 @@
 127.0.0.1 ad.linksynergy.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ado.pro-market.net
+127.0.0.1 ad.plus
 127.0.0.1 ads2.servebom.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads.adthrive.com
@@ -150,6 +152,8 @@
 127.0.0.1 a.klaviyo.com
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 alb.reddit.com
+127.0.0.1 alex-chen.gallerycdn.vsassets.io
+127.0.0.1 alex-chen.gallery.vsassets.io
 127.0.0.1 ali-crm.ru
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 alog.umeng.com
@@ -207,6 +211,7 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 anon-stats.eff.org
+127.0.0.1 a.omappapi.com
 127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optnmnstr.com
 127.0.0.1 a.optnmstr.com
@@ -306,6 +311,7 @@
 127.0.0.1 appsitemsuggest-pa.googleapis.com
 127.0.0.1 app-sj14.marketo.com
 127.0.0.1 app-sjg.marketo.com
+127.0.0.1 app.slickstream.com
 127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 appuals.com
 127.0.0.1 app.viewdeos.com
@@ -489,6 +495,7 @@
 127.0.0.1 cdn6.vizury.com
 127.0.0.1 cdn9.forter.com
 127.0.0.1 cdn.accelerator.arsdev.net
+127.0.0.1 cdn.ad.plus
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.amplitude.com
@@ -556,6 +563,7 @@
 127.0.0.1 cdn.playwire.com
 127.0.0.1 cdn.p-n.io
 127.0.0.1 cdn.pushcrew.com
+127.0.0.1 cdn.quantummetric.com
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.raygun.io
@@ -1167,6 +1175,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.braintreegateway.com
 127.0.0.1 js.bronto.com
+127.0.0.1 js.chargebee.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 js.content.ea.com
 127.0.0.1 js.gleam.io
@@ -1292,6 +1301,8 @@
 127.0.0.1 mas-sdk.amazon.com
 127.0.0.1 matadornetwork.com
 127.0.0.1 match.adsrvr.org
+127.0.0.1 match.prod.bidr.io
+127.0.0.1 match.sharethrough.com
 127.0.0.1 matracking-tracking-staging.azurewebsites.net
 127.0.0.1 maxcdn.bootstrapcdn.com
 127.0.0.1 mazu.sec.miui.com
@@ -1365,6 +1376,7 @@
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 newrelic.com
 127.0.0.1 newsthump.com
+127.0.0.1 newton.demdex.net
 127.0.0.1 nexus.dell.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexusrules.officeapps.live.com
@@ -1391,6 +1403,7 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 officeclient.microsoft.com
 127.0.0.1 ohsatum.info
+127.0.0.1 ohsweetbasil.com
 127.0.0.1 omo.akamai.opta.net
 127.0.0.1 oms.expedia.com
 127.0.0.1 oneclient.sfx.ms
@@ -1410,6 +1423,7 @@
 127.0.0.1 otf.msn.com
 127.0.0.1 otnolatrnup.com
 127.0.0.1 ots.optimize.webtrends.com
+127.0.0.1 outbrain.com
 127.0.0.1 out.reddit.com
 127.0.0.1 ovp.iris.tv
 127.0.0.1 ow.ly
@@ -1418,6 +1432,7 @@
 127.0.0.1 p2-eiiimthobfgem-7x232fmdowoyflio-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p2-iwjm6zadug2vs-jgx5ec4frry4jmuj-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p2-je6k6sdp3gv5a-5jrhdvf7zmtekh2u-if-v6exp3-v4.metric.gstatic.com
+127.0.0.1 p2-m3udfw4riwd6q-c2vlygeyovklq3w2-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 pad-v3.presage.io
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagesix.com
@@ -1501,6 +1516,7 @@
 127.0.0.1 premierfarnell.tt.omtrdc.net
 127.0.0.1 prf.hn
 127.0.0.1 prime.amazon.eu
+127.0.0.1 privacy.commander1.com
 127.0.0.1 privacy-policy.truste.com
 127.0.0.1 privacy.purch.com
 127.0.0.1 prod.adspsp.com
@@ -1666,6 +1682,7 @@
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rtb-csync.smartadserver.com
 127.0.0.1 rtb.gumgum.com
+127.0.0.1 rtb.openx.net
 127.0.0.1 r.turn.com
 127.0.0.1 rubiconproject.com
 127.0.0.1 rules.quantcount.com
@@ -1727,7 +1744,9 @@
 127.0.0.1 sdk.hockeyapp.net
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdk.privacy-center.org
+127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 s.dpmsrv.com
 127.0.0.1 seal.geotrust.com
 127.0.0.1 seal.godaddy.com
 127.0.0.1 search-api.fie.future.net.uk
@@ -1806,6 +1825,7 @@
 127.0.0.1 smetrics.sky.com
 127.0.0.1 smetrics.tesco.com
 127.0.0.1 smetrics.thetrainline.com
+127.0.0.1 smetrics.ubi.com
 127.0.0.1 smetrics.washingtonpost.com
 127.0.0.1 smodus.nike.com
 127.0.0.1 snap.licdn.com
@@ -1949,6 +1969,7 @@
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 stream.playbuzz.com
 127.0.0.1 stripecdn.map.fastly.net
+127.0.0.1 studybreakmedia-d.openx.net
 127.0.0.1 stun.services.mozilla.com
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 sumo.com
@@ -1958,6 +1979,7 @@
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 susapi.lenovomm.com
 127.0.0.1 s-usc1c-nss-233.firebaseio.com
+127.0.0.1 s-v6exp1-ds.metric.gstatic.com
 127.0.0.1 s.vertamedia.com
 127.0.0.1 sv.symcd.com
 127.0.0.1 swa.and.co.uk
@@ -2009,6 +2031,8 @@
 127.0.0.1 tealium.cbsnews.com
 127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 telegraph-ash.instagram.com
+127.0.0.1 telegraph-d.openx.net
+127.0.0.1 telegraph.grapeshot.co.uk
 127.0.0.1 telegraphmedia.bootstrap.fyre.co
 127.0.0.1 telegraph.sdk.beemray.com
 127.0.0.1 telemetry.allrecipes.com
@@ -2034,6 +2058,7 @@
 127.0.0.1 thisiswaldo.com
 127.0.0.1 th.symcd.com
 127.0.0.1 tiles.services.mozilla.com
+127.0.0.1 time.com
 127.0.0.1 tlp-02.kameleoon.com
 127.0.0.1 tlp-03.kameleoon.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
@@ -2052,6 +2077,7 @@
 127.0.0.1 t.purch.com
 127.0.0.1 tr-1.agilone.com
 127.0.0.1 track1.aniview.com
+127.0.0.1 track2.cex.io
 127.0.0.1 track.33networks.com
 127.0.0.1 track.adform.net
 127.0.0.1 trackcmp.net
@@ -2104,6 +2130,7 @@
 127.0.0.1 uaid-linkage.imrworldwide.com
 127.0.0.1 ubisoftinternational.demdex.net
 127.0.0.1 ucarecdn.com
+127.0.0.1 u.cubeupload.com
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udd8uxur-6f152d059efe4393c7277dcd57d057e67cc8b3de-am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxur-f2814640f50a6606adb09d436325a877aadec172-am1.e.aa.online-metrix.net
@@ -2200,6 +2227,7 @@
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.fitanalytics.com
 127.0.0.1 widget.intercom.io
+127.0.0.1 widget-mediator.zopim.com
 127.0.0.1 widget.privy.com
 127.0.0.1 widgets.fie-data.co.uk
 127.0.0.1 widgets.future-fie.co.uk
