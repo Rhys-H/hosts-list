@@ -2273,7 +2273,6 @@
 127.0.0.1 www.celebuzz.com
 127.0.0.1 www.checkip.org
 127.0.0.1 www.chicoryapp.com
-127.0.0.1 www.cosmopolitan.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.drivereasy.com
@@ -2303,7 +2302,6 @@
 127.0.0.1 www.lightboxcdn.com
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.mainadv.com
-127.0.0.1 www.menshealth.com
 127.0.0.1 www.movable-ink-2183.com
 127.0.0.1 www.msftconnecttest.com
 127.0.0.1 www.name-statistics.org
