@@ -185,6 +185,7 @@
 127.0.0.1 analytics.jibecdn.com
 127.0.0.1 analytics.justuno.com
 127.0.0.1 analytics.krisp.ai
+127.0.0.1 analytics.leya.tech
 127.0.0.1 analytics.linktr.ee
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.logsss.com
@@ -206,6 +207,7 @@
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.wolfgangs.com
 127.0.0.1 analytics.yopify.com
+127.0.0.1 analytics.zeekit.co
 127.0.0.1 andr-b7a56873cd-cbc62794911ff31b-9664fba9adb6a7dfb0-2480493.eu.api.amazonvideo.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 an.facebook.com
@@ -285,6 +287,7 @@
 127.0.0.1 api.vungle.com
 127.0.0.1 api-watch-de.huami.com
 127.0.0.1 api-watch-us.huami.com
+127.0.0.1 api.wootric.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 a.postrelease.com
 127.0.0.1 app.adjust.com
@@ -292,6 +295,7 @@
 127.0.0.1 app-analytics.huami.com
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-analytics-us.huami.com
+127.0.0.1 app.appsflyer.com
 127.0.0.1 app.backinstock.org
 127.0.0.1 appboy-images.com
 127.0.0.1 app-cdn.spot.im
@@ -347,12 +351,15 @@
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 aswpsdkus.com
 127.0.0.1 at.atwola.com
+127.0.0.1 at.cbsi.com
 127.0.0.1 a.teads.tv
 127.0.0.1 ats.ccmp.eu
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 attractivecap.com
 127.0.0.1 a.tvpage.com
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
+127.0.0.1 audio-sp-lhr-13.spotifycdn.net
+127.0.0.1 audio-sp-lhr.spotifycdn.net
 127.0.0.1 audit.quantcast.mgr.consensu.org
 127.0.0.1 autodiscover.admiralgroup.co.uk
 127.0.0.1 autolinkmaker.itunes.apple.com
@@ -375,6 +382,7 @@
 127.0.0.1 batch.upsight-api.com
 127.0.0.1 bbc.co.uk
 127.0.0.1 bcdn-16c9d93d.we-stats.com
+127.0.0.1 bcdn.grmtas.com
 127.0.0.1 bclays-ads.aimatch.com
 127.0.0.1 bc.marfeelcache.com
 127.0.0.1 bc.marfeel.com
@@ -556,6 +564,7 @@
 127.0.0.1 cdn.optimizely.com
 127.0.0.1 cdn.oribi.io
 127.0.0.1 cdn.parsely.com
+127.0.0.1 cdn.pbbl.co
 127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.petametrics.com
@@ -582,6 +591,7 @@
 127.0.0.1 cdn.segment.io
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdns.eu1.gigya.com
+127.0.0.1 cdn.shopify.com
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.siteswithcontent.com
 127.0.0.1 cdn.speedcurve.com
@@ -832,6 +842,7 @@
 127.0.0.1 device.4seeresults.com
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 device-messaging-na.amazon.com
+127.0.0.1 devicemessaging.us-east-1.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-provisioning.googleapis.com
@@ -874,6 +885,7 @@
 127.0.0.1 dp-rsm-prod.amazon.com
 127.0.0.1 dps.bing.com
 127.0.0.1 d.reddit.com
+127.0.0.1 drive-thirdparty.googleusercontent.com
 127.0.0.1 dropbox.com
 127.0.0.1 ds-aksb-a.akamaihd.net
 127.0.0.1 dsh7ky7308k4b.cloudfront.net
@@ -911,6 +923,7 @@
 127.0.0.1 embed.tawk.to
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 enthusiast-gaming-d.openx.net
+127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
 127.0.0.1 epsxe.com
 127.0.0.1 e.reddit.com
@@ -929,6 +942,7 @@
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 eu-west-1.prod.pr.analytics.console.aws.a2z.com
 127.0.0.1 eventlogger.soundcloud.com
 127.0.0.1 event.mi.com
 127.0.0.1 events.api.boomtrain.com
@@ -973,6 +987,7 @@
 127.0.0.1 fls-eu.amazon.co.uk
 127.0.0.1 fls-eu.amazon.de
 127.0.0.1 fls-eu.amazon.fr
+127.0.0.1 fls-eu.amazon.it
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 fm.nvc.engb.nuancemobility.net
 127.0.0.1 f.monetate.net
@@ -1052,11 +1067,13 @@
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
 127.0.0.1 go.redirectingat.com
+127.0.0.1 g.pcmag.com
 127.0.0.1 graph.accountkit.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 graph.m-freeway.com
 127.0.0.1 gravatar.com
+127.0.0.1 grid-cdn.pdc.bidswitch.net
 127.0.0.1 growth-pa.googleapis.com
 127.0.0.1 gs.dailymail.co.uk
 127.0.0.1 gstaticadssl.l.google.com
@@ -1078,6 +1095,7 @@
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hbx.media.net
+127.0.0.1 heads-fa.scdn.co
 127.0.0.1 heads-fa.spotify.com
 127.0.0.1 heatmap.services
 127.0.0.1 heavy.com
@@ -1231,6 +1249,7 @@
 127.0.0.1 links.services.disqus.com
 127.0.0.1 linuxbsdos.com
 127.0.0.1 linuxconfig.org
+127.0.0.1 live.adyen.com
 127.0.0.1 liverpoolecho.co.uk
 127.0.0.1 live.sekindo.com
 127.0.0.1 lloydsbankinggroup.sc.omtrdc.net
@@ -1491,6 +1510,7 @@
 127.0.0.1 placehold.it
 127.0.0.1 platform-api.sharethis.com
 127.0.0.1 platform.linkedin.com
+127.0.0.1 platform-lookaside.fbsbx.com
 127.0.0.1 platform.tumblr.com
 127.0.0.1 platform.twitter.com
 127.0.0.1 player2.h-cdn.com
@@ -1508,6 +1528,7 @@
 127.0.0.1 p.presage.io
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 prd-collector-anon.playbuzz.com
+127.0.0.1 prd.jwpltx.com
 127.0.0.1 pre.ads.justpremium.com
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.digitru.st
@@ -1625,6 +1646,7 @@
 127.0.0.1 r6---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r6---sn-5hne6n7l.googlevideo.com
 127.0.0.1 r6---sn-5hne6n7s.googlevideo.com
+127.0.0.1 r6---sn-5hne6n7z.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r6---sn-ab5l6nzk.googlevideo.com
@@ -1985,6 +2007,7 @@
 127.0.0.1 swa.and.co.uk
 127.0.0.1 swa.metro.co.uk
 127.0.0.1 swc.cdn.skype.com
+127.0.0.1 s.webtrends.com
 127.0.0.1 s.w.org
 127.0.0.1 swrap.tradedoubler.com
 127.0.0.1 sw.symcd.com
