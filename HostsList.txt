@@ -76,13 +76,16 @@
 127.0.0.1 account.tracker.gg
 127.0.0.1 account-us.huami.com
 127.0.0.1 account.xiaomi.com
+127.0.0.1 accscdn.m.taobao.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 a.cdn.intentmedia.net
 127.0.0.1 a.config.skype.com
+127.0.0.1 acs.m.taobao.com
 127.0.0.1 actionnetwork.org
 127.0.0.1 activity.windows.com
 127.0.0.1 ad2.360yield.com
 127.0.0.1 ad.360yield.com
+127.0.0.1 adashx4ae.ut.taobao.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 ad.crwdcntrl.net
@@ -313,6 +316,7 @@
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 apps.elfsight.com
 127.0.0.1 appsitemsuggest-pa.googleapis.com
+127.0.0.1 app-sj06.marketo.com
 127.0.0.1 app-sj14.marketo.com
 127.0.0.1 app-sjg.marketo.com
 127.0.0.1 app.slickstream.com
@@ -326,6 +330,7 @@
 127.0.0.1 arbsc36259691gb1.cobrowse.oraclecloud.com
 127.0.0.1 arc.msn.com
 127.0.0.1 arcus-uswest.amazon.com
+127.0.0.1 argos.citruserve.com
 127.0.0.1 argos.co.uk
 127.0.0.1 argos.ugc.bazaarvoice.com
 127.0.0.1 a.root-servers.net
@@ -414,6 +419,7 @@
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 bgr.com
 127.0.0.1 bh.contextweb.com
+127.0.0.1 b.hlserve.com
 127.0.0.1 bidbarrel.cbsnews.com
 127.0.0.1 bid.contextweb.com
 127.0.0.1 bidder.criteo.com
@@ -509,6 +515,7 @@
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.avmws.com
+127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn.b0e8.com
 127.0.0.1 cdn.bestreviews.com
 127.0.0.1 cdn.bibblio.org
@@ -703,7 +710,9 @@
 127.0.0.1 collector.newrelic.com
 127.0.0.1 collector-pxa0o07ort.perimeterx.net
 127.0.0.1 collector-pxdha6lqm5.perimeterx.net
+127.0.0.1 collect.tealiumiq.com
 127.0.0.1 colrep.sitelabweb.com
+127.0.0.1 colres.sitelabweb.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 comcast.net
 127.0.0.1 completion.amazon.com
@@ -727,6 +736,7 @@
 127.0.0.1 contactapi.micloud.xiaomi.net
 127.0.0.1 content.jwplatform.com
 127.0.0.1 content.webcollage.net
+127.0.0.1 context.iris.tv
 127.0.0.1 contextual.media.net
 127.0.0.1 continuum.dds.microsoft.com
 127.0.0.1 contributor.google.com
@@ -869,11 +879,14 @@
 127.0.0.1 dmx.districtm.io
 127.0.0.1 dna8twue3dlxq.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 dns7d06c0a2-1d60-41f4-ad51-dceeb6a4594c-azurebatch-cloudservice.southcentralus.cloudapp.azure.com
+127.0.0.1 dnse2ae02c0-bb25-4436-ad99-0e74bd282572-azurebatch-cloudservice.eastus.cloudapp.azure.com
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 dntcl.qualaroo.com
 127.0.0.1 docdro.id
 127.0.0.1 dogtime.com
 127.0.0.1 domclickext.xyz
+127.0.0.1 dorangesource.alicdn.com
 127.0.0.1 downdetector.com
 127.0.0.1 download.cnet.com
 127.0.0.1 downloads.intercomcdn.com
@@ -921,6 +934,7 @@
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
+127.0.0.1 encrypted-tbn0.gstatic.com
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 enthusiast-gaming-d.openx.net
 127.0.0.1 entitlements.jwplayer.com
@@ -982,6 +996,7 @@
 127.0.0.1 files.catbox.moe
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 firebasestorage.googleapis.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls-eu.amazon.com
 127.0.0.1 fls-eu.amazon.co.uk
@@ -989,6 +1004,7 @@
 127.0.0.1 fls-eu.amazon.fr
 127.0.0.1 fls-eu.amazon.it
 127.0.0.1 fls-na.amazon.com
+127.0.0.1 fm.cnbc.com
 127.0.0.1 fm.nvc.engb.nuancemobility.net
 127.0.0.1 f.monetate.net
 127.0.0.1 fo-api.omnitagjs.com
@@ -1046,11 +1062,13 @@
 127.0.0.1 ggsoftware-d.openx.net
 127.0.0.1 gha.ebay.com
 127.0.0.1 g.ign.com
+127.0.0.1 gj.mmstat.com
 127.0.0.1 glbgcl.logsss.com
 127.0.0.1 gleam.io
 127.0.0.1 glimmer.hearstapps.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 gmail-smtp-in.l.google.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 go.affec.tv
 127.0.0.1 goaltime.contagioussports.com
 127.0.0.1 go.automatad.com
@@ -1252,6 +1270,7 @@
 127.0.0.1 live.adyen.com
 127.0.0.1 liverpoolecho.co.uk
 127.0.0.1 live.sekindo.com
+127.0.0.1 lloydsbankinggroup.d3.sc.omtrdc.net
 127.0.0.1 lloydsbankinggroup.sc.omtrdc.net
 127.0.0.1 lloydsbankinggroup.tt.omtrdc.net
 127.0.0.1 lm.licenses.adobe.com
@@ -1272,6 +1291,7 @@
 127.0.0.1 logfiles.zoom.us
 127.0.0.1 log.gigabyte.com.tw
 127.0.0.1 log.hypebeast.com
+127.0.0.1 login.aliexpress.com
 127.0.0.1 login.dotomi.com
 127.0.0.1 login.sina.com.cn
 127.0.0.1 log.outbrain.com
@@ -1366,6 +1386,7 @@
 127.0.0.1 monu.delivery
 127.0.0.1 moonpig.com
 127.0.0.1 mormont.gamer-network.net
+127.0.0.1 mps.cnbc.com
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
 127.0.0.1 mqtt-mini.facebook.com
@@ -1414,6 +1435,7 @@
 127.0.0.1 nrdp.nccp.netflix.com
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
+127.0.0.1 nytimes.com
 127.0.0.1 oao-d.openx.net
 127.0.0.1 o.aolcdn.com
 127.0.0.1 ocsp.apple.com
@@ -1570,6 +1592,7 @@
 127.0.0.1 qab.hextom.com
 127.0.0.1 qjs.quartic.pl
 127.0.0.1 qoe-1.yottaa.net
+127.0.0.1 qos-prod-aws-iad-common-common.gs.ea.com
 127.0.0.1 qph.ec.quoracdn.net
 127.0.0.1 q.quora.com
 127.0.0.1 q.stripe.com
@@ -1746,6 +1769,7 @@
 127.0.0.1 scannables.scdn.co
 127.0.0.1 scdkey.com
 127.0.0.1 scdn.cxense.com
+127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
 127.0.0.1 scontent.xx.fbcdn.net
@@ -1866,6 +1890,7 @@
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
+127.0.0.1 sock181-mt1.pusher.com
 127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
 127.0.0.1 sockjs-mt1.pusher.com
@@ -1998,6 +2023,7 @@
 127.0.0.1 s.update.fbsbx.com
 127.0.0.1 supervisor.ext-twitch.tv
 127.0.0.1 supportmetrics.apple.com
+127.0.0.1 surf.nbcuni.com
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 susapi.lenovomm.com
 127.0.0.1 s-usc1c-nss-233.firebaseio.com
@@ -2080,6 +2106,7 @@
 127.0.0.1 thisis-images.scdn.co
 127.0.0.1 thisiswaldo.com
 127.0.0.1 th.symcd.com
+127.0.0.1 tie.247-inc.net
 127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 time.com
 127.0.0.1 tlp-02.kameleoon.com
@@ -2379,6 +2406,7 @@
 127.0.0.1 yd92qw6q-e9651fbf338c5bef76ea8a537185777262b95a1c-am1.e.aa.online-metrix.net
 127.0.0.1 yen.appsfire.net
 127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 ynuf.aliapp.org
 127.0.0.1 youtu.be
 127.0.0.1 youtube.com
 127.0.0.1 ytimg-edge-static.l.google.com
