@@ -62,6 +62,7 @@
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a248.e.akamai.net
 127.0.0.1 a652.dscb.akamai.net
+127.0.0.1 aad.cs.dds.microsoft.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 aa.online-metrix.net
 127.0.0.1 aax.amazon-adsystem.com
@@ -180,6 +181,7 @@
 127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics-api.cloudinary.com
 127.0.0.1 analytics.brave.com
+127.0.0.1 analytics.dev.azure.com
 127.0.0.1 analytics.foresee.com
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.getshogun.com
@@ -270,6 +272,7 @@
 127.0.0.1 api.qualaroo.com
 127.0.0.1 api.raygun.io
 127.0.0.1 api.redshell.io
+127.0.0.1 api.rlcdn.com
 127.0.0.1 api.segment.io
 127.0.0.1 apiservices.krxd.net
 127.0.0.1 apis.ign.com
@@ -307,6 +310,7 @@
 127.0.0.1 app.fing.io
 127.0.0.1 app.hubspot.com
 127.0.0.1 app.launchdarkly.com
+127.0.0.1 apple.com
 127.0.0.1 app.link
 127.0.0.1 app-lon03.marketo.com
 127.0.0.1 app-lon08.marketo.com
@@ -363,6 +367,7 @@
 127.0.0.1 attractivecap.com
 127.0.0.1 a.tvpage.com
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
+127.0.0.1 audio-ak-spotify-com.akamaized.net
 127.0.0.1 audio-sp-lhr-13.spotifycdn.net
 127.0.0.1 audio-sp-lhr.spotifycdn.net
 127.0.0.1 audit.quantcast.mgr.consensu.org
@@ -392,6 +397,7 @@
 127.0.0.1 bc.marfeelcache.com
 127.0.0.1 bc.marfeel.com
 127.0.0.1 b-code.liadm.com
+127.0.0.1 b.config.skype.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdg-analytics.appspot.com
 127.0.0.1 beacon.direct.asda.com
@@ -428,6 +434,7 @@
 127.0.0.1 bit.ly
 127.0.0.1 bitly.com
 127.0.0.1 bitmovin.com
+127.0.0.1 bjuser.jpush.cn
 127.0.0.1 black.ish.instagram.com
 127.0.0.1 blocklists-settings.prod.mozaws.net
 127.0.0.1 block-test.developerdan.com
@@ -699,6 +706,7 @@
 127.0.0.1 cmp.network-n.com
 127.0.0.1 cmp.techadvisor.co.uk
 127.0.0.1 cms.analytics.yahoo.com
+127.0.0.1 cnn.com
 127.0.0.1 code.createjs.com
 127.0.0.1 code.ionicframework.com
 127.0.0.1 code.jquery.com
@@ -930,12 +938,14 @@
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edigitalsurvey.com
 127.0.0.1 editor-assets.abtasty.com
+127.0.0.1 e.infogram.com
 127.0.0.1 elinkeu.clickdimensions.com
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 encrypted-tbn0.gstatic.com
 127.0.0.1 en-gb.facebook.com
+127.0.0.1 enterprise.activity.windows.com
 127.0.0.1 enthusiast-gaming-d.openx.net
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
@@ -950,6 +960,7 @@
 127.0.0.1 eu2.thunderhead.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.api.amazonvideo.com
+127.0.0.1 eu-api.asm.skype.com
 127.0.0.1 euapi.ibm.xtify.com
 127.0.0.1 eum.instana.io
 127.0.0.1 eurogamer-uk.eurogamer.net
@@ -1014,6 +1025,7 @@
 127.0.0.1 forms.office.com
 127.0.0.1 fossbytes.com
 127.0.0.1 fo-static.omnitagjs.com
+127.0.0.1 fp.msedge.net
 127.0.0.1 frank-comp-na.amazon.com
 127.0.0.1 freegeoip.app
 127.0.0.1 free-hit-counters.net
@@ -1056,6 +1068,7 @@
 127.0.0.1 geo.yahoo.com
 127.0.0.1 get.convrse.media
 127.0.0.1 gethatch.com
+127.0.0.1 get-latest.convrse.media
 127.0.0.1 get.s-onetag.com
 127.0.0.1 g.ezoic.net
 127.0.0.1 gfwsl.geforce.com
@@ -1066,6 +1079,7 @@
 127.0.0.1 glbgcl.logsss.com
 127.0.0.1 gleam.io
 127.0.0.1 glimmer.hearstapps.com
+127.0.0.1 g.live.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 gmail-smtp-in.l.google.com
 127.0.0.1 gm.mmstat.com
@@ -1293,6 +1307,7 @@
 127.0.0.1 log.hypebeast.com
 127.0.0.1 login.aliexpress.com
 127.0.0.1 login.dotomi.com
+127.0.0.1 login.newrelic.com
 127.0.0.1 login.sina.com.cn
 127.0.0.1 log.outbrain.com
 127.0.0.1 log.pinterest.com
@@ -1436,6 +1451,7 @@
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
 127.0.0.1 nytimes.com
+127.0.0.1 oajs.openx.net
 127.0.0.1 oao-d.openx.net
 127.0.0.1 o.aolcdn.com
 127.0.0.1 ocsp.apple.com
@@ -1501,6 +1517,7 @@
 127.0.0.1 pinpoint.us-east-1.amazonaws.com
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
+127.0.0.1 pipe.skype.com
 127.0.0.1 pixel.33across.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
@@ -1509,6 +1526,7 @@
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.convertize.io
 127.0.0.1 pixel.facebook.com
+127.0.0.1 pixelg.adswizz.com
 127.0.0.1 pixel.keywee.co
 127.0.0.1 pixel.massdrop.com
 127.0.0.1 pixel.mathtag.com
@@ -1889,8 +1907,11 @@
 127.0.0.1 sock162-mt1.pusher.com
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
+127.0.0.1 sock176-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
 127.0.0.1 sock181-mt1.pusher.com
+127.0.0.1 sock184-mt1.pusher.com
+127.0.0.1 sock185-mt1.pusher.com
 127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
 127.0.0.1 sockjs-mt1.pusher.com
@@ -2138,6 +2159,7 @@
 127.0.0.1 tracker.nitropay.com
 127.0.0.1 tracker.trackerboxs.com
 127.0.0.1 tracker.yougov.com
+127.0.0.1 tracking.audio.thisisdax.com
 127.0.0.1 tracking.bauermedia.co.uk
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hivecloud.net
@@ -2170,6 +2192,7 @@
 127.0.0.1 tru.am
 127.0.0.1 try.abtasty.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
+127.0.0.1 tsis.jpush.cn
 127.0.0.1 t.skimresources.com
 127.0.0.1 ttauri.techradar.com
 127.0.0.1 t.teads.tv
@@ -2203,6 +2226,7 @@
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usb.hextom.com
 127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 us-central1-custom-site-analytics.cloudfunctions.net
 127.0.0.1 us.creativecdn.com
 127.0.0.1 us-east-1-a.route.herokuapp.com
 127.0.0.1 us-east-1-decisionapi.lift.acquia.com
