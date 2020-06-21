@@ -90,6 +90,7 @@
 127.0.0.1 ad.atdmt.com
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 ad.crwdcntrl.net
+127.0.0.1 adc.streamspread.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ade.googlesyndication.com
@@ -218,6 +219,7 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 anon-stats.eff.org
+127.0.0.1 an.yandex.ru
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optnmnstr.com
@@ -520,6 +522,7 @@
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.amplitude.com
+127.0.0.1 cdnapi.kaltura.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn-a.yieldlove.com
@@ -567,6 +570,7 @@
 127.0.0.1 cdn.lenmit.com
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.lmiutil.com
+127.0.0.1 cdn.loginradius.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn.mediavoice.com
 127.0.0.1 cdn.mouseflow.com
@@ -625,6 +629,7 @@
 127.0.0.1 cdn.treasuredata.com
 127.0.0.1 cdn.tt.omtrdc.net
 127.0.0.1 cdn.tynt.com
+127.0.0.1 cdn.viafoura.net
 127.0.0.1 cdn.vidible.tv
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.vuukle.com
@@ -650,6 +655,7 @@
 127.0.0.1 channel4.sc.omtrdc.net
 127.0.0.1 channel4-test.testonly.conviva.com
 127.0.0.1 chart.googleapis.com
+127.0.0.1 chc-bd.duoyi.com
 127.0.0.1 check2.lloydsbank.co.uk
 127.0.0.1 chimpstatic.com
 127.0.0.1 chng.it
@@ -871,6 +877,7 @@
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 digprjsurvey.amazon.eu
 127.0.0.1 d.impactradius-event.com
+127.0.0.1 direct-events-collector.spot.im
 127.0.0.1 discountcode.dailymail.co.uk
 127.0.0.1 discovery.analytics.zion.idtech.services
 127.0.0.1 dis.criteo.com
@@ -952,6 +959,7 @@
 127.0.0.1 epsxe.com
 127.0.0.1 e.reddit.com
 127.0.0.1 errors.client.optimizely.com
+127.0.0.1 escense.ru
 127.0.0.1 e.serverbid.com
 127.0.0.1 es.optimost.com
 127.0.0.1 espn.hb.omtrdc.net
@@ -1042,6 +1050,7 @@
 127.0.0.1 g.3gl.net
 127.0.0.1 gads.pubmatic.com
 127.0.0.1 galaxy-log.gog.com
+127.0.0.1 game-debate.com
 127.0.0.1 gameranx.com
 127.0.0.1 game.xiaomi.com
 127.0.0.1 gate.hockeyapp.net
@@ -1067,6 +1076,7 @@
 127.0.0.1 geover-prod.do.dsp.mp.microsoft.com
 127.0.0.1 geo.yahoo.com
 127.0.0.1 get.convrse.media
+127.0.0.1 get.geojs.io
 127.0.0.1 gethatch.com
 127.0.0.1 get-latest.convrse.media
 127.0.0.1 get.s-onetag.com
@@ -1122,6 +1132,7 @@
 127.0.0.1 hackforums.net
 127.0.0.1 hawk.pcgamer.com
 127.0.0.1 hb-api.omnitagjs.com
+127.0.0.1 hb.districtm.io
 127.0.0.1 hb.emxdgt.com
 127.0.0.1 hb.nexage.com
 127.0.0.1 hbopenbid.pubmatic.com
@@ -1164,6 +1175,7 @@
 127.0.0.1 i.emlfiles4.com
 127.0.0.1 ieonline.microsoft.com
 127.0.0.1 i.facebook.com
+127.0.0.1 i.imgur.com
 127.0.0.1 im64.jpush.cn
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image.dhgate.com
@@ -1268,6 +1280,8 @@
 127.0.0.1 launcher.spot.im
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 l.betrad.com
+127.0.0.1 leviseu2012.d2.sc.omtrdc.net
+127.0.0.1 levis.tt.omtrdc.net
 127.0.0.1 lgad.cjpowercast.com.edgesuite.net
 127.0.0.1 lgin.msa.trafficmanager.net
 127.0.0.1 lgtvonline.lge.com
@@ -1301,6 +1315,7 @@
 127.0.0.1 location-services-measurements.s3-external-1.amazonaws.com
 127.0.0.1 location.services.mozilla.com
 127.0.0.1 log.adap.tv
+127.0.0.1 log.aimtell.com
 127.0.0.1 log.dmtry.com
 127.0.0.1 logfiles.zoom.us
 127.0.0.1 log.gigabyte.com.tw
@@ -1537,6 +1552,7 @@
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 pixels.ad.gt
 127.0.0.1 pixel.servebom.com
+127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixels.omnitagjs.com
 127.0.0.1 pixel.spotify.com
 127.0.0.1 pixel-static.spotify.com
@@ -1774,6 +1790,7 @@
 127.0.0.1 s.adroll.com
 127.0.0.1 safebrowsing.googleapis.com
 127.0.0.1 sak.userreport.com
+127.0.0.1 salemwebnetworks-d.openx.net
 127.0.0.1 salesiq.zoho.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 sam.msn.com
@@ -1790,6 +1807,7 @@
 127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
+127.0.0.1 scontent.webcollage.net
 127.0.0.1 scontent.xx.fbcdn.net
 127.0.0.1 screenrant.com
 127.0.0.1 screwfix.ugc.bazaarvoice.com
@@ -1845,6 +1863,7 @@
 127.0.0.1 se.monetate.net
 127.0.0.1 sendbird.reddit.com
 127.0.0.1 sentry.io
+127.0.0.1 seo.spot.im
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedby.o2.co.uk
@@ -1912,6 +1931,8 @@
 127.0.0.1 sock181-mt1.pusher.com
 127.0.0.1 sock184-mt1.pusher.com
 127.0.0.1 sock185-mt1.pusher.com
+127.0.0.1 sock186-mt1.pusher.com
+127.0.0.1 sock200-mt1.pusher.com
 127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
 127.0.0.1 sockjs-mt1.pusher.com
@@ -2072,6 +2093,7 @@
 127.0.0.1 t0.ssl.ak.dynamic.tiles.virtualearth.net
 127.0.0.1 t1.stormiq.com
 127.0.0.1 tagan.adlightning.com
+127.0.0.1 tag-analytics.com
 127.0.0.1 tag.bounceexchange.com
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tagger.opecloud.com
@@ -2099,6 +2121,7 @@
 127.0.0.1 t.dailymail.co.uk
 127.0.0.1 td.yieldify.com
 127.0.0.1 tealium.cbsnews.com
+127.0.0.1 teams.events.data.microsoft.com
 127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 telegraph-ash.instagram.com
 127.0.0.1 telegraph-d.openx.net
@@ -2129,6 +2152,7 @@
 127.0.0.1 th.symcd.com
 127.0.0.1 tie.247-inc.net
 127.0.0.1 tiles.services.mozilla.com
+127.0.0.1 timeanddate-d.openx.net
 127.0.0.1 time.com
 127.0.0.1 tlp-02.kameleoon.com
 127.0.0.1 tlp-03.kameleoon.com
@@ -2199,6 +2223,7 @@
 127.0.0.1 tuiuk.d1.sc.omtrdc.net
 127.0.0.1 tuiukltd.tt.omtrdc.net
 127.0.0.1 tvline.com
+127.0.0.1 tvmds.tvpassport.com
 127.0.0.1 u1828302.ct.sendgrid.net
 127.0.0.1 uaid-linkage.imrworldwide.com
 127.0.0.1 ubisoftinternational.demdex.net
@@ -2254,6 +2279,7 @@
 127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venues.waze.com
 127.0.0.1 v-eu.amazon-adsystem.com
+127.0.0.1 viadata.store
 127.0.0.1 vice-useast.gscontxt.net
 127.0.0.1 vice-web-statics-cdn.vice.com
 127.0.0.1 video.adaptv.advertising.com
@@ -2297,6 +2323,7 @@
 127.0.0.1 w.estat.com
 127.0.0.1 whatsapp-me.ru
 127.0.0.1 whereisxur.com
+127.0.0.1 widget-cdn.rpxnow.com
 127.0.0.1 widget.cloud.opta.net
 127.0.0.1 widget.criteo.com
 127.0.0.1 widget.fitanalytics.com
