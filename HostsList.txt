@@ -173,6 +173,7 @@
 127.0.0.1 amp.akamaized.net
 127.0.0.1 amp.casalemedia.com
 127.0.0.1 ampcid.google.com
+127.0.0.1 ampconfig.sc.omtrdc.net
 127.0.0.1 amp-error-reporting.appspot.com
 127.0.0.1 amplify.outbrain.com
 127.0.0.1 amplifypixel.outbrain.com
@@ -180,6 +181,7 @@
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 127.0.0.1 a.mstrlytcs.com
 127.0.0.1 amzn.to
+127.0.0.1 analytics.aimtell.com
 127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics-api.cloudinary.com
 127.0.0.1 analytics.app.lucidchart.com
@@ -373,6 +375,7 @@
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 attractivecap.com
 127.0.0.1 a.tvpage.com
+127.0.0.1 audio4-ak-spotify-com.akamaized.net
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 audio-ak-spotify-com.akamaized.net
 127.0.0.1 audio-sp-lhr-13.spotifycdn.net
@@ -407,6 +410,7 @@
 127.0.0.1 b.config.skype.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdg-analytics.appspot.com
+127.0.0.1 beacon.aimtell.com
 127.0.0.1 beacon.direct.asda.com
 127.0.0.1 beacon-eu.hosted.exlibrisgroup.com
 127.0.0.1 beacon.krxd.net
@@ -456,6 +460,7 @@
 127.0.0.1 bootstrap.upsight-api.com
 127.0.0.1 boredcrown.com
 127.0.0.1 boredpanda.com
+127.0.0.1 brand-ecommerce-assets.fusepump.com
 127.0.0.1 brightcove.map.fastly.net
 127.0.0.1 brm-suggest-0.brsrvr.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -580,6 +585,7 @@
 127.0.0.1 cdn.mediavoice.com
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.mxpnl.com
+127.0.0.1 cdn.native.ai
 127.0.0.1 cdn.nsstatic.net
 127.0.0.1 cdn.onenote.net
 127.0.0.1 cdn.onesignal.com
@@ -725,6 +731,7 @@
 127.0.0.1 code.jquery.com
 127.0.0.1 cognito-identity.us-east-1.amazonaws.com
 127.0.0.1 col.eum-appdynamics.com
+127.0.0.1 collect-eu-west-1.tealiumiq.com
 127.0.0.1 collector-1167.tvsquared.com
 127.0.0.1 collector.fitanalytics.com
 127.0.0.1 collector.githubapp.com
@@ -850,6 +857,7 @@
 127.0.0.1 data.api.cnn.io
 127.0.0.1 data.cnn.com
 127.0.0.1 data.coremetrics.com
+127.0.0.1 data.de.coremetrics.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -929,6 +937,7 @@
 127.0.0.1 dsh7ky7308k4b.cloudfront.net
 127.0.0.1 dsms0mj1bbhn4.cloudfront.net
 127.0.0.1 ds.serving-sys.com
+127.0.0.1 dstik9906m659.cloudfront.net
 127.0.0.1 d.turn.com
 127.0.0.1 dualstack.brightcove.map.fastly.net
 127.0.0.1 dualstack.com.imgix.map.fastly.net
@@ -1128,6 +1137,7 @@
 127.0.0.1 gravatar.com
 127.0.0.1 grid-cdn.pdc.bidswitch.net
 127.0.0.1 growth-pa.googleapis.com
+127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gs.dailymail.co.uk
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gs.wixapps.net
@@ -1788,6 +1798,7 @@
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 run.adrizer.com
 127.0.0.1 s0.2mdn.net
+127.0.0.1 s0.ipstatp.com
 127.0.0.1 s0.wp.com
 127.0.0.1 s1.symcb.com
 127.0.0.1 s1.wp.com
@@ -2204,6 +2215,7 @@
 127.0.0.1 tracking.bauermedia.co.uk
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hivecloud.net
+127.0.0.1 tracking.kennelclub.galileolondon.net
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.powster.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
@@ -2310,6 +2322,7 @@
 127.0.0.1 vid.springserve.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 vidtech.cbsinteractive.com
+127.0.0.1 visitor-service-eu-west-1.tealiumiq.com
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
 127.0.0.1 v.lkqd.net
