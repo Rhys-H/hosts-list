@@ -65,6 +65,8 @@
 127.0.0.1 aad.cs.dds.microsoft.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 aa.online-metrix.net
+127.0.0.1 a.applovin.com
+127.0.0.1 a.applvn.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
@@ -189,6 +191,7 @@
 127.0.0.1 analytics.dev.azure.com
 127.0.0.1 analytics.foresee.com
 127.0.0.1 analytics.freespee.com
+127.0.0.1 analytics.getpostman.com
 127.0.0.1 analytics.getshogun.com
 127.0.0.1 analytics.global.sky.com
 127.0.0.1 analytics-ingress-global.bitmovin.com
@@ -375,6 +378,7 @@
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 attractivecap.com
 127.0.0.1 a.tvpage.com
+127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 audio4-ak-spotify-com.akamaized.net
 127.0.0.1 audio4-ak.spotify.com.edgesuite.net
 127.0.0.1 audio-ak-spotify-com.akamaized.net
@@ -510,6 +514,7 @@
 127.0.0.1 cbsi.demdex.net
 127.0.0.1 cbsi-d.openx.net
 127.0.0.1 cbsinteractive.hb.omtrdc.net
+127.0.0.1 cc-analytics--cdn.us-east-1.prod.public.atl-paas.net
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 c.contentsquare.net
@@ -564,6 +569,7 @@
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.flurry.com
+127.0.0.1 cdn.fuseplatform.net
 127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.georiot.com
 127.0.0.1 cdn-gl.imrworldwide.com
@@ -683,6 +689,7 @@
 127.0.0.1 click.e.change.org
 127.0.0.1 click.email3.moneysavingexpert.com
 127.0.0.1 click.email.pokemon.com
+127.0.0.1 click.emails-comparethemarket.com
 127.0.0.1 click.email.ticketmaster.co.uk
 127.0.0.1 click.e.mozilla.org
 127.0.0.1 clickhole.com
@@ -1040,6 +1047,7 @@
 127.0.0.1 fls-eu.amazon.com
 127.0.0.1 fls-eu.amazon.co.uk
 127.0.0.1 fls-eu.amazon.de
+127.0.0.1 fls-eu.amazon.es
 127.0.0.1 fls-eu.amazon.fr
 127.0.0.1 fls-eu.amazon.it
 127.0.0.1 fls-na.amazon.com
@@ -1159,6 +1167,7 @@
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hbx.media.net
+127.0.0.1 heads4-ak-spotify-com.akamaized.net
 127.0.0.1 heads-fa.scdn.co
 127.0.0.1 heads-fa.spotify.com
 127.0.0.1 heatmap.services
@@ -1324,6 +1333,7 @@
 127.0.0.1 lloydsbankinggroup.sc.omtrdc.net
 127.0.0.1 lloydsbankinggroup.tt.omtrdc.net
 127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lnkd.demdex.net
 127.0.0.1 lnv.lithium.com
 127.0.0.1 loadbalancer.in-application.com
 127.0.0.1 loadbalancer.visitor-analytics.io
@@ -1356,6 +1366,7 @@
 127.0.0.1 log.zoom.us
 127.0.0.1 lo.idp.liveperson.net
 127.0.0.1 l.ooyala.com
+127.0.0.1 lo.v.liveperson.net
 127.0.0.1 lp.longtailvideo.com
 127.0.0.1 lptag.liveperson.net
 127.0.0.1 l.sharethis.com
@@ -1399,6 +1410,7 @@
 127.0.0.1 maxcdn.bootstrapcdn.com
 127.0.0.1 mazu.sec.miui.com
 127.0.0.1 mb.moatads.com
+127.0.0.1 mboxedge37.tt.omtrdc.net
 127.0.0.1 mc.yandex.ru
 127.0.0.1 media.complex.com
 127.0.0.1 media.flixfacts.com
@@ -1415,6 +1427,7 @@
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
 127.0.0.1 metrics-nl.fitanalytics.com
+127.0.0.1 mgas.prod.public.atl-paas.net
 127.0.0.1 mgepodownload.mediatek.com
 127.0.0.1 m.hotmail.com
 127.0.0.1 micloud.xiaomi.net
@@ -1437,6 +1450,7 @@
 127.0.0.1 m.onelink.me
 127.0.0.1 monitor.channel4.com
 127.0.0.1 monu.delivery
+127.0.0.1 moonpig.api.ssopt.net
 127.0.0.1 moonpig.com
 127.0.0.1 mormont.gamer-network.net
 127.0.0.1 mps.cnbc.com
@@ -1624,6 +1638,7 @@
 127.0.0.1 prod.amazoncrl.com
 127.0.0.1 prod.disqus.map.fastlylb.net
 127.0.0.1 prod.globalsign.map.fastly.net
+127.0.0.1 prod.registrar.skype.com
 127.0.0.1 prod.telemetry.ros.rockstargames.com
 127.0.0.1 production-cmp.isgprivacy.cbsi.com
 127.0.0.1 profile.localytics.com
@@ -1776,6 +1791,7 @@
 127.0.0.1 rpm.newrelic.com
 127.0.0.1 rps-p2.rockpapershotgun.com
 127.0.0.1 rps-uk.rockpapershotgun.com
+127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpxnow.com
 127.0.0.1 rsci.app.link
 127.0.0.1 rs.gwallet.com
@@ -1888,6 +1904,7 @@
 127.0.0.1 semanticlocation-pa.googleapis.com
 127.0.0.1 se.monetate.net
 127.0.0.1 sendbird.reddit.com
+127.0.0.1 sentry-app.postmanlabs.com
 127.0.0.1 sentry.io
 127.0.0.1 seo.spot.im
 127.0.0.1 servedbyadbutler.com
@@ -1952,12 +1969,14 @@
 127.0.0.1 sock162-mt1.pusher.com
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
+127.0.0.1 sock174-mt1.pusher.com
 127.0.0.1 sock176-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
 127.0.0.1 sock181-mt1.pusher.com
 127.0.0.1 sock184-mt1.pusher.com
 127.0.0.1 sock185-mt1.pusher.com
 127.0.0.1 sock186-mt1.pusher.com
+127.0.0.1 sock189-mt1.pusher.com
 127.0.0.1 sock200-mt1.pusher.com
 127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
@@ -2140,6 +2159,7 @@
 127.0.0.1 t.appsflyer.com
 127.0.0.1 target.aws.amazon.com
 127.0.0.1 targeting.washpost.nile.works
+127.0.0.1 t.castle.io
 127.0.0.1 t.cfjump.com
 127.0.0.1 tc.freehostedscripts.net
 127.0.0.1 t.channeladvisor.com
@@ -2216,6 +2236,7 @@
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hivecloud.net
 127.0.0.1 tracking.kennelclub.galileolondon.net
+127.0.0.1 tracking.mbaaws.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.powster.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
@@ -2227,6 +2248,7 @@
 127.0.0.1 track.searchiq.co
 127.0.0.1 track.shipstation.com
 127.0.0.1 track.sp.crdl.io
+127.0.0.1 track.taimi.com
 127.0.0.1 track.wackojaco.com
 127.0.0.1 track.webgains.com
 127.0.0.1 track.zpbt.uk
@@ -2424,6 +2446,7 @@
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 127.0.0.1 www.gravatar.com
 127.0.0.1 www.himisspuff.com
 127.0.0.1 www.honcode.ch
@@ -2438,10 +2461,12 @@
 127.0.0.1 www.linkconnector.com
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.menshealth.com
+127.0.0.1 www.metric-conversions.org
 127.0.0.1 www.movable-ink-2183.com
 127.0.0.1 www.msftconnecttest.com
 127.0.0.1 www.name-statistics.org
 127.0.0.1 www.nanovisor.io
+127.0.0.1 www.nexus.ensighten.com
 127.0.0.1 www.nintendo.ru
 127.0.0.1 www.npttech.com
 127.0.0.1 www.orbitz.com
