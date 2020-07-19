@@ -20,6 +20,7 @@
 127.0.0.1 2a7e9.v.fwmrm.net
 127.0.0.1 2-edge-chat.facebook.com
 127.0.0.1 2.gravatar.com
+127.0.0.1 3468.xg4ken.com
 127.0.0.1 3-edge-chat.facebook.com
 127.0.0.1 3p.ampproject.net
 127.0.0.1 423621-android-ds.metric.gstatic.com
@@ -292,6 +293,7 @@
 127.0.0.1 api.stathat.com
 127.0.0.1 api.taboola.com
 127.0.0.1 api.taplytics.com
+127.0.0.1 api.teams.skype.com
 127.0.0.1 api.tracker.gg
 127.0.0.1 api.treasuredata.com
 127.0.0.1 api.tvpage.com
@@ -680,6 +682,7 @@
 127.0.0.1 chng.it
 127.0.0.1 chromefeedcontentsuggestions-pa.googleapis.com
 127.0.0.1 ci-first.iovation.com
+127.0.0.1 c.imedia.cz
 127.0.0.1 c.jsrdn.com
 127.0.0.1 ck.connatix.com
 127.0.0.1 clarium.global.ssl.fastly.net
@@ -794,6 +797,7 @@
 127.0.0.1 crackberry.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crash.steampowered.com
+127.0.0.1 crime-statistics.co.uk
 127.0.0.1 crl.microsoft.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs9.wac.phicdn.net
@@ -920,6 +924,7 @@
 127.0.0.1 dna8twue3dlxq.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dns7d06c0a2-1d60-41f4-ad51-dceeb6a4594c-azurebatch-cloudservice.southcentralus.cloudapp.azure.com
+127.0.0.1 dnscda41ed6-2df8-444c-ad83-ad2013afd561-azurebatch-cloudservice.westus.cloudapp.azure.com
 127.0.0.1 dnse2ae02c0-bb25-4436-ad99-0e74bd282572-azurebatch-cloudservice.eastus.cloudapp.azure.com
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 dntcl.qualaroo.com
@@ -978,6 +983,8 @@
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 encrypted-tbn0.gstatic.com
+127.0.0.1 engage.commander1.com
+127.0.0.1 engage.wixapps.net
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 enterprise.activity.windows.com
 127.0.0.1 enthusiast-gaming-d.openx.net
@@ -999,6 +1006,7 @@
 127.0.0.1 euapi.ibm.xtify.com
 127.0.0.1 eum.instana.io
 127.0.0.1 eurogamer-uk.eurogamer.net
+127.0.0.1 eu-sonar.sociomantic.com
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 euw.adserver.snapads.com
@@ -1221,6 +1229,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 img.metaffiliation.com
+127.0.0.1 img.teams.skype.com
 127.0.0.1 improving.duckduckgo.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 incartupsell-oihcsf0gzy.netdna-ssl.com
@@ -1426,6 +1435,7 @@
 127.0.0.1 metrics.getvitals.io
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics-nl.fitanalytics.com
 127.0.0.1 mgas.prod.public.atl-paas.net
 127.0.0.1 mgepodownload.mediatek.com
@@ -1502,6 +1512,7 @@
 127.0.0.1 nrdp.nccp.netflix.com
 127.0.0.1 ntp.nict.jp
 127.0.0.1 nymag.com
+127.0.0.1 nypost.com
 127.0.0.1 nytimes.com
 127.0.0.1 oajs.openx.net
 127.0.0.1 oao-d.openx.net
@@ -1670,6 +1681,7 @@
 127.0.0.1 q.quora.com
 127.0.0.1 q.stripe.com
 127.0.0.1 quantcast.mgr.consensu.org
+127.0.0.1 quicksilver.scdn.co
 127.0.0.1 r1---sn-4g5e6nle.googlevideo.com
 127.0.0.1 r1---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r1---sn-5hne6n7l.googlevideo.com
@@ -1969,6 +1981,7 @@
 127.0.0.1 sock162-mt1.pusher.com
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
+127.0.0.1 sock170-mt1.pusher.com
 127.0.0.1 sock174-mt1.pusher.com
 127.0.0.1 sock176-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
@@ -2301,6 +2314,7 @@
 127.0.0.1 urs.cnet.com
 127.0.0.1 urs.zdnet.com
 127.0.0.1 usage.trackjs.com
+127.0.0.1 us-api.asm.skype.com
 127.0.0.1 usb.hextom.com
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 us-central1-custom-site-analytics.cloudfunctions.net
@@ -2482,6 +2496,7 @@
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.snipurl.com
 127.0.0.1 www.sony.co.uk
+127.0.0.1 www.spot.im
 127.0.0.1 www.stack-sonar.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
@@ -2490,6 +2505,7 @@
 127.0.0.1 www.theblaze.com
 127.0.0.1 www.thedailybeast.com
 127.0.0.1 www.thedailymash.co.uk
+127.0.0.1 www.tiktok.com
 127.0.0.1 www.travelocity.com
 127.0.0.1 www.tryzens-analytics.com
 127.0.0.1 www.ultimedia.com
