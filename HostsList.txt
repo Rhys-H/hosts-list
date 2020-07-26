@@ -117,11 +117,13 @@
 127.0.0.1 adserver-eu.adtech.advertising.com
 127.0.0.1 adserver.snapads.com
 127.0.0.1 adserver-us.adtech.advertising.com
+127.0.0.1 adservex.media.net
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.co.uk
 127.0.0.1 adservice.google.de
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 ads.nexage.com
 127.0.0.1 ad.soicos.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 ads.pubmatic.com
@@ -984,6 +986,7 @@
 127.0.0.1 embed.tawk.to
 127.0.0.1 encrypted-tbn0.gstatic.com
 127.0.0.1 engage.commander1.com
+127.0.0.1 engagement-collector.mobify.net
 127.0.0.1 engage.wixapps.net
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 enterprise.activity.windows.com
@@ -1049,6 +1052,7 @@
 127.0.0.1 fig.bbc.co.uk
 127.0.0.1 files.catbox.moe
 127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 firebasestorage.googleapis.com
 127.0.0.1 fls.doubleclick.net
@@ -1080,6 +1084,7 @@
 127.0.0.1 ftvr-na.amazon.com
 127.0.0.1 fundingchoices.google.com
 127.0.0.1 fundingchoicesmessages.google.com
+127.0.0.1 fuse.forbes.com
 127.0.0.1 futureplc.slgnt.eu
 127.0.0.1 fx.nvc.engb.nuancemobility.net
 127.0.0.1 g2.gumgum.com
@@ -1104,6 +1109,7 @@
 127.0.0.1 geofence.sys.miui.com
 127.0.0.1 geoip-db.com
 127.0.0.1 geoip.fing.io
+127.0.0.1 geolocation.forbes.com
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 geo.moatads.com
 127.0.0.1 geo-prod.do.dsp.mp.microsoft.com
@@ -1290,6 +1296,7 @@
 127.0.0.1 js.leadin.com
 127.0.0.1 js.logentries.com
 127.0.0.1 js.maxmind.com
+127.0.0.1 json.geoiplookup.io
 127.0.0.1 js.pusher.com
 127.0.0.1 jssdkcdns.mparticle.com
 127.0.0.1 js-sec.indexww.com
@@ -1723,6 +1730,7 @@
 127.0.0.1 r4---sn-4g5e6ney.googlevideo.com
 127.0.0.1 r4---sn-5hne6n7e.googlevideo.com
 127.0.0.1 r4---sn-5hne6n7l.googlevideo.com
+127.0.0.1 r4---sn-5hne6n7s.googlevideo.com
 127.0.0.1 r4---sn-5hne6n7z.googlevideo.com
 127.0.0.1 r4---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r4---sn-5hne6nlr.googlevideo.com
@@ -1880,6 +1888,7 @@
 127.0.0.1 sdk.hockeyapp.net
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdk.privacy-center.org
+127.0.0.1 sdk.qikify.com
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 sdktm.w.inmobi.com
 127.0.0.1 s.dpmsrv.com
@@ -1923,6 +1932,7 @@
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedby.o2.co.uk
 127.0.0.1 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
+127.0.0.1 service.cmp.oath.com
 127.0.0.1 service.game-mode.net
 127.0.0.1 service.maxymiser.net
 127.0.0.1 service.piriform.com
@@ -2090,6 +2100,8 @@
 127.0.0.1 statsfe2.update.microsoft.com
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.jpush.cn
+127.0.0.1 stats.kaltura.com
+127.0.0.1 stats.ksearchnet.com
 127.0.0.1 stats.lineageos.org
 127.0.0.1 stats.mainroll.com
 127.0.0.1 stats.priceonomics.com
@@ -2289,6 +2301,7 @@
 127.0.0.1 tvline.com
 127.0.0.1 tvmds.tvpassport.com
 127.0.0.1 u1828302.ct.sendgrid.net
+127.0.0.1 u2017315.ct.sendgrid.net
 127.0.0.1 uaid-linkage.imrworldwide.com
 127.0.0.1 ubisoftinternational.demdex.net
 127.0.0.1 ucarecdn.com
@@ -2304,6 +2317,7 @@
 127.0.0.1 uk-api.asm.skype.com
 127.0.0.1 uk.ask.com
 127.0.0.1 uktc.ijento.com
+127.0.0.1 unagi.amazon.com
 127.0.0.1 unagi-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
 127.0.0.1 underarmour.tt.omtrdc.net
@@ -2311,6 +2325,7 @@
 127.0.0.1 u.openx.net
 127.0.0.1 update.sdk.jiguang.cn
 127.0.0.1 upgrade.scdn.co
+127.0.0.1 urlp.asm.skype.com
 127.0.0.1 urs.cnet.com
 127.0.0.1 urs.zdnet.com
 127.0.0.1 usage.trackjs.com
@@ -2532,6 +2547,7 @@
 127.0.0.1 yen.appsfire.net
 127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 ynuf.aliapp.org
+127.0.0.1 yorkshirebuildingsoc.tt.omtrdc.net
 127.0.0.1 youtu.be
 127.0.0.1 youtube.com
 127.0.0.1 ytimg-edge-static.l.google.com
