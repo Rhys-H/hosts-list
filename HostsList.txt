@@ -44,6 +44,7 @@
 127.0.0.1 757680-android-ds.metric.gstatic.com
 127.0.0.1 785682-android-ds.metric.gstatic.com
 127.0.0.1 790518-android-ds.metric.gstatic.com
+127.0.0.1 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 127.0.0.1 7s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 815jpfypwc.execute-api.us-east-1.amazonaws.com
 127.0.0.1 8816.engine.mobileapptracking.com
@@ -206,6 +207,7 @@
 127.0.0.1 analytics.linktr.ee
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.logsss.com
+127.0.0.1 analytics.lucidchart.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.nike.com
 127.0.0.1 analytics.ooyala.com
@@ -545,6 +547,7 @@
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 cdnapi.kaltura.com
 127.0.0.1 cdn.appdynamics.com
+127.0.0.1 cdn.attn.tv
 127.0.0.1 cdn.avmws.com
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn.b0e8.com
@@ -919,6 +922,7 @@
 127.0.0.1 discovery.analytics.zion.idtech.services
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
+127.0.0.1 disney.my.sentry.io
 127.0.0.1 disneystore.ugc.bazaarvoice.com
 127.0.0.1 display.apester.com
 127.0.0.1 display.ugc.bazaarvoice.com
@@ -988,6 +992,7 @@
 127.0.0.1 e.infogram.com
 127.0.0.1 elinkeu.clickdimensions.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 embed.playbuzz.com
 127.0.0.1 embed.spotify.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 encrypted-tbn0.gstatic.com
@@ -1233,6 +1238,7 @@
 127.0.0.1 image.ibb.co
 127.0.0.1 image.providesupport.com
 127.0.0.1 images2.imgbox.com
+127.0.0.1 image.s4.exct.net
 127.0.0.1 image.s6.exacttarget.com
 127.0.0.1 images.coinbase.com
 127.0.0.1 images.dmca.com
@@ -1442,6 +1448,7 @@
 127.0.0.1 mercury.itv.com
 127.0.0.1 messaging-director-us-east-1.amazon.com
 127.0.0.1 meter-svc.nytimes.com
+127.0.0.1 metricool.com
 127.0.0.1 metrics.asos.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics-collector.s-onetag.com
@@ -1866,6 +1873,7 @@
 127.0.0.1 salesiq.zoho.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 sam.msn.com
+127.0.0.1 sanalytics.disneyplus.com
 127.0.0.1 sandstorm-statistics-player-api.newworldinteractive.com
 127.0.0.1 sb.monetate.net
 127.0.0.1 sb.scorecardresearch.com
@@ -2096,6 +2104,7 @@
 127.0.0.1 statics.a8.net
 127.0.0.1 static.scroll.com
 127.0.0.1 statics.streamable.com
+127.0.0.1 static.vilynx.com
 127.0.0.1 staticw2.yotpo.com
 127.0.0.1 static.www.turnto.com
 127.0.0.1 staticxx.facebook.com
@@ -2300,6 +2309,7 @@
 127.0.0.1 trinitymirror.grapeshot.co.uk
 127.0.0.1 trinity.platform.intuit.com
 127.0.0.1 trk.klclick1.com
+127.0.0.1 trk.klclick.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trowel.twitch.tv
 127.0.0.1 tr.snapchat.com
