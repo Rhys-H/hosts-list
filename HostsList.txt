@@ -11,6 +11,7 @@
 127.0.0.1 13s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 15s3.lvlt.videorolls.row.aiv-cdn.net
 127.0.0.1 16s3.lvlt.videorolls.row.aiv-cdn.net
+127.0.0.1 1720107.fls.doubleclick.net
 127.0.0.1 178176.engine.mobileapptracking.com
 127.0.0.1 1-edge-chat.facebook.com
 127.0.0.1 1.gravatar.com
@@ -96,6 +97,7 @@
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 adc.streamspread.com
 127.0.0.1 ad-delivery.net
+127.0.0.1 addevent.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 ad-emea.doubleclick.net
@@ -243,6 +245,7 @@
 127.0.0.1 api2.branch.io
 127.0.0.1 api3.cc.skype.com
 127.0.0.1 api.account.xiaomi.com
+127.0.0.1 api.adfenix.com
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.airbrake.io
@@ -263,6 +266,7 @@
 127.0.0.1 api.eu.amazonalexa.com
 127.0.0.1 api.eu-west-1.aiv-delivery.net
 127.0.0.1 api.facebook.com
+127.0.0.1 api.feefo.com
 127.0.0.1 api.fing.io
 127.0.0.1 api.foursquare.com
 127.0.0.1 api.fusepowered.com
@@ -365,6 +369,7 @@
 127.0.0.1 asset.pagefair.com
 127.0.0.1 asset.pagefair.net
 127.0.0.1 assets1.adroll.com
+127.0.0.1 assets.adfenix.com
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.context.ly
 127.0.0.1 assets.customer.io
@@ -541,6 +546,7 @@
 127.0.0.1 cdn.88-f.net
 127.0.0.1 cdn9.forter.com
 127.0.0.1 cdn.accelerator.arsdev.net
+127.0.0.1 cdn.adfenix.com
 127.0.0.1 cdn.ad.plus
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.ad.xiaomi.com
@@ -1079,6 +1085,7 @@
 127.0.0.1 f.monetate.net
 127.0.0.1 fo-api.omnitagjs.com
 127.0.0.1 fontawesome-cdn.fonticons.netdna-cdn.com
+127.0.0.1 fonts.65twenty.com
 127.0.0.1 forecasttiger.com
 127.0.0.1 forms.aweber.com
 127.0.0.1 forms.office.com
@@ -1110,9 +1117,12 @@
 127.0.0.1 gateway.foresee.com
 127.0.0.1 gb.ad.lgsmartad.com
 127.0.0.1 gb.info.lgsmartad.com
+127.0.0.1 gb.lgrecommends.lgappstv.com
+127.0.0.1 gb.lgtvsdp.com
 127.0.0.1 gb.rdx2.lgtvsdp.com
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gcs.sc-cdn.net
+127.0.0.1 geller-pa.googleapis.com
 127.0.0.1 genesis.malwarebytes.com
 127.0.0.1 geni.us
 127.0.0.1 geo3.ggpht.com
@@ -1144,6 +1154,7 @@
 127.0.0.1 glimmer.hearstapps.com
 127.0.0.1 g.live.com
 127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 global.proper.io
 127.0.0.1 gmail-smtp-in.l.google.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 go.affec.tv
@@ -1262,6 +1273,7 @@
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insight.reflow.tv
 127.0.0.1 insights.algolia.io
+127.0.0.1 insights-collector.gog.com
 127.0.0.1 insights.hotjar.com
 127.0.0.1 ins-stats-prod.newworldinteractive.com
 127.0.0.1 instagram.c10r.facebook.com
@@ -1366,6 +1378,7 @@
 127.0.0.1 lnv.lithium.com
 127.0.0.1 loadbalancer.in-application.com
 127.0.0.1 loadbalancer.visitor-analytics.io
+127.0.0.1 loader-cdn.azureedge.net
 127.0.0.1 loadeu.exelator.com
 127.0.0.1 load.instinctiveads.com
 127.0.0.1 load.s3.amazonaws.com
@@ -1498,6 +1511,7 @@
 127.0.0.1 mssl.fwmrm.net
 127.0.0.1 m.stripe.com
 127.0.0.1 m.stripe.network
+127.0.0.1 m.tiktok.com
 127.0.0.1 mtrx.go.sonobi.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mupdates.trusteer.com
@@ -1586,6 +1600,7 @@
 127.0.0.1 pcadvisor-uk.intellitxt.com
 127.0.0.1 p.cpx.to
 127.0.0.1 pdc.micloud.xiaomi.net
+127.0.0.1 people-pa.googleapis.com
 127.0.0.1 perf-events.cloud.unity3d.com
 127.0.0.1 perf.logsss.com
 127.0.0.1 performance.typekit.net
@@ -1781,6 +1796,7 @@
 127.0.0.1 r6---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r6---sn-5hne6nlr.googlevideo.com
 127.0.0.1 r6---sn-ab5l6nzk.googlevideo.com
+127.0.0.1 r6---sn-ab5l6nzy.googlevideo.com
 127.0.0.1 r6---sn-aigs6n7y.googlevideo.com
 127.0.0.1 r6---sn-hpa7zne6.googlevideo.com
 127.0.0.1 r6---sn-hpa7zned.googlevideo.com
@@ -1796,7 +1812,9 @@
 127.0.0.1 rcom-eu.dynamicyield.com
 127.0.0.1 rddywd.com
 127.0.0.1 realtime04.pepper.com
+127.0.0.1 realtime-cluster.pepper.com
 127.0.0.1 realtime.services.disqus.com
+127.0.0.1 receive-lp1.dg.srv.nintendo.net
 127.0.0.1 recirculation.spot.im
 127.0.0.1 recommendation-hybrid.wpdigital.net
 127.0.0.1 recommendation-newsletter.wpdigital.net
@@ -1810,6 +1828,7 @@
 127.0.0.1 redshell.io
 127.0.0.1 referrer.disqus.com
 127.0.0.1 register.appsflyer.com
+127.0.0.1 register.feefo.com
 127.0.0.1 registration.freeola.net
 127.0.0.1 relish.com
 127.0.0.1 remote-data.urbanairship.com
@@ -1914,6 +1933,7 @@
 127.0.0.1 seal.godaddy.com
 127.0.0.1 search-api.fie.future.net.uk
 127.0.0.1 search.spotxchange.com
+127.0.0.1 seccdn-gl.imrworldwide.com
 127.0.0.1 secure.ace-tag.advertising.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.assets.tumblr.com
@@ -1953,11 +1973,13 @@
 127.0.0.1 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 127.0.0.1 service.cmp.oath.com
 127.0.0.1 service.game-mode.net
+127.0.0.1 service.giosg.com
 127.0.0.1 service.maxymiser.net
 127.0.0.1 service.piriform.com
 127.0.0.1 services.fandom.com
 127.0.0.1 services.gfe.nvidia.com
 127.0.0.1 servicesupport.hicloud.com
+127.0.0.1 services.wikia.com
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.data.microsoft.com
@@ -2013,6 +2035,7 @@
 127.0.0.1 sock170-mt1.pusher.com
 127.0.0.1 sock174-mt1.pusher.com
 127.0.0.1 sock176-mt1.pusher.com
+127.0.0.1 sock177-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
 127.0.0.1 sock181-mt1.pusher.com
 127.0.0.1 sock184-mt1.pusher.com
@@ -2106,6 +2129,7 @@
 127.0.0.1 statics.streamable.com
 127.0.0.1 static.vilynx.com
 127.0.0.1 staticw2.yotpo.com
+127.0.0.1 static.wikia.nocookie.net
 127.0.0.1 static.www.turnto.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.ziffdavis.com
@@ -2192,6 +2216,7 @@
 127.0.0.1 tag.imonomy.com
 127.0.0.1 tag-manager.playbuzz.com
 127.0.0.1 tag.mtrcs.samba.tv
+127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.bluekai.com
@@ -2363,6 +2388,7 @@
 127.0.0.1 us-east-1.prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 user.huami.com
 127.0.0.1 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
+127.0.0.1 userlocation.googleapis.com
 127.0.0.1 user-stats.rbl.ms
 127.0.0.1 usllpic0-24070d5eae9aaf17cc8fa2522001e268867b06fb-am1.e.aa.online-metrix.net
 127.0.0.1 usllpic0-5f8e6f7474c45ff022c50bbe956d9362b8edf5c4-am1.e.aa.online-metrix.net
