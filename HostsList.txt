@@ -357,7 +357,9 @@
 127.0.0.1 appsitemsuggest-pa.googleapis.com
 127.0.0.1 app-sj06.marketo.com
 127.0.0.1 app-sj14.marketo.com
+127.0.0.1 app-sj32.marketo.com
 127.0.0.1 app-sjg.marketo.com
+127.0.0.1 app-sji.marketo.com
 127.0.0.1 app.slickstream.com
 127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 appuals.com
@@ -597,6 +599,7 @@
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.dynamicyield.com
 127.0.0.1 cdn-eu.dynamicyield.com
+127.0.0.1 cdn-eu.pagesense.io
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.flurry.com
@@ -631,6 +634,7 @@
 127.0.0.1 cdn.oribi.io
 127.0.0.1 cdn.parsely.com
 127.0.0.1 cdn.pbbl.co
+127.0.0.1 cdn.pendo.io
 127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.petametrics.com
@@ -712,6 +716,7 @@
 127.0.0.1 check2.lloydsbank.co.uk
 127.0.0.1 chimpstatic.com
 127.0.0.1 chng.it
+127.0.0.1 chrome-devtools-frontend.appspot.com
 127.0.0.1 chromefeedcontentsuggestions-pa.googleapis.com
 127.0.0.1 ci-first.iovation.com
 127.0.0.1 c.imedia.cz
@@ -835,6 +840,7 @@
 127.0.0.1 crash.steampowered.com
 127.0.0.1 crime-statistics.co.uk
 127.0.0.1 crl.microsoft.com
+127.0.0.1 crm.zoho.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 cs-cdn.deviceatlas.com
@@ -848,6 +854,7 @@
 127.0.0.1 ct.pinterest.com
 127.0.0.1 cts.tradepub.com
 127.0.0.1 curse-d.openx.net
+127.0.0.1 customer.cludo.com
 127.0.0.1 c.webtrends.com
 127.0.0.1 cws.conviva.com
 127.0.0.1 cx.atdmt.com
@@ -890,6 +897,7 @@
 127.0.0.1 d3alqb8vzo7fun.cloudfront.net
 127.0.0.1 d3c3cq33003psk.cloudfront.net
 127.0.0.1 d3hitamb7drqut.cloudfront.net
+127.0.0.1 d3iz8yddtnmavc.cloudfront.net
 127.0.0.1 d3tsytm1wtjqo2.cloudfront.net
 127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
@@ -954,6 +962,7 @@
 127.0.0.1 display.ugc.bazaarvoice.com
 127.0.0.1 disqus.com
 127.0.0.1 distributed-tracing.service.newrelic.com
+127.0.0.1 distributions.crowdin.net
 127.0.0.1 dixons.inq.com
 127.0.0.1 dk98ddgl0znzm.cloudfront.net
 127.0.0.1 dmd.metaservices.microsoft.com
@@ -1001,6 +1010,7 @@
 127.0.0.1 e6913.dscx.akamaiedge.net
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 eahq-rca.ad.ea.com
+127.0.0.1 easytomessage.com
 127.0.0.1 eb2.3lift.com
 127.0.0.1 eb.trbas.com
 127.0.0.1 ecn.dev.virtualearth.net
@@ -1081,6 +1091,7 @@
 127.0.0.1 fast.wistia.com
 127.0.0.1 fatface.ugc.bazaarvoice.com
 127.0.0.1 fbcdn.net
+127.0.0.1 fb.me
 127.0.0.1 f.convertkit.com
 127.0.0.1 fc.yahoo.com
 127.0.0.1 feedback.miui.com
@@ -1112,6 +1123,7 @@
 127.0.0.1 fonts.65twenty.com
 127.0.0.1 forecasttiger.com
 127.0.0.1 forms.aweber.com
+127.0.0.1 forms.hsforms.com
 127.0.0.1 forms.office.com
 127.0.0.1 fossbytes.com
 127.0.0.1 fo-static.omnitagjs.com
@@ -1202,6 +1214,7 @@
 127.0.0.1 go.redirectingat.com
 127.0.0.1 g.pcmag.com
 127.0.0.1 graph.accountkit.com
+127.0.0.1 graph.bustle.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 graph.m-freeway.com
@@ -1350,6 +1363,7 @@
 127.0.0.1 js.hsadspixel.net
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hscollectedforms.net
+127.0.0.1 js.hsforms.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.hubspotfeedback.com
 127.0.0.1 js.leadin.com
@@ -1373,6 +1387,7 @@
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 kinja.com
 127.0.0.1 k.intellitxt.com
+127.0.0.1 kit.fontawesome.com
 127.0.0.1 kotaku.com
 127.0.0.1 kraken-measurements.s3-external-1.amazonaws.com
 127.0.0.1 krk.kargo.com
@@ -1535,6 +1550,7 @@
 127.0.0.1 moonpig.api.ssopt.net
 127.0.0.1 moonpig.com
 127.0.0.1 mormont.gamer-network.net
+127.0.0.1 mozilla.cloudflare-dns.com
 127.0.0.1 mps.cnbc.com
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mps.nbcuni.com
@@ -1587,6 +1603,7 @@
 127.0.0.1 nymag.com
 127.0.0.1 nypost.com
 127.0.0.1 nytimes.com
+127.0.0.1 o2.mouseflow.com
 127.0.0.1 oajs.openx.net
 127.0.0.1 oao-d.openx.net
 127.0.0.1 o.aolcdn.com
@@ -1656,6 +1673,7 @@
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping-dot-acp-magento.appspot.com
 127.0.0.1 ping.dozuki.com
+127.0.0.1 ping-meta-prd.jwpltx.com
 127.0.0.1 pinpoint.us-east-1.amazonaws.com
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
@@ -1738,6 +1756,7 @@
 127.0.0.1 proton.flurry.com
 127.0.0.1 pr.realvu.net
 127.0.0.1 p-r-travel-pixel-w-il86lx5qwzt-209932302.eu-west-1.elb.amazonaws.com
+127.0.0.1 prx.wayfair.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 pt.ispot.tv
@@ -1769,6 +1788,7 @@
 127.0.0.1 r1---sn-5hne6n7z.googlevideo.com
 127.0.0.1 r1---sn-5hne6nlk.googlevideo.com
 127.0.0.1 r1---sn-5hne6nlr.googlevideo.com
+127.0.0.1 r1---sn-5hnedn7l.gvt1.com
 127.0.0.1 r1---sn-a5mekner.googlevideo.com
 127.0.0.1 r1---sn-a5mlrn7r.googlevideo.com
 127.0.0.1 r1---sn-aigl6n7z.googlevideo.com
@@ -1876,6 +1896,7 @@
 127.0.0.1 register.feefo.com
 127.0.0.1 registration.freeola.net
 127.0.0.1 relish.com
+127.0.0.1 reload.getsentry.net
 127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 report-ads-to.pubnation.com
 127.0.0.1 reports.crashlytics.com
@@ -1886,6 +1907,7 @@
 127.0.0.1 revolve.sspinc.io
 127.0.0.1 rightmoveanalytics.co.uk
 127.0.0.1 river-mobile.data.ea.com
+127.0.0.1 rollout.ada.support
 127.0.0.1 rover.ebay.com
 127.0.0.1 row-advil.waze.com
 127.0.0.1 rp.gwallet.com
@@ -1894,6 +1916,7 @@
 127.0.0.1 rps-uk.rockpapershotgun.com
 127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpxnow.com
+127.0.0.1 rqd.uu.qq.com
 127.0.0.1 rsci.app.link
 127.0.0.1 rs.gwallet.com
 127.0.0.1 r.skimresources.com
@@ -1917,6 +1940,7 @@
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s0.ipstatp.com
 127.0.0.1 s0.wp.com
+127.0.0.1 s1.sentry-cdn.com
 127.0.0.1 s1.symcb.com
 127.0.0.1 s1.wp.com
 127.0.0.1 s2.symcb.com
@@ -1962,6 +1986,7 @@
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.mediavine.com
 127.0.0.1 scripts.webcontentassessor.com
+127.0.0.1 script.tapfiliate.com
 127.0.0.1 sc-static.net
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.adincube.com
@@ -1974,6 +1999,7 @@
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.qikify.com
 127.0.0.1 sdk.sharethrough.com
+127.0.0.1 sdks.shopifycdn.com
 127.0.0.1 sdktm.w.inmobi.com
 127.0.0.1 s.dpmsrv.com
 127.0.0.1 seal.geotrust.com
@@ -2069,6 +2095,7 @@
 127.0.0.1 snip.bronto.com
 127.0.0.1 snippets.cdn.mozilla.net
 127.0.0.1 snipurl.com
+127.0.0.1 s.nitropay.com
 127.0.0.1 s.ntv.io
 127.0.0.1 socialize.eu1.gigya.com
 127.0.0.1 socialize.us1.gigya.com
@@ -2084,6 +2111,7 @@
 127.0.0.1 sock174-mt1.pusher.com
 127.0.0.1 sock176-mt1.pusher.com
 127.0.0.1 sock177-mt1.pusher.com
+127.0.0.1 sock178-mt1.pusher.com
 127.0.0.1 sock179-mt1.pusher.com
 127.0.0.1 sock181-mt1.pusher.com
 127.0.0.1 sock184-mt1.pusher.com
@@ -2123,6 +2151,7 @@
 127.0.0.1 srv-2019-05-18-07.pixel.parsely.com
 127.0.0.1 srv.main.ebayrtm.com
 127.0.0.1 srv.pixel.parsely.com
+127.0.0.1 srv.uk.ebayrtm.com
 127.0.0.1 srx.main.ebayrtm.com
 127.0.0.1 ssc.33across.com
 127.0.0.1 ssc.independent.co.uk
@@ -2212,6 +2241,7 @@
 127.0.0.1 stats.windscribe.com
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
+127.0.0.1 status.geotrust.com
 127.0.0.1 s.telegraph.co.uk
 127.0.0.1 st-eu.dynamicyield.com
 127.0.0.1 s.thebrighttag.com
@@ -2327,6 +2357,7 @@
 127.0.0.1 timeanddate-d.openx.net
 127.0.0.1 time.com
 127.0.0.1 time.izatcloud.net
+127.0.0.1 time.xtracloud.net
 127.0.0.1 titangate-d.openx.net
 127.0.0.1 tlp-02.kameleoon.com
 127.0.0.1 tlp-03.kameleoon.com
@@ -2392,6 +2423,7 @@
 127.0.0.1 trk.klclick1.com
 127.0.0.1 trk.klclick.com
 127.0.0.1 trk.pinterest.com
+127.0.0.1 tr.outbrain.com
 127.0.0.1 trowel.twitch.tv
 127.0.0.1 tr.snapchat.com
 127.0.0.1 tru.am
@@ -2477,6 +2509,7 @@
 127.0.0.1 video-assets.mathtag.com
 127.0.0.1 video-fa.scdn.co
 127.0.0.1 video.mediavine.com
+127.0.0.1 video-static.vooxe.com
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video.xx.fbcdn.net
 127.0.0.1 vid.springserve.com
@@ -2681,5 +2714,6 @@
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystems.com
 127.0.0.1 znsv.baidu.com
+127.0.0.1 zoom.ada.support
 127.0.0.1 z.opmnstr.com
 127.0.0.1 z-p42-instagram.c10r.facebook.com
