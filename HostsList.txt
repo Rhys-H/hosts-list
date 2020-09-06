@@ -261,6 +261,7 @@
 127.0.0.1 api.b2c.com
 127.0.0.1 api.bazaarvoice.com
 127.0.0.1 api.branch.io
+127.0.0.1 api.buffpanel.com
 127.0.0.1 api.cc.skype.com
 127.0.0.1 api-cf.affirm.com
 127.0.0.1 api.coinbase.com
@@ -278,7 +279,9 @@
 127.0.0.1 api-glb-drf.smoot.apple.com
 127.0.0.1 api-glb-euc1a.smoot.apple.com
 127.0.0.1 api-glb-euc1b.smoot.apple.com
+127.0.0.1 api-glb-euw1b.smoot.apple.com
 127.0.0.1 api-glb-euw1c.smoot.apple.com
+127.0.0.1 api-glb-euw3c.smoot.apple.com
 127.0.0.1 api-glb-fra.smoot.apple.com
 127.0.0.1 api-glb-lon.smoot.apple.com
 127.0.0.1 api-glb-use1b.smoot.apple.com
@@ -369,6 +372,7 @@
 127.0.0.1 a.pub.network
 127.0.0.1 a.quora.com
 127.0.0.1 arbsc36259691gb1.cobrowse.oraclecloud.com
+127.0.0.1 arc.io
 127.0.0.1 arc.msn.com
 127.0.0.1 arcus-uswest.amazon.com
 127.0.0.1 argos.citruserve.com
@@ -401,6 +405,7 @@
 127.0.0.1 at.cbsi.com
 127.0.0.1 a.teads.tv
 127.0.0.1 ats.ccmp.eu
+127.0.0.1 ats.rlcdn.com
 127.0.0.1 attackofthefanboy.com
 127.0.0.1 attractivecap.com
 127.0.0.1 a.tvpage.com
@@ -603,9 +608,11 @@
 127.0.0.1 cdn.fastclick.net
 127.0.0.1 cdn.feathr.co
 127.0.0.1 cdn.flurry.com
+127.0.0.1 cdn.funnelytics.io
 127.0.0.1 cdn.fuseplatform.net
 127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.georiot.com
+127.0.0.1 cdn.gethatch.com
 127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cdn.globalsigncdn.com.cdn.cloudflare.net
 127.0.0.1 cdn.greenhouse.io
@@ -1074,6 +1081,7 @@
 127.0.0.1 events.launchdarkly.com
 127.0.0.1 events.mapbox.com
 127.0.0.1 events.redditmedia.com
+127.0.0.1 events.split.io
 127.0.0.1 events.streamrail.net
 127.0.0.1 events.whisk.com
 127.0.0.1 ew3.io
@@ -1297,6 +1305,7 @@
 127.0.0.1 images.dmca.com
 127.0.0.1 images.outbrain.com
 127.0.0.1 images.paypal.com
+127.0.0.1 images.weserv.nl
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 img.metaffiliation.com
@@ -1847,6 +1856,7 @@
 127.0.0.1 r5---sn-aigl6nl7.googlevideo.com
 127.0.0.1 r5---sn-aigs6n7y.googlevideo.com
 127.0.0.1 r5---sn-aigzrn7s.googlevideo.com
+127.0.0.1 r5---sn-p5qlsnsk.googlevideo.com
 127.0.0.1 r5---sn-p5qlsnsr.googlevideo.com
 127.0.0.1 r5---sn-p5qs7n7s.googlevideo.com
 127.0.0.1 r5---sn-q4fl6n7z.googlevideo.com
@@ -1871,6 +1881,7 @@
 127.0.0.1 raven-tracking.web.app
 127.0.0.1 rawgit.com
 127.0.0.1 r.bbci.co.uk
+127.0.0.1 rcgmal4n.klarnaservices.com
 127.0.0.1 rcm-eu.amazon-adsystem.com
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rcom-eu.dynamicyield.com
@@ -1975,6 +1986,7 @@
 127.0.0.1 scdn.cxense.com
 127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.clickiocdn.com
+127.0.0.1 scone-pa.clients6.google.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
 127.0.0.1 scontent.webcollage.net
 127.0.0.1 scontent.xx.fbcdn.net
@@ -1999,6 +2011,7 @@
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 sdk.qikify.com
 127.0.0.1 sdk.sharethrough.com
+127.0.0.1 sdk.split.io
 127.0.0.1 sdks.shopifycdn.com
 127.0.0.1 sdktm.w.inmobi.com
 127.0.0.1 s.dpmsrv.com
@@ -2195,6 +2208,7 @@
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.facebook.com
+127.0.0.1 static.fengkongcloud.com
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.hubspot.com
@@ -2479,6 +2493,7 @@
 127.0.0.1 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 127.0.0.1 userlocation.googleapis.com
 127.0.0.1 user-stats.rbl.ms
+127.0.0.1 us-library.klarnaservices.com
 127.0.0.1 usllpic0-24070d5eae9aaf17cc8fa2522001e268867b06fb-am1.e.aa.online-metrix.net
 127.0.0.1 usllpic0-5f8e6f7474c45ff022c50bbe956d9362b8edf5c4-am1.e.aa.online-metrix.net
 127.0.0.1 usllpic0-dae5ebcbeaeacddae24177a5aee48f30689cb918-am1.e.aa.online-metrix.net
@@ -2487,6 +2502,7 @@
 127.0.0.1 uss-pid.lenovomm.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 v10.events.data.microsoft.com
+127.0.0.1 v16m.tiktokcdn.com
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
 127.0.0.1 vaes.amazon-adsystem.com
@@ -2643,6 +2659,7 @@
 127.0.0.1 www.nexus.ensighten.com
 127.0.0.1 www.nintendo.ru
 127.0.0.1 www.npttech.com
+127.0.0.1 www.ojrq.net
 127.0.0.1 www.orbitz.com
 127.0.0.1 www.personalicanvas.com
 127.0.0.1 www.pinterest.com
@@ -2667,6 +2684,7 @@
 127.0.0.1 www.thedailybeast.com
 127.0.0.1 www.thedailymash.co.uk
 127.0.0.1 www.tiktok.com
+127.0.0.1 www.tm.a.prd.aadg.trafficmanager.net
 127.0.0.1 www.travelocity.com
 127.0.0.1 www.tryzens-analytics.com
 127.0.0.1 www.ultimedia.com
