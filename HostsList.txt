@@ -35,6 +35,7 @@
 127.0.0.1 5-edge-chat.facebook.com
 127.0.0.1 607683-android-ds.metric.gstatic.com
 127.0.0.1 6558036.log.optimizely.com
+127.0.0.1 6638289.fls.doubleclick.net
 127.0.0.1 6.adsco.re
 127.0.0.1 6-edge-chat.facebook.com
 127.0.0.1 6s3.lvlt.videorolls.row.aiv-cdn.net
@@ -369,6 +370,7 @@
 127.0.0.1 app.viewdeos.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 aps.hearstnp.com
+127.0.0.1 ap.spotify.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.quora.com
 127.0.0.1 arbsc36259691gb1.cobrowse.oraclecloud.com
@@ -752,6 +754,7 @@
 127.0.0.1 click.oneplus.com
 127.0.0.1 click.udimg.com
 127.0.0.1 click.virt.exacttarget.com
+127.0.0.1 client3.spinasale.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client.a.pxi.pub
 127.0.0.1 clientcdn.pushengage.com
@@ -781,12 +784,14 @@
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 cnn.com
 127.0.0.1 code.createjs.com
+127.0.0.1 code.highcharts.com
 127.0.0.1 code.ionicframework.com
 127.0.0.1 code.jquery.com
 127.0.0.1 cognito-identity.us-east-1.amazonaws.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect-eu-west-1.tealiumiq.com
 127.0.0.1 collector-1167.tvsquared.com
+127.0.0.1 collector-1514.tvsquared.com
 127.0.0.1 collector.fitanalytics.com
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector-medium.lightstep.com
@@ -815,8 +820,10 @@
 127.0.0.1 connect.nosto.com
 127.0.0.1 connect.scroll.com
 127.0.0.1 connect.tapjoy.com
+127.0.0.1 consent.api.ua.com
 127.0.0.1 consent.cmp.oath.com
 127.0.0.1 consent.cookiebot.com
+127.0.0.1 consent-pref.trustarc.com
 127.0.0.1 consent.truste.com
 127.0.0.1 contactapi.micloud.xiaomi.net
 127.0.0.1 content.jwplatform.com
@@ -932,6 +939,7 @@
 127.0.0.1 dco.quantserve.com
 127.0.0.1 dc.services.visualstudio.com
 127.0.0.1 dd6zx4ibq538k.cloudfront.net
+127.0.0.1 ddacn6pr5v0tl.cloudfront.net
 127.0.0.1 de.cdn-v3.conductrics.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 de.ioam.de
@@ -1208,6 +1216,7 @@
 127.0.0.1 goaltime.contagioussports.com
 127.0.0.1 go.automatad.com
 127.0.0.1 go.ezoic.net
+127.0.0.1 gong-eb.qubit.com
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
@@ -1308,6 +1317,7 @@
 127.0.0.1 images.weserv.nl
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
+127.0.0.1 img.litix.io
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 img.secureserver.net
 127.0.0.1 img.teams.skype.com
@@ -1347,6 +1357,7 @@
 127.0.0.1 ipinfo.io
 127.0.0.1 iploc.tryzens-analytics.com
 127.0.0.1 i.po.st
+127.0.0.1 iqfetqjd.g02.ign.com
 127.0.0.1 ir0.mobify.com
 127.0.0.1 i.rmbl.ws
 127.0.0.1 ir-na.amazon-adsystem.com
@@ -1465,6 +1476,7 @@
 127.0.0.1 logx.optimizely.com
 127.0.0.1 log.zoom.us
 127.0.0.1 lo.idp.liveperson.net
+127.0.0.1 lookup.qubit.com
 127.0.0.1 l.ooyala.com
 127.0.0.1 lo.v.liveperson.net
 127.0.0.1 lp.longtailvideo.com
@@ -1532,6 +1544,7 @@
 127.0.0.1 metrics.icloud.com
 127.0.0.1 metrics-logger.spot.im
 127.0.0.1 metrics-nl.fitanalytics.com
+127.0.0.1 metrics.ol.epicgames.com
 127.0.0.1 mgas.prod.public.atl-paas.net
 127.0.0.1 mgepodownload.mediatek.com
 127.0.0.1 m.hotmail.com
@@ -1663,6 +1676,7 @@
 127.0.0.1 papi.mynativeplatform.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pa.rxthdr.com
+127.0.0.1 paywall-prod.appspot.com
 127.0.0.1 pb-story.playbuzz.com
 127.0.0.1 pcadvisor-uk.intellitxt.com
 127.0.0.1 p.cpx.to
@@ -1675,6 +1689,7 @@
 127.0.0.1 petmd.com
 127.0.0.1 pf.intuit.com
 127.0.0.1 phar.gu-web.net
+127.0.0.1 phonesdata.com
 127.0.0.1 phonograph2.voxmedia.com
 127.0.0.1 photos-ugc.l.googleusercontent.com
 127.0.0.1 p.imgur.com
@@ -1684,6 +1699,7 @@
 127.0.0.1 ping.dozuki.com
 127.0.0.1 ping-meta-prd.jwpltx.com
 127.0.0.1 pinpoint.us-east-1.amazonaws.com
+127.0.0.1 pin-river.data.ea.com
 127.0.0.1 pinterest.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pipe.skype.com
@@ -1789,6 +1805,7 @@
 127.0.0.1 q.quora.com
 127.0.0.1 q.stripe.com
 127.0.0.1 quantcast.mgr.consensu.org
+127.0.0.1 queries.qubit.com
 127.0.0.1 quicksilver.scdn.co
 127.0.0.1 r1---sn-4g5e6nle.googlevideo.com
 127.0.0.1 r1---sn-5hne6n7e.googlevideo.com
@@ -1948,6 +1965,7 @@
 127.0.0.1 rum.optimizely.com
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 run.adrizer.com
+127.0.0.1 runmibom.g02.ign.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s0.ipstatp.com
 127.0.0.1 s0.wp.com
@@ -2096,6 +2114,7 @@
 127.0.0.1 smct.co
 127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 s.media-imdb.com
+127.0.0.1 sm-epsilon.com
 127.0.0.1 smetrics.consumerreports.org
 127.0.0.1 smetrics.element14.com
 127.0.0.1 smetrics.sky.com
@@ -2117,6 +2136,7 @@
 127.0.0.1 sock146-mt1.pusher.com
 127.0.0.1 sock150-mt1.pusher.com
 127.0.0.1 sock151-mt1.pusher.com
+127.0.0.1 sock156-mt1.pusher.com
 127.0.0.1 sock162-mt1.pusher.com
 127.0.0.1 sock165-mt1.pusher.com
 127.0.0.1 sock166-mt1.pusher.com
@@ -2131,6 +2151,7 @@
 127.0.0.1 sock185-mt1.pusher.com
 127.0.0.1 sock186-mt1.pusher.com
 127.0.0.1 sock189-mt1.pusher.com
+127.0.0.1 sock191-mt1.pusher.com
 127.0.0.1 sock200-mt1.pusher.com
 127.0.0.1 socket.streamable.com
 127.0.0.1 sockjs-eu.pusher.com
@@ -2227,6 +2248,7 @@
 127.0.0.1 static.www.turnto.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.ziffdavis.com
+127.0.0.1 static.ziffprod.com
 127.0.0.1 static.zotabox.com
 127.0.0.1 statistics.orderplus.com
 127.0.0.1 stats.appsflyer.com
@@ -2246,6 +2268,7 @@
 127.0.0.1 stats.pusher.com
 127.0.0.1 stats.qalabs.symantec.com
 127.0.0.1 stats.redditmedia.com
+127.0.0.1 stats.sandstorm.game
 127.0.0.1 stats.searchanise.com
 127.0.0.1 stats.sirv.com
 127.0.0.1 stats.svc.halowaypoint.com
@@ -2619,6 +2642,7 @@
 127.0.0.1 www.chicoryapp.com
 127.0.0.1 www.cosmopolitan.com
 127.0.0.1 www.datadoghq-browser-agent.com
+127.0.0.1 www.datadoghq.com
 127.0.0.1 www.dianomi.com
 127.0.0.1 www.drivereasy.com
 127.0.0.1 www.dwin1.com
